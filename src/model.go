@@ -1,7 +1,5 @@
 package main
 
-import "time"
-
 type LastRegionStatus struct {
 	Region         string  `json:"region,omitempty"`
 	Country        string  `json:"country"`
@@ -13,15 +11,14 @@ type LastRegionStatus struct {
 }
 
 type LastCountryStatus struct {
-	Name           string              `json:"name"`
-	ConfirmedCases int                 `json:"confirmed_cases"`
-	Deaths         int                 `json:"deaths"`
-	Recovered      int                 `json:"recovered"`
-	Regions        []LastCountryStatus `json:"regions,omitempty"`
+	Name           string               `json:"name"`
+	ConfirmedCases int                  `json:"confirmed_cases"`
+	Deaths         int                  `json:"deaths"`
+	Recovered      int                  `json:"recovered"`
+	Regions        []*LastCountryStatus `json:"regions,omitempty"`
 }
 
 type FetchData struct {
-	Timestamp time.Time   `json:"timestamp,omitempty"`
-	DataDate  string      `json:"data_date,omitempty"`
-	Data      interface{} `json:"data,omitempty"`
+	DataDate string      `json:"data_date,omitempty"`
+	Data     interface{} `json:"data,omitempty"`
 }

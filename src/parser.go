@@ -15,7 +15,7 @@ func reduceCountries(regions []*LastRegionStatus) []*LastCountryStatus {
 				ConfirmedCases: 0,
 				Deaths:         0,
 				Recovered:      0,
-				Regions:        []LastCountryStatus{},
+				Regions:        []*LastCountryStatus{},
 			}
 		}
 
@@ -25,7 +25,7 @@ func reduceCountries(regions []*LastRegionStatus) []*LastCountryStatus {
 
 		if region != "" && region != country {
 			countries[country].Regions = append(countries[country].Regions,
-				LastCountryStatus{
+				&LastCountryStatus{
 					Name:           region,
 					ConfirmedCases: row.ConfirmedCases,
 					Deaths:         row.Deaths,
@@ -63,7 +63,7 @@ func reduceRegions(countries []*LastCountryStatus) []*LastCountryStatus {
 						ConfirmedCases: 0,
 						Deaths:         0,
 						Recovered:      0,
-						Regions:        []LastCountryStatus{},
+						Regions:        []*LastCountryStatus{},
 					}
 				}
 
@@ -72,7 +72,7 @@ func reduceRegions(countries []*LastCountryStatus) []*LastCountryStatus {
 				subregions[parent].Recovered += region.Recovered
 
 				subregions[parent].Regions = append(subregions[parent].Regions,
-					LastCountryStatus{
+					&LastCountryStatus{
 						Name:           child,
 						ConfirmedCases: region.ConfirmedCases,
 						Deaths:         region.Deaths,
@@ -83,10 +83,10 @@ func reduceRegions(countries []*LastCountryStatus) []*LastCountryStatus {
 		}
 
 		if len(subregions) > 0 {
-			country.Regions = []LastCountryStatus{}
+			country.Regions = []*LastCountryStatus{}
 
 			for _, subr := range subregions {
-				country.Regions = append(country.Regions, *subr)
+				country.Regions = append(country.Regions, subr)
 			}
 		}
 	}

@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"os"
 	"path/filepath"
-	"time"
 )
 
 func encodeToFile(path string, data interface{}) {
@@ -52,20 +51,16 @@ func main() {
 	status = sortRegions(status)
 	countries = sortCountries(countries)
 
-	now := time.Now()
-
 	// Delete older files
 	cleanDir("../docs")
 
 	// Write JSON to docs
 	encodeToFile("../docs/global.json", FetchData{
-		Data:      countries,
-		Timestamp: now,
-		DataDate:  date,
+		Data:     countries,
+		DataDate: date,
 	})
 	encodeToFile("../docs/flat.json", FetchData{
-		Data:      status,
-		Timestamp: now,
-		DataDate:  date,
+		Data:     status,
+		DataDate: date,
 	})
 }

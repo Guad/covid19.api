@@ -41,7 +41,7 @@ func sortCountries(regions []*LastCountryStatus) []*LastCountryStatus {
 			})
 
 			for _, r := range deq.Regions {
-				q = append(q, &r)
+				q = append(q, r)
 			}
 		}
 	}
