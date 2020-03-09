@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"os"
+	"path/filepath"
 	"time"
 )
 
@@ -23,6 +24,26 @@ func encodeToFile(path string, data interface{}) {
 	}
 }
 
+func cleanDir(path string) {
+	err := filepath.Walk(path, func(path string, info os.FileInfo, err error) error {
+		if info.IsDir() {
+			return nil
+		}
+
+		if err != nil {
+			panic(err)
+		}
+
+		err = os.Remove(path)
+
+		return err
+	})
+
+	if err != nil {
+		panic(err)
+	}
+}
+
 func main() {
 	status, date := getLastStatus()
 	countries := reduceCountries(status)
@@ -30,8 +51,11 @@ func main() {
 
 	now := time.Now()
 
+	// Delete older files
+	cleanDir("../docs")
+
 	// Write JSON to docs
-	encodeToFile("../docs/last.json", FetchData{
+	encodeToFile("../docs/global.json", FetchData{
 		Data:      countries,
 		Timestamp: now,
 		DataDate:  date,
