@@ -49,6 +49,9 @@ func main() {
 	countries := reduceCountries(status)
 	countries = reduceRegions(countries)
 
+	status = sortRegions(status)
+	countries = sortCountries(countries)
+
 	now := time.Now()
 
 	// Delete older files
