@@ -28,7 +28,7 @@ jobs:
 
     - name: Build
       working-directory: ./src
-      run: go build -v . -o app
+      run: go build -v -o app .
     - name: Run
       working-directory: ./src
       run: ./app
