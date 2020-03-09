@@ -27,9 +27,35 @@ jobs:
         fi
 
     - name: Build
+      working-directory: ./src
       run: go build -v . -o app
     - name: Run
+      working-directory: ./src
       run: ./app
     - name: Delete Build
+      working-directory: ./src
       run: rm ./app
-      
+    - name: Push back changes
+      env:
+        GHA_DEPLOY_KEY: ${{ secrets.GHA_DEPLOY_KEY }}
+      run: |
+        if ! git diff --no-ext-diff --quiet --exit-code; then
+          git add .
+          
+          git config --local user.email "tip@gha"
+          git config --local user.name "GHA"
+          git commit -a -m "automatic data update"
+          
+          git remote set-url origin "$(git config --get remote.origin.url | sed 's#http.*com/#git@github.com:#g')"
+          
+          eval `ssh-agent -t 60 -s`
+          
+          echo "$GHA_DEPLOY_KEY" | ssh-add -
+          
+          mkdir -p ~/.ssh/
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          
+          git push
+          ssh-agent -k
+        fi 
+          
