@@ -173,63 +173,33 @@
 		},
 		{
 			"name": "Canada",
-			"confirmed_cases": 76,
+			"confirmed_cases": 77,
 			"deaths": 1,
 			"recovered": 8,
 			"regions": [
 				{
 					"name": "Alberta",
-					"confirmed_cases": 0,
+					"confirmed_cases": 7,
 					"deaths": 0,
-					"recovered": 0,
-					"regions": [
-						{
-							"name": "Calgary",
-							"confirmed_cases": 0,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Edmonton",
-							"confirmed_cases": 0,
-							"deaths": 0,
-							"recovered": 0
-						}
-					]
+					"recovered": 0
 				},
 				{
-					"name": "ON",
-					"confirmed_cases": 0,
-					"deaths": 0,
-					"recovered": 0,
-					"regions": [
-						{
-							"name": "London",
-							"confirmed_cases": 0,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Toronto",
-							"confirmed_cases": 0,
-							"deaths": 0,
-							"recovered": 0
-						}
-					]
+					"name": "British Columbia",
+					"confirmed_cases": 32,
+					"deaths": 1,
+					"recovered": 4
 				},
 				{
-					"name": "QC",
-					"confirmed_cases": 0,
+					"name": "Ontario",
+					"confirmed_cases": 34,
 					"deaths": 0,
-					"recovered": 0,
-					"regions": [
-						{
-							"name": "Montreal",
-							"confirmed_cases": 0,
-							"deaths": 0,
-							"recovered": 0
-						}
-					]
+					"recovered": 4
+				},
+				{
+					"name": "Quebec",
+					"confirmed_cases": 4,
+					"deaths": 0,
+					"recovered": 0
 				}
 			]
 		},
@@ -804,12 +774,6 @@
 		{
 			"name": "Qatar",
 			"confirmed_cases": 18,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Republic of Ireland",
-			"confirmed_cases": 0,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1866,12 +1830,6 @@
 						{
 							"name": "Bennington County",
 							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Unassigned Location",
-							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
