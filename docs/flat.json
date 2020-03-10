@@ -1,5 +1,5 @@
 {
-	"data_date": "3/8/20",
+	"data_date": "3/9/20",
 	"data": [
 		{
 			"country": "Afghanistan",
@@ -10,10 +10,18 @@
 			"recovered": 0
 		},
 		{
+			"country": "Albania",
+			"lat": 41.1533,
+			"long": 20.1683,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
 			"country": "Algeria",
 			"lat": 28.0339,
 			"long": 1.6596,
-			"confirmed_cases": 19,
+			"confirmed_cases": 20,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -55,7 +63,7 @@
 			"country": "Australia",
 			"lat": -33.8688,
 			"long": 151.2093,
-			"confirmed_cases": 38,
+			"confirmed_cases": 48,
 			"deaths": 3,
 			"recovered": 4
 		},
@@ -100,7 +108,7 @@
 			"country": "Australia",
 			"lat": -37.8136,
 			"long": 144.9631,
-			"confirmed_cases": 11,
+			"confirmed_cases": 15,
 			"deaths": 0,
 			"recovered": 7
 		},
@@ -109,7 +117,7 @@
 			"country": "Australia",
 			"lat": -31.9505,
 			"long": 115.8605,
-			"confirmed_cases": 3,
+			"confirmed_cases": 4,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -117,9 +125,9 @@
 			"country": "Austria",
 			"lat": 47.5162,
 			"long": 14.5501,
-			"confirmed_cases": 104,
+			"confirmed_cases": 131,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 2
 		},
 		{
 			"country": "Azerbaijan",
@@ -133,9 +141,9 @@
 			"country": "Bahrain",
 			"lat": 26.0275,
 			"long": 50.55,
-			"confirmed_cases": 85,
+			"confirmed_cases": 95,
 			"deaths": 0,
-			"recovered": 4
+			"recovered": 14
 		},
 		{
 			"country": "Bangladesh",
@@ -151,13 +159,13 @@
 			"long": 27.9534,
 			"confirmed_cases": 6,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1
 		},
 		{
 			"country": "Belgium",
 			"lat": 50.8333,
 			"long": 4,
-			"confirmed_cases": 200,
+			"confirmed_cases": 239,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -181,7 +189,15 @@
 			"country": "Brazil",
 			"lat": -14.235,
 			"long": -51.9253,
-			"confirmed_cases": 20,
+			"confirmed_cases": 25,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"country": "Brunei",
+			"lat": 4.5353,
+			"long": 114.7277,
+			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -203,7 +219,7 @@
 		},
 		{
 			"country": "Cameroon",
-			"lat": 3.8480000000000003,
+			"lat": 3.848,
 			"long": 11.5021,
 			"confirmed_cases": 2,
 			"deaths": 0,
@@ -214,7 +230,16 @@
 			"country": "Canada",
 			"lat": 45.5017,
 			"long": -73.5673,
-			"confirmed_cases": 4,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Alberta",
+			"country": "Canada",
+			"lat": 53.9333,
+			"long": -116.5765,
+			"confirmed_cases": 7,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -223,8 +248,8 @@
 			"country": "Canada",
 			"lat": 49.2827,
 			"long": -123.1207,
-			"confirmed_cases": 27,
-			"deaths": 0,
+			"confirmed_cases": 32,
+			"deaths": 1,
 			"recovered": 4
 		},
 		{
@@ -232,7 +257,7 @@
 			"country": "Canada",
 			"lat": 51.0447,
 			"long": -114.0719,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -241,7 +266,7 @@
 			"country": "Canada",
 			"lat": 53.5461,
 			"long": -113.4938,
-			"confirmed_cases": 3,
+			"confirmed_cases": 0,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -250,18 +275,36 @@
 			"country": "Canada",
 			"lat": 42.9849,
 			"long": -81.2453,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0
+		},
+		{
+			"region": "Ontario",
+			"country": "Canada",
+			"lat": 51.2538,
+			"long": -85.3232,
+			"confirmed_cases": 34,
+			"deaths": 0,
+			"recovered": 4
+		},
+		{
+			"region": "Quebec",
+			"country": "Canada",
+			"lat": 52.9399,
+			"long": -73.5491,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0
 		},
 		{
 			"region": "Toronto, ON",
 			"country": "Canada",
 			"lat": 43.6532,
 			"long": -79.3832,
-			"confirmed_cases": 28,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 3
+			"recovered": 0
 		},
 		{
 			"country": "Chile",
@@ -283,7 +326,7 @@
 			"country": "Costa Rica",
 			"lat": 9.7489,
 			"long": -83.7534,
-			"confirmed_cases": 5,
+			"confirmed_cases": 9,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -296,9 +339,17 @@
 			"recovered": 0
 		},
 		{
+			"country": "Cyprus",
+			"lat": 35.1264,
+			"long": 33.4299,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
 			"country": "Czech Republic",
 			"lat": 49.8175,
-			"long": 15.472999999999999,
+			"long": 15.473,
 			"confirmed_cases": 31,
 			"deaths": 0,
 			"recovered": 0
@@ -307,7 +358,7 @@
 			"country": "Denmark",
 			"lat": 56.2639,
 			"long": 9.5018,
-			"confirmed_cases": 35,
+			"confirmed_cases": 90,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -323,7 +374,7 @@
 			"country": "Ecuador",
 			"lat": -1.8312,
 			"long": -78.1834,
-			"confirmed_cases": 14,
+			"confirmed_cases": 15,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -331,9 +382,9 @@
 			"country": "Egypt",
 			"lat": 26,
 			"long": 30,
-			"confirmed_cases": 49,
+			"confirmed_cases": 55,
 			"deaths": 1,
-			"recovered": 1
+			"recovered": 12
 		},
 		{
 			"country": "Estonia",
@@ -355,7 +406,7 @@
 			"country": "Finland",
 			"lat": 64,
 			"long": 26,
-			"confirmed_cases": 23,
+			"confirmed_cases": 30,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -363,7 +414,7 @@
 			"country": "France",
 			"lat": 47,
 			"long": 2,
-			"confirmed_cases": 1126,
+			"confirmed_cases": 1209,
 			"deaths": 19,
 			"recovered": 12
 		},
@@ -379,7 +430,7 @@
 			"country": "Georgia",
 			"lat": 42.3154,
 			"long": 43.3569,
-			"confirmed_cases": 13,
+			"confirmed_cases": 15,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -387,8 +438,8 @@
 			"country": "Germany",
 			"lat": 51,
 			"long": 9,
-			"confirmed_cases": 1040,
-			"deaths": 0,
+			"confirmed_cases": 1176,
+			"deaths": 2,
 			"recovered": 18
 		},
 		{
@@ -412,15 +463,15 @@
 			"country": "Hong Kong",
 			"lat": 22.3,
 			"long": 114.2,
-			"confirmed_cases": 114,
+			"confirmed_cases": 115,
 			"deaths": 3,
-			"recovered": 58
+			"recovered": 59
 		},
 		{
 			"country": "Hungary",
 			"lat": 47.1625,
 			"long": 19.5033,
-			"confirmed_cases": 7,
+			"confirmed_cases": 9,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -428,7 +479,7 @@
 			"country": "Iceland",
 			"lat": 64.9631,
 			"long": -19.0208,
-			"confirmed_cases": 50,
+			"confirmed_cases": 58,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -436,7 +487,7 @@
 			"country": "India",
 			"lat": 21,
 			"long": 78,
-			"confirmed_cases": 39,
+			"confirmed_cases": 43,
 			"deaths": 0,
 			"recovered": 3
 		},
@@ -444,7 +495,7 @@
 			"country": "Indonesia",
 			"lat": -0.7893,
 			"long": 113.9213,
-			"confirmed_cases": 6,
+			"confirmed_cases": 19,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -452,9 +503,9 @@
 			"country": "Iran",
 			"lat": 32,
 			"long": 53,
-			"confirmed_cases": 6566,
-			"deaths": 194,
-			"recovered": 2134
+			"confirmed_cases": 7161,
+			"deaths": 237,
+			"recovered": 2394
 		},
 		{
 			"country": "Iraq",
@@ -462,13 +513,13 @@
 			"long": 44,
 			"confirmed_cases": 60,
 			"deaths": 6,
-			"recovered": 0
+			"recovered": 9
 		},
 		{
 			"country": "Ireland",
 			"lat": 53.1424,
 			"long": -7.6921,
-			"confirmed_cases": 19,
+			"confirmed_cases": 21,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -484,16 +535,16 @@
 			"country": "Italy",
 			"lat": 43,
 			"long": 12,
-			"confirmed_cases": 7375,
-			"deaths": 366,
-			"recovered": 622
+			"confirmed_cases": 9172,
+			"deaths": 463,
+			"recovered": 724
 		},
 		{
 			"country": "Japan",
 			"lat": 36,
 			"long": 138,
-			"confirmed_cases": 502,
-			"deaths": 6,
+			"confirmed_cases": 511,
+			"deaths": 17,
 			"recovered": 76
 		},
 		{
@@ -516,7 +567,7 @@
 			"country": "Latvia",
 			"lat": 56.8796,
 			"long": 24.6032,
-			"confirmed_cases": 2,
+			"confirmed_cases": 6,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -577,7 +628,7 @@
 			"long": 116.4142,
 			"confirmed_cases": 428,
 			"deaths": 8,
-			"recovered": 308
+			"recovered": 315
 		},
 		{
 			"region": "Chongqing",
@@ -586,7 +637,7 @@
 			"long": 107.874,
 			"confirmed_cases": 576,
 			"deaths": 6,
-			"recovered": 527
+			"recovered": 542
 		},
 		{
 			"region": "Fujian",
@@ -604,7 +655,7 @@
 			"long": 103.8343,
 			"confirmed_cases": 124,
 			"deaths": 2,
-			"recovered": 87
+			"recovered": 88
 		},
 		{
 			"region": "Guangdong",
@@ -612,8 +663,8 @@
 			"lat": 23.3417,
 			"long": 113.4244,
 			"confirmed_cases": 1352,
-			"deaths": 7,
-			"recovered": 1256
+			"deaths": 8,
+			"recovered": 1260
 		},
 		{
 			"region": "Guangxi",
@@ -622,7 +673,7 @@
 			"long": 108.7881,
 			"confirmed_cases": 252,
 			"deaths": 2,
-			"recovered": 223
+			"recovered": 230
 		},
 		{
 			"region": "Guizhou",
@@ -631,7 +682,7 @@
 			"long": 106.8748,
 			"confirmed_cases": 146,
 			"deaths": 2,
-			"recovered": 117
+			"recovered": 123
 		},
 		{
 			"region": "Hainan",
@@ -654,17 +705,17 @@
 		{
 			"region": "Heilongjiang",
 			"country": "Mainland China",
-			"lat": 47.861999999999995,
+			"lat": 47.862,
 			"long": 127.7615,
 			"confirmed_cases": 481,
 			"deaths": 13,
-			"recovered": 412
+			"recovered": 430
 		},
 		{
 			"region": "Henan",
 			"country": "Mainland China",
 			"lat": 33.882020000000004,
-			"long": 113.61399999999999,
+			"long": 113.614,
 			"confirmed_cases": 1272,
 			"deaths": 22,
 			"recovered": 1247
@@ -674,9 +725,9 @@
 			"country": "Mainland China",
 			"lat": 30.9756,
 			"long": 112.2707,
-			"confirmed_cases": 67707,
-			"deaths": 2986,
-			"recovered": 45235
+			"confirmed_cases": 67743,
+			"deaths": 3008,
+			"recovered": 46488
 		},
 		{
 			"region": "Hunan",
@@ -685,7 +736,7 @@
 			"long": 111.7088,
 			"confirmed_cases": 1018,
 			"deaths": 4,
-			"recovered": 968
+			"recovered": 979
 		},
 		{
 			"region": "Inner Mongolia",
@@ -703,7 +754,7 @@
 			"long": 119.455,
 			"confirmed_cases": 631,
 			"deaths": 0,
-			"recovered": 612
+			"recovered": 621
 		},
 		{
 			"region": "Jiangxi",
@@ -712,7 +763,7 @@
 			"long": 115.7221,
 			"confirmed_cases": 935,
 			"deaths": 1,
-			"recovered": 919
+			"recovered": 923
 		},
 		{
 			"region": "Jilin",
@@ -721,7 +772,7 @@
 			"long": 126.1923,
 			"confirmed_cases": 93,
 			"deaths": 1,
-			"recovered": 90
+			"recovered": 91
 		},
 		{
 			"region": "Liaoning",
@@ -766,16 +817,16 @@
 			"long": 118.1498,
 			"confirmed_cases": 758,
 			"deaths": 6,
-			"recovered": 642
+			"recovered": 700
 		},
 		{
 			"region": "Shanghai",
 			"country": "Mainland China",
-			"lat": 31.201999999999998,
+			"lat": 31.202,
 			"long": 121.4491,
 			"confirmed_cases": 342,
 			"deaths": 3,
-			"recovered": 314
+			"recovered": 315
 		},
 		{
 			"region": "Shanxi",
@@ -784,7 +835,7 @@
 			"long": 112.2922,
 			"confirmed_cases": 133,
 			"deaths": 0,
-			"recovered": 126
+			"recovered": 127
 		},
 		{
 			"region": "Sichuan",
@@ -793,7 +844,7 @@
 			"long": 102.7103,
 			"confirmed_cases": 539,
 			"deaths": 3,
-			"recovered": 464
+			"recovered": 466
 		},
 		{
 			"region": "Tianjin",
@@ -802,7 +853,7 @@
 			"long": 117.323,
 			"confirmed_cases": 136,
 			"deaths": 3,
-			"recovered": 128
+			"recovered": 130
 		},
 		{
 			"region": "Tibet",
@@ -826,7 +877,7 @@
 			"region": "Yunnan",
 			"country": "Mainland China",
 			"lat": 24.974,
-			"long": 101.48700000000001,
+			"long": 101.487,
 			"confirmed_cases": 174,
 			"deaths": 2,
 			"recovered": 170
@@ -838,13 +889,13 @@
 			"long": 120.0934,
 			"confirmed_cases": 1215,
 			"deaths": 1,
-			"recovered": 1161
+			"recovered": 1176
 		},
 		{
 			"country": "Malaysia",
 			"lat": 2.5,
 			"long": 112.5,
-			"confirmed_cases": 99,
+			"confirmed_cases": 117,
 			"deaths": 0,
 			"recovered": 24
 		},
@@ -916,7 +967,7 @@
 			"country": "Netherlands",
 			"lat": 52.1326,
 			"long": 5.2913,
-			"confirmed_cases": 265,
+			"confirmed_cases": 321,
 			"deaths": 3,
 			"recovered": 0
 		},
@@ -932,7 +983,7 @@
 			"country": "Nigeria",
 			"lat": 9.082,
 			"long": 8.6753,
-			"confirmed_cases": 1,
+			"confirmed_cases": 2,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -948,9 +999,9 @@
 			"country": "Norway",
 			"lat": 60.472,
 			"long": 8.4689,
-			"confirmed_cases": 176,
+			"confirmed_cases": 205,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1
 		},
 		{
 			"country": "Oman",
@@ -997,7 +1048,7 @@
 			"country": "Peru",
 			"lat": -9.19,
 			"long": -75.0152,
-			"confirmed_cases": 6,
+			"confirmed_cases": 7,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1005,7 +1056,7 @@
 			"country": "Philippines",
 			"lat": 13,
 			"long": 122,
-			"confirmed_cases": 10,
+			"confirmed_cases": 20,
 			"deaths": 1,
 			"recovered": 1
 		},
@@ -1013,7 +1064,7 @@
 			"country": "Poland",
 			"lat": 51.9194,
 			"long": 19.1451,
-			"confirmed_cases": 11,
+			"confirmed_cases": 16,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1029,7 +1080,7 @@
 			"country": "Qatar",
 			"lat": 25.3548,
 			"long": 51.1839,
-			"confirmed_cases": 15,
+			"confirmed_cases": 18,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1037,7 +1088,7 @@
 			"country": "Republic of Ireland",
 			"lat": 53.1424,
 			"long": -7.6921,
-			"confirmed_cases": 21,
+			"confirmed_cases": 0,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1061,7 +1112,7 @@
 			"country": "Saint Barthelemy",
 			"lat": 17.9,
 			"long": -62.8333,
-			"confirmed_cases": 3,
+			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1077,7 +1128,7 @@
 			"country": "Saudi Arabia",
 			"lat": 24,
 			"long": 45,
-			"confirmed_cases": 11,
+			"confirmed_cases": 15,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1133,17 +1184,17 @@
 			"country": "South Korea",
 			"lat": 36,
 			"long": 128,
-			"confirmed_cases": 7314,
-			"deaths": 50,
+			"confirmed_cases": 7478,
+			"deaths": 53,
 			"recovered": 118
 		},
 		{
 			"country": "Spain",
 			"lat": 40,
 			"long": -4,
-			"confirmed_cases": 673,
-			"deaths": 17,
-			"recovered": 30
+			"confirmed_cases": 1073,
+			"deaths": 28,
+			"recovered": 32
 		},
 		{
 			"country": "Sri Lanka",
@@ -1154,18 +1205,26 @@
 			"recovered": 1
 		},
 		{
+			"country": "St. Martin",
+			"lat": 18.0708,
+			"long": -63.0501,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
 			"country": "Sweden",
 			"lat": 63,
 			"long": 16,
-			"confirmed_cases": 203,
+			"confirmed_cases": 248,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1
 		},
 		{
 			"country": "Switzerland",
 			"lat": 46.8182,
 			"long": 8.2275,
-			"confirmed_cases": 337,
+			"confirmed_cases": 374,
 			"deaths": 2,
 			"recovered": 3
 		},
@@ -1176,7 +1235,7 @@
 			"long": 121,
 			"confirmed_cases": 45,
 			"deaths": 1,
-			"recovered": 13
+			"recovered": 15
 		},
 		{
 			"country": "Thailand",
@@ -1206,8 +1265,8 @@
 			"country": "UK",
 			"lat": 55,
 			"long": -3,
-			"confirmed_cases": 273,
-			"deaths": 3,
+			"confirmed_cases": 321,
+			"deaths": 4,
 			"recovered": 18
 		},
 		{
@@ -1225,6 +1284,15 @@
 			"lat": 37.6017,
 			"long": -121.7195,
 			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Bennington County, VT",
+			"country": "US",
+			"lat": 43.0279,
+			"long": -73.135,
+			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1251,7 +1319,16 @@
 			"country": "US",
 			"lat": 26.1901,
 			"long": -80.3659,
-			"confirmed_cases": 2,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Carver County, MN",
+			"country": "US",
+			"lat": 44.8254,
+			"long": -93.7842,
+			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1265,10 +1342,28 @@
 			"recovered": 0
 		},
 		{
+			"region": "Charlotte County, FL",
+			"country": "US",
+			"lat": 26.8946,
+			"long": -81.9098,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
 			"region": "Chatham County, NC",
 			"country": "US",
 			"lat": 35.7211,
 			"long": -79.1781,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Cherokee County, GA",
+			"country": "US",
+			"lat": 34.2515,
+			"long": -84.4803,
 			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
@@ -1296,6 +1391,15 @@
 			"country": "US",
 			"lat": 33.8999,
 			"long": -84.5641,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Collin County, TX",
+			"country": "US",
+			"lat": 33.1795,
+			"long": -96.493,
 			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
@@ -1368,7 +1472,7 @@
 			"country": "US",
 			"lat": 41.3148,
 			"long": -96.1951,
-			"confirmed_cases": 1,
+			"confirmed_cases": 3,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1440,7 +1544,7 @@
 			"country": "US",
 			"lat": 33.8034,
 			"long": -84.3963,
-			"confirmed_cases": 3,
+			"confirmed_cases": 5,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1448,7 +1552,7 @@
 			"region": "Grafton County, NH",
 			"country": "US",
 			"lat": 43.9088,
-			"long": -71.82600000000001,
+			"long": -71.82600000000002,
 			"confirmed_cases": 4,
 			"deaths": 0,
 			"recovered": 0
@@ -1468,7 +1572,7 @@
 			"lat": 47.1981,
 			"long": -119.3732,
 			"confirmed_cases": 1,
-			"deaths": 0,
+			"deaths": 1,
 			"recovered": 0
 		},
 		{
@@ -1485,7 +1589,16 @@
 			"country": "US",
 			"lat": 29.7752,
 			"long": -95.3103,
-			"confirmed_cases": 5,
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Harrison County, KY",
+			"country": "US",
+			"lat": 38.4333,
+			"long": -84.3542,
+			"confirmed_cases": 2,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1494,7 +1607,7 @@
 			"country": "US",
 			"lat": 39.8065,
 			"long": -86.5401,
-			"confirmed_cases": 1,
+			"confirmed_cases": 2,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1512,7 +1625,7 @@
 			"country": "US",
 			"lat": 21.307,
 			"long": -157.8584,
-			"confirmed_cases": 1,
+			"confirmed_cases": 2,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1544,11 +1657,38 @@
 			"recovered": 0
 		},
 		{
+			"region": "Jefferson County, KY",
+			"country": "US",
+			"lat": 38.1938,
+			"long": -85.6435,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
 			"region": "Jefferson County, WA",
 			"country": "US",
 			"lat": 47.7425,
 			"long": -123.304,
 			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Jefferson Parish, LA",
+			"country": "US",
+			"lat": 29.6499,
+			"long": -90.1121,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Johnson County, IA",
+			"country": "US",
+			"lat": 41.6699,
+			"long": -91.5984,
+			"confirmed_cases": 3,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1566,7 +1706,7 @@
 			"country": "US",
 			"lat": 34.3672,
 			"long": -80.5883,
-			"confirmed_cases": 1,
+			"confirmed_cases": 4,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1647,7 +1787,7 @@
 			"country": "US",
 			"lat": 27.4799,
 			"long": -82.3452,
-			"confirmed_cases": 1,
+			"confirmed_cases": 2,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1701,7 +1841,7 @@
 			"country": "US",
 			"lat": 40.229,
 			"long": -75.3879,
-			"confirmed_cases": 4,
+			"confirmed_cases": 5,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1719,7 +1859,7 @@
 			"country": "US",
 			"lat": 40.6546,
 			"long": -73.5594,
-			"confirmed_cases": 5,
+			"confirmed_cases": 17,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1728,7 +1868,7 @@
 			"country": "US",
 			"lat": 40.7128,
 			"long": -74.006,
-			"confirmed_cases": 12,
+			"confirmed_cases": 19,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1755,7 +1895,7 @@
 			"country": "US",
 			"lat": 33.7879,
 			"long": -117.8531,
-			"confirmed_cases": 3,
+			"confirmed_cases": 4,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1782,7 +1922,7 @@
 			"country": "US",
 			"lat": 39.0916,
 			"long": -120.8039,
-			"confirmed_cases": 5,
+			"confirmed_cases": 7,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -1836,7 +1976,7 @@
 			"country": "US",
 			"lat": 42.9931,
 			"long": -71.0498,
-			"confirmed_cases": 2,
+			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1845,7 +1985,7 @@
 			"country": "US",
 			"lat": 41.1489,
 			"long": -73.983,
-			"confirmed_cases": 2,
+			"confirmed_cases": 4,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1915,7 +2055,7 @@
 		{
 			"region": "Santa Rosa County, FL",
 			"country": "US",
-			"lat": 30.769000000000002,
+			"lat": 30.769,
 			"long": -86.9824,
 			"confirmed_cases": 1,
 			"deaths": 1,
@@ -1936,6 +2076,15 @@
 			"lat": 43.0324,
 			"long": -73.936,
 			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Shasta County, CA",
+			"country": "US",
+			"lat": 40.7909,
+			"long": -121.8474,
+			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1962,6 +2111,15 @@
 			"country": "US",
 			"lat": 38.578,
 			"long": -122.9888,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Spartanburg County, SC",
+			"country": "US",
+			"lat": 34.8606,
+			"long": -81.9535,
 			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
@@ -2061,7 +2219,7 @@
 			"country": "US",
 			"lat": 44.3378,
 			"long": -72.7563,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2086,7 +2244,7 @@
 		{
 			"region": "Volusia County, FL",
 			"country": "US",
-			"lat": 29.028000000000002,
+			"lat": 29.028,
 			"long": -81.0755,
 			"confirmed_cases": 1,
 			"deaths": 0,
@@ -2142,7 +2300,7 @@
 			"country": "US",
 			"lat": 41.122,
 			"long": -73.7949,
-			"confirmed_cases": 83,
+			"confirmed_cases": 98,
 			"deaths": 0,
 			"recovered": 0
 		},
