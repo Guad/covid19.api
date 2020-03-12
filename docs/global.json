@@ -1,16 +1,16 @@
 {
-	"data_date": "3/10/20",
+	"data_date": "3/11/20",
 	"data": [
 		{
 			"name": "Afghanistan",
-			"confirmed_cases": 5,
+			"confirmed_cases": 7,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Albania",
-			"confirmed_cases": 10,
-			"deaths": 0,
+			"confirmed_cases": 12,
+			"deaths": 1,
 			"recovered": 0
 		},
 		{
@@ -27,7 +27,7 @@
 		},
 		{
 			"name": "Argentina",
-			"confirmed_cases": 17,
+			"confirmed_cases": 19,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -39,7 +39,7 @@
 		},
 		{
 			"name": "Australia",
-			"confirmed_cases": 107,
+			"confirmed_cases": 128,
 			"deaths": 3,
 			"recovered": 21,
 			"regions": [
@@ -51,7 +51,7 @@
 				},
 				{
 					"name": "New South Wales",
-					"confirmed_cases": 55,
+					"confirmed_cases": 65,
 					"deaths": 2,
 					"recovered": 4
 				},
@@ -63,31 +63,31 @@
 				},
 				{
 					"name": "Queensland",
-					"confirmed_cases": 18,
+					"confirmed_cases": 20,
 					"deaths": 0,
 					"recovered": 8
 				},
 				{
 					"name": "South Australia",
-					"confirmed_cases": 7,
+					"confirmed_cases": 9,
 					"deaths": 0,
 					"recovered": 2
 				},
 				{
 					"name": "Tasmania",
-					"confirmed_cases": 2,
+					"confirmed_cases": 3,
 					"deaths": 0,
 					"recovered": 0
 				},
 				{
 					"name": "Victoria",
-					"confirmed_cases": 18,
+					"confirmed_cases": 21,
 					"deaths": 0,
 					"recovered": 7
 				},
 				{
 					"name": "Western Australia",
-					"confirmed_cases": 6,
+					"confirmed_cases": 9,
 					"deaths": 1,
 					"recovered": 0
 				}
@@ -95,7 +95,7 @@
 		},
 		{
 			"name": "Austria",
-			"confirmed_cases": 182,
+			"confirmed_cases": 246,
 			"deaths": 0,
 			"recovered": 4
 		},
@@ -103,13 +103,13 @@
 			"name": "Azerbaijan",
 			"confirmed_cases": 11,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 3
 		},
 		{
 			"name": "Bahrain",
-			"confirmed_cases": 110,
+			"confirmed_cases": 195,
 			"deaths": 0,
-			"recovered": 22
+			"recovered": 35
 		},
 		{
 			"name": "Bangladesh",
@@ -125,8 +125,8 @@
 		},
 		{
 			"name": "Belgium",
-			"confirmed_cases": 267,
-			"deaths": 0,
+			"confirmed_cases": 314,
+			"deaths": 3,
 			"recovered": 1
 		},
 		{
@@ -136,38 +136,44 @@
 			"recovered": 0
 		},
 		{
+			"name": "Bolivia",
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
 			"name": "Bosnia and Herzegovina",
-			"confirmed_cases": 5,
+			"confirmed_cases": 7,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Brazil",
-			"confirmed_cases": 31,
+			"confirmed_cases": 38,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Brunei",
-			"confirmed_cases": 1,
+			"confirmed_cases": 11,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Bulgaria",
-			"confirmed_cases": 4,
-			"deaths": 0,
+			"confirmed_cases": 7,
+			"deaths": 1,
 			"recovered": 0
 		},
 		{
 			"name": "Burkina Faso",
-			"confirmed_cases": 1,
+			"confirmed_cases": 2,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Cambodia",
-			"confirmed_cases": 2,
+			"confirmed_cases": 3,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -179,31 +185,37 @@
 		},
 		{
 			"name": "Canada",
-			"confirmed_cases": 79,
+			"confirmed_cases": 108,
 			"deaths": 1,
 			"recovered": 8,
 			"regions": [
 				{
 					"name": "Alberta",
-					"confirmed_cases": 7,
+					"confirmed_cases": 19,
 					"deaths": 0,
 					"recovered": 0
 				},
 				{
 					"name": "British Columbia",
-					"confirmed_cases": 32,
+					"confirmed_cases": 39,
 					"deaths": 1,
 					"recovered": 4
 				},
 				{
+					"name": "New Brunswick",
+					"confirmed_cases": 1,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
 					"name": "Ontario",
-					"confirmed_cases": 36,
+					"confirmed_cases": 41,
 					"deaths": 0,
 					"recovered": 4
 				},
 				{
 					"name": "Quebec",
-					"confirmed_cases": 4,
+					"confirmed_cases": 8,
 					"deaths": 0,
 					"recovered": 0
 				}
@@ -211,265 +223,21 @@
 		},
 		{
 			"name": "Channel Islands",
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Chile",
-			"confirmed_cases": 13,
+			"confirmed_cases": 23,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
-			"name": "Colombia",
-			"confirmed_cases": 3,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Costa Rica",
-			"confirmed_cases": 9,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Croatia",
-			"confirmed_cases": 14,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Cyprus",
-			"confirmed_cases": 3,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Czech Republic",
-			"confirmed_cases": 41,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Denmark",
-			"confirmed_cases": 262,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"name": "Dominican Republic",
-			"confirmed_cases": 5,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Ecuador",
-			"confirmed_cases": 15,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Egypt",
-			"confirmed_cases": 59,
-			"deaths": 1,
-			"recovered": 1
-		},
-		{
-			"name": "Estonia",
-			"confirmed_cases": 12,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Faroe Islands",
-			"confirmed_cases": 2,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Finland",
-			"confirmed_cases": 40,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"name": "France",
-			"confirmed_cases": 1784,
-			"deaths": 33,
-			"recovered": 12
-		},
-		{
-			"name": "French Guiana",
-			"confirmed_cases": 5,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Georgia",
-			"confirmed_cases": 15,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Germany",
-			"confirmed_cases": 1457,
-			"deaths": 2,
-			"recovered": 18
-		},
-		{
-			"name": "Gibraltar",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"name": "Greece",
-			"confirmed_cases": 89,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Holy See",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Hong Kong SAR",
-			"confirmed_cases": 120,
-			"deaths": 3,
-			"recovered": 65,
-			"regions": [
-				{
-					"name": "Hong Kong",
-					"confirmed_cases": 120,
-					"deaths": 3,
-					"recovered": 65
-				}
-			]
-		},
-		{
-			"name": "Hungary",
-			"confirmed_cases": 9,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Iceland",
-			"confirmed_cases": 69,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"name": "India",
-			"confirmed_cases": 56,
-			"deaths": 0,
-			"recovered": 4
-		},
-		{
-			"name": "Indonesia",
-			"confirmed_cases": 27,
-			"deaths": 0,
-			"recovered": 2
-		},
-		{
-			"name": "Iran (Islamic Republic of)",
-			"confirmed_cases": 8042,
-			"deaths": 291,
-			"recovered": 2731
-		},
-		{
-			"name": "Iraq",
-			"confirmed_cases": 71,
-			"deaths": 7,
-			"recovered": 3
-		},
-		{
-			"name": "Ireland",
-			"confirmed_cases": 34,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Israel",
-			"confirmed_cases": 58,
-			"deaths": 0,
-			"recovered": 4
-		},
-		{
-			"name": "Italy",
-			"confirmed_cases": 10149,
-			"deaths": 631,
-			"recovered": 724
-		},
-		{
-			"name": "Japan",
-			"confirmed_cases": 581,
-			"deaths": 10,
-			"recovered": 101
-		},
-		{
-			"name": "Jordan",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Kuwait",
-			"confirmed_cases": 69,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"name": "Latvia",
-			"confirmed_cases": 8,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"name": "Lebanon",
-			"confirmed_cases": 41,
-			"deaths": 1,
-			"recovered": 1
-		},
-		{
-			"name": "Liechtenstein",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Lithuania",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Luxembourg",
-			"confirmed_cases": 5,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Macao SAR",
-			"confirmed_cases": 10,
-			"deaths": 0,
-			"recovered": 10,
-			"regions": [
-				{
-					"name": "Macau",
-					"confirmed_cases": 10,
-					"deaths": 0,
-					"recovered": 10
-				}
-			]
-		},
-		{
-			"name": "Mainland China",
-			"confirmed_cases": 80757,
-			"deaths": 3136,
-			"recovered": 60106,
+			"name": "China",
+			"confirmed_cases": 80921,
+			"deaths": 3161,
+			"recovered": 61644,
 			"regions": [
 				{
 					"name": "Anhui",
@@ -479,15 +247,15 @@
 				},
 				{
 					"name": "Beijing",
-					"confirmed_cases": 429,
+					"confirmed_cases": 435,
 					"deaths": 8,
-					"recovered": 320
+					"recovered": 326
 				},
 				{
 					"name": "Chongqing",
 					"confirmed_cases": 576,
 					"deaths": 6,
-					"recovered": 547
+					"recovered": 554
 				},
 				{
 					"name": "Fujian",
@@ -497,27 +265,27 @@
 				},
 				{
 					"name": "Gansu",
-					"confirmed_cases": 125,
+					"confirmed_cases": 127,
 					"deaths": 2,
 					"recovered": 88
 				},
 				{
 					"name": "Guangdong",
-					"confirmed_cases": 1353,
+					"confirmed_cases": 1356,
 					"deaths": 8,
-					"recovered": 1274
+					"recovered": 1282
 				},
 				{
 					"name": "Guangxi",
 					"confirmed_cases": 252,
 					"deaths": 2,
-					"recovered": 234
+					"recovered": 238
 				},
 				{
 					"name": "Guizhou",
 					"confirmed_cases": 146,
 					"deaths": 2,
-					"recovered": 129
+					"recovered": 133
 				},
 				{
 					"name": "Hainan",
@@ -533,33 +301,39 @@
 				},
 				{
 					"name": "Heilongjiang",
-					"confirmed_cases": 481,
+					"confirmed_cases": 482,
 					"deaths": 13,
-					"recovered": 434
+					"recovered": 436
 				},
 				{
 					"name": "Henan",
-					"confirmed_cases": 1272,
+					"confirmed_cases": 1273,
 					"deaths": 22,
-					"recovered": 1247
+					"recovered": 1249
+				},
+				{
+					"name": "Hong Kong",
+					"confirmed_cases": 126,
+					"deaths": 3,
+					"recovered": 65
 				},
 				{
 					"name": "Hubei",
-					"confirmed_cases": 67760,
-					"deaths": 3024,
-					"recovered": 47743
+					"confirmed_cases": 67773,
+					"deaths": 3046,
+					"recovered": 49134
 				},
 				{
 					"name": "Hunan",
 					"confirmed_cases": 1018,
 					"deaths": 4,
-					"recovered": 990
+					"recovered": 995
 				},
 				{
 					"name": "Inner Mongolia",
 					"confirmed_cases": 75,
 					"deaths": 1,
-					"recovered": 70
+					"recovered": 71
 				},
 				{
 					"name": "Jiangsu",
@@ -571,7 +345,7 @@
 					"name": "Jiangxi",
 					"confirmed_cases": 935,
 					"deaths": 1,
-					"recovered": 927
+					"recovered": 932
 				},
 				{
 					"name": "Jilin",
@@ -586,10 +360,16 @@
 					"recovered": 111
 				},
 				{
+					"name": "Macau",
+					"confirmed_cases": 10,
+					"deaths": 0,
+					"recovered": 10
+				},
+				{
 					"name": "Ningxia",
 					"confirmed_cases": 75,
 					"deaths": 0,
-					"recovered": 71
+					"recovered": 72
 				},
 				{
 					"name": "Qinghai",
@@ -601,19 +381,19 @@
 					"name": "Shaanxi",
 					"confirmed_cases": 245,
 					"deaths": 1,
-					"recovered": 227
+					"recovered": 232
 				},
 				{
 					"name": "Shandong",
-					"confirmed_cases": 758,
+					"confirmed_cases": 760,
 					"deaths": 6,
-					"recovered": 719
+					"recovered": 726
 				},
 				{
 					"name": "Shanghai",
 					"confirmed_cases": 344,
 					"deaths": 3,
-					"recovered": 319
+					"recovered": 320
 				},
 				{
 					"name": "Shanxi",
@@ -625,7 +405,7 @@
 					"name": "Sichuan",
 					"confirmed_cases": 539,
 					"deaths": 3,
-					"recovered": 478
+					"recovered": 488
 				},
 				{
 					"name": "Tianjin",
@@ -655,39 +435,561 @@
 					"name": "Zhejiang",
 					"confirmed_cases": 1215,
 					"deaths": 1,
-					"recovered": 1191
+					"recovered": 1195
 				}
 			]
 		},
 		{
-			"name": "Malaysia",
-			"confirmed_cases": 129,
+			"name": "Colombia",
+			"confirmed_cases": 9,
 			"deaths": 0,
-			"recovered": 24
+			"recovered": 0
 		},
 		{
-			"name": "Maldives",
+			"name": "Congo (Kinshasa)",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Costa Rica",
+			"confirmed_cases": 13,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Cote d'Ivoire",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Croatia",
+			"confirmed_cases": 19,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Cruise Ship",
+			"confirmed_cases": 696,
+			"deaths": 7,
+			"recovered": 325,
+			"regions": [
+				{
+					"name": "Diamond Princess",
+					"confirmed_cases": 696,
+					"deaths": 7,
+					"recovered": 325
+				}
+			]
+		},
+		{
+			"name": "Cyprus",
 			"confirmed_cases": 6,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
-			"name": "Malta",
+			"name": "Czech Republic",
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Czechia",
+			"confirmed_cases": 91,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Denmark",
+			"confirmed_cases": 444,
+			"deaths": 0,
+			"recovered": 1,
+			"regions": [
+				{
+					"name": "Faroe Islands",
+					"confirmed_cases": 2,
+					"deaths": 0,
+					"recovered": 0
+				}
+			]
+		},
+		{
+			"name": "Dominican Republic",
 			"confirmed_cases": 5,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
-			"name": "Martinique",
+			"name": "Ecuador",
+			"confirmed_cases": 17,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Egypt",
+			"confirmed_cases": 60,
+			"deaths": 1,
+			"recovered": 27
+		},
+		{
+			"name": "Estonia",
+			"confirmed_cases": 16,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Faroe Islands",
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Finland",
+			"confirmed_cases": 59,
+			"deaths": 0,
+			"recovered": 1
+		},
+		{
+			"name": "France",
+			"confirmed_cases": 2284,
+			"deaths": 48,
+			"recovered": 12,
+			"regions": [
+				{
+					"name": "Saint Barthelemy",
+					"confirmed_cases": 1,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "St Martin",
+					"confirmed_cases": 2,
+					"deaths": 0,
+					"recovered": 0
+				}
+			]
+		},
+		{
+			"name": "French Guiana",
+			"confirmed_cases": 5,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Georgia",
+			"confirmed_cases": 24,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Germany",
+			"confirmed_cases": 1908,
+			"deaths": 3,
+			"recovered": 25
+		},
+		{
+			"name": "Gibraltar",
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Greece",
+			"confirmed_cases": 99,
+			"deaths": 1,
+			"recovered": 0
+		},
+		{
+			"name": "Holy See",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Honduras",
 			"confirmed_cases": 2,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
-			"name": "Mexico",
-			"confirmed_cases": 7,
+			"name": "Hong Kong SAR",
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"regions": [
+				{
+					"name": "Hong Kong",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				}
+			]
+		},
+		{
+			"name": "Hungary",
+			"confirmed_cases": 13,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Iceland",
+			"confirmed_cases": 85,
+			"deaths": 0,
+			"recovered": 1
+		},
+		{
+			"name": "India",
+			"confirmed_cases": 62,
+			"deaths": 1,
+			"recovered": 4
+		},
+		{
+			"name": "Indonesia",
+			"confirmed_cases": 34,
+			"deaths": 1,
+			"recovered": 2
+		},
+		{
+			"name": "Iran",
+			"confirmed_cases": 9000,
+			"deaths": 354,
+			"recovered": 2959
+		},
+		{
+			"name": "Iran (Islamic Republic of)",
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Iraq",
+			"confirmed_cases": 71,
+			"deaths": 7,
+			"recovered": 15
+		},
+		{
+			"name": "Ireland",
+			"confirmed_cases": 43,
+			"deaths": 1,
+			"recovered": 0
+		},
+		{
+			"name": "Israel",
+			"confirmed_cases": 109,
 			"deaths": 0,
 			"recovered": 4
+		},
+		{
+			"name": "Italy",
+			"confirmed_cases": 12462,
+			"deaths": 827,
+			"recovered": 1045
+		},
+		{
+			"name": "Jamaica",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Japan",
+			"confirmed_cases": 639,
+			"deaths": 15,
+			"recovered": 118
+		},
+		{
+			"name": "Jordan",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Korea, South",
+			"confirmed_cases": 7755,
+			"deaths": 60,
+			"recovered": 288
+		},
+		{
+			"name": "Kuwait",
+			"confirmed_cases": 72,
+			"deaths": 0,
+			"recovered": 2
+		},
+		{
+			"name": "Latvia",
+			"confirmed_cases": 10,
+			"deaths": 0,
+			"recovered": 1
+		},
+		{
+			"name": "Lebanon",
+			"confirmed_cases": 61,
+			"deaths": 3,
+			"recovered": 1
+		},
+		{
+			"name": "Liechtenstein",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Lithuania",
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Luxembourg",
+			"confirmed_cases": 7,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Macao SAR",
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"regions": [
+				{
+					"name": "Macau",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				}
+			]
+		},
+		{
+			"name": "Mainland China",
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"regions": [
+				{
+					"name": "Anhui",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Beijing",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Chongqing",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Fujian",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Gansu",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Guangdong",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Guangxi",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Guizhou",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Hainan",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Hebei",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Heilongjiang",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Henan",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Hubei",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Hunan",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Inner Mongolia",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Jiangsu",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Jiangxi",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Jilin",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Liaoning",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Ningxia",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Qinghai",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Shaanxi",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Shandong",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Shanghai",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Shanxi",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Sichuan",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Tianjin",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Tibet",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Xinjiang",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Yunnan",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Zhejiang",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
+				}
+			]
+		},
+		{
+			"name": "Malaysia",
+			"confirmed_cases": 149,
+			"deaths": 0,
+			"recovered": 26
+		},
+		{
+			"name": "Maldives",
+			"confirmed_cases": 8,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Malta",
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Martinique",
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Mexico",
+			"confirmed_cases": 8,
+			"deaths": 0,
+			"recovered": 4
+		},
+		{
+			"name": "Moldova",
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0
 		},
 		{
 			"name": "Monaco",
@@ -703,7 +1005,7 @@
 		},
 		{
 			"name": "Morocco",
-			"confirmed_cases": 3,
+			"confirmed_cases": 5,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -715,8 +1017,8 @@
 		},
 		{
 			"name": "Netherlands",
-			"confirmed_cases": 382,
-			"deaths": 4,
+			"confirmed_cases": 503,
+			"deaths": 5,
 			"recovered": 0
 		},
 		{
@@ -739,7 +1041,7 @@
 		},
 		{
 			"name": "Norway",
-			"confirmed_cases": 400,
+			"confirmed_cases": 598,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -751,33 +1053,33 @@
 		},
 		{
 			"name": "Others",
-			"confirmed_cases": 696,
-			"deaths": 6,
-			"recovered": 40,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
 			"regions": [
 				{
 					"name": "Diamond Princess cruise ship",
-					"confirmed_cases": 696,
-					"deaths": 6,
-					"recovered": 40
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
 				}
 			]
 		},
 		{
 			"name": "Pakistan",
-			"confirmed_cases": 16,
+			"confirmed_cases": 19,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 2
 		},
 		{
 			"name": "Panama",
-			"confirmed_cases": 1,
-			"deaths": 0,
+			"confirmed_cases": 8,
+			"deaths": 1,
 			"recovered": 0
 		},
 		{
 			"name": "Paraguay",
-			"confirmed_cases": 1,
+			"confirmed_cases": 5,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -789,73 +1091,85 @@
 		},
 		{
 			"name": "Philippines",
-			"confirmed_cases": 33,
+			"confirmed_cases": 49,
 			"deaths": 1,
 			"recovered": 2
 		},
 		{
 			"name": "Poland",
-			"confirmed_cases": 22,
+			"confirmed_cases": 31,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Portugal",
-			"confirmed_cases": 41,
+			"confirmed_cases": 59,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Qatar",
-			"confirmed_cases": 24,
+			"confirmed_cases": 262,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Republic of Korea",
-			"confirmed_cases": 7513,
-			"deaths": 54,
-			"recovered": 247
-		},
-		{
-			"name": "Republic of Moldova",
-			"confirmed_cases": 3,
+			"confirmed_cases": 0,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
-			"name": "Romania",
-			"confirmed_cases": 25,
+			"name": "Republic of Moldova",
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 3
+			"recovered": 0
 		},
 		{
-			"name": "Russian Federation",
-			"confirmed_cases": 20,
-			"deaths": 0,
-			"recovered": 3
-		},
-		{
-			"name": "Saint Barthelemy",
+			"name": "Reunion",
 			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
+			"name": "Romania",
+			"confirmed_cases": 45,
+			"deaths": 0,
+			"recovered": 6
+		},
+		{
+			"name": "Russia",
+			"confirmed_cases": 20,
+			"deaths": 0,
+			"recovered": 3
+		},
+		{
+			"name": "Russian Federation",
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Saint Barthelemy",
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
 			"name": "Saint Martin",
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "San Marino",
-			"confirmed_cases": 51,
+			"confirmed_cases": 62,
 			"deaths": 2,
 			"recovered": 0
 		},
 		{
 			"name": "Saudi Arabia",
-			"confirmed_cases": 20,
+			"confirmed_cases": 21,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -867,77 +1181,83 @@
 		},
 		{
 			"name": "Serbia",
-			"confirmed_cases": 5,
+			"confirmed_cases": 12,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Singapore",
-			"confirmed_cases": 160,
+			"confirmed_cases": 178,
 			"deaths": 0,
-			"recovered": 78
+			"recovered": 96
 		},
 		{
 			"name": "Slovakia",
-			"confirmed_cases": 7,
+			"confirmed_cases": 10,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Slovenia",
-			"confirmed_cases": 31,
+			"confirmed_cases": 57,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "South Africa",
-			"confirmed_cases": 7,
+			"confirmed_cases": 13,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "Spain",
-			"confirmed_cases": 1695,
-			"deaths": 35,
-			"recovered": 32
+			"confirmed_cases": 2277,
+			"deaths": 54,
+			"recovered": 183
 		},
 		{
 			"name": "Sri Lanka",
-			"confirmed_cases": 1,
+			"confirmed_cases": 2,
 			"deaths": 0,
 			"recovered": 1
 		},
 		{
 			"name": "Sweden",
-			"confirmed_cases": 355,
-			"deaths": 0,
+			"confirmed_cases": 500,
+			"deaths": 1,
 			"recovered": 1
 		},
 		{
 			"name": "Switzerland",
-			"confirmed_cases": 491,
-			"deaths": 3,
-			"recovered": 3
+			"confirmed_cases": 652,
+			"deaths": 4,
+			"recovered": 4
 		},
 		{
 			"name": "Taipei and environs",
-			"confirmed_cases": 47,
-			"deaths": 1,
-			"recovered": 17,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
 			"regions": [
 				{
 					"name": "Taiwan",
-					"confirmed_cases": 47,
-					"deaths": 1,
-					"recovered": 17
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0
 				}
 			]
 		},
 		{
-			"name": "Thailand",
-			"confirmed_cases": 53,
+			"name": "Taiwan*",
+			"confirmed_cases": 48,
 			"deaths": 1,
-			"recovered": 33
+			"recovered": 17
+		},
+		{
+			"name": "Thailand",
+			"confirmed_cases": 59,
+			"deaths": 1,
+			"recovered": 34
 		},
 		{
 			"name": "Togo",
@@ -947,43 +1267,49 @@
 		},
 		{
 			"name": "Tunisia",
-			"confirmed_cases": 5,
+			"confirmed_cases": 7,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Turkey",
+			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
 		},
 		{
 			"name": "UK",
-			"confirmed_cases": 382,
-			"deaths": 6,
-			"recovered": 18
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0
 		},
 		{
 			"name": "US",
-			"confirmed_cases": 1670,
-			"deaths": 56,
-			"recovered": 15,
+			"confirmed_cases": 1281,
+			"deaths": 36,
+			"recovered": 8,
 			"regions": [
 				{
 					"name": "AZ",
-					"confirmed_cases": 6,
+					"confirmed_cases": 0,
 					"deaths": 0,
-					"recovered": 1,
+					"recovered": 0,
 					"regions": [
 						{
 							"name": "Maricopa County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 1
+							"recovered": 0
 						},
 						{
 							"name": "Pima",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Pinal County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -991,139 +1317,139 @@
 				},
 				{
 					"name": "CA",
-					"confirmed_cases": 145,
-					"deaths": 2,
-					"recovered": 2,
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0,
 					"regions": [
 						{
 							"name": "Alameda County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Contra Costa County",
-							"confirmed_cases": 9,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Fresno County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Humboldt County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Los Angeles",
-							"confirmed_cases": 20,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Madera County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Napa",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Orange County",
-							"confirmed_cases": 5,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Placer County",
-							"confirmed_cases": 7,
-							"deaths": 1,
+							"confirmed_cases": 0,
+							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Riverside County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Sacramento County",
-							"confirmed_cases": 10,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "San Benito",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "San Diego County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 1
+							"recovered": 0
 						},
 						{
 							"name": "San Francisco County",
-							"confirmed_cases": 15,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "San Mateo",
-							"confirmed_cases": 9,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Santa Clara County",
-							"confirmed_cases": 43,
-							"deaths": 1,
-							"recovered": 1
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0
 						},
 						{
 							"name": "Santa Cruz",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Shasta County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Solano",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Sonoma County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Ventura",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Yolo County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1131,55 +1457,55 @@
 				},
 				{
 					"name": "CO",
-					"confirmed_cases": 15,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Arapahoe",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Denver County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Douglas County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Eagle",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "El Paso County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Gunnison",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Larimer",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Summit County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1187,13 +1513,13 @@
 				},
 				{
 					"name": "CT",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Wilton",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1201,13 +1527,13 @@
 				},
 				{
 					"name": "D.C.",
-					"confirmed_cases": 5,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Washington",
-							"confirmed_cases": 5,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1215,55 +1541,55 @@
 				},
 				{
 					"name": "FL",
-					"confirmed_cases": 16,
-					"deaths": 2,
+					"confirmed_cases": 0,
+					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Broward County",
-							"confirmed_cases": 5,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Charlotte County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Hillsborough",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Lee County",
-							"confirmed_cases": 2,
-							"deaths": 1,
+							"confirmed_cases": 0,
+							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Manatee County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Okaloosa County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Santa Rosa County",
-							"confirmed_cases": 1,
-							"deaths": 1,
+							"confirmed_cases": 0,
+							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Volusia County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1271,55 +1597,55 @@
 				},
 				{
 					"name": "GA",
-					"confirmed_cases": 17,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Cherokee County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Cobb County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "DeKalb",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Fayette",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Floyd",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Fulton County",
-							"confirmed_cases": 5,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Gwinnett",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Polk County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1327,13 +1653,13 @@
 				},
 				{
 					"name": "HI",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Honolulu County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1341,19 +1667,19 @@
 				},
 				{
 					"name": "IA",
-					"confirmed_cases": 8,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Johnson County",
-							"confirmed_cases": 7,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Pottawattamie",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1361,19 +1687,19 @@
 				},
 				{
 					"name": "IL",
-					"confirmed_cases": 12,
+					"confirmed_cases": 0,
 					"deaths": 0,
-					"recovered": 2,
+					"recovered": 0,
 					"regions": [
 						{
 							"name": "Cook County",
-							"confirmed_cases": 11,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 2
+							"recovered": 0
 						},
 						{
 							"name": "Kane",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1381,37 +1707,37 @@
 				},
 				{
 					"name": "IN",
-					"confirmed_cases": 6,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Adams",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Boone",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Hendricks County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Marion County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Noble",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1419,13 +1745,13 @@
 				},
 				{
 					"name": "KS",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Johnson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1433,25 +1759,25 @@
 				},
 				{
 					"name": "KY",
-					"confirmed_cases": 5,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Fayette County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Harrison County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Jefferson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1459,13 +1785,13 @@
 				},
 				{
 					"name": "LA",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Jefferson Parish",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1473,37 +1799,37 @@
 				},
 				{
 					"name": "MA",
-					"confirmed_cases": 41,
+					"confirmed_cases": 0,
 					"deaths": 0,
-					"recovered": 1,
+					"recovered": 0,
 					"regions": [
 						{
 							"name": "Berkshire County",
-							"confirmed_cases": 5,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Middlesex County",
-							"confirmed_cases": 15,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Norfolk County",
-							"confirmed_cases": 10,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Suffolk County",
-							"confirmed_cases": 10,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 1
+							"recovered": 0
 						},
 						{
 							"name": "Worcester",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1511,25 +1837,25 @@
 				},
 				{
 					"name": "MD",
-					"confirmed_cases": 8,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Harford County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Montgomery County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Prince George",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1537,19 +1863,19 @@
 				},
 				{
 					"name": "MN",
-					"confirmed_cases": 2,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Carver County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Ramsey County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1557,13 +1883,13 @@
 				},
 				{
 					"name": "MO",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "St. Louis County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1571,19 +1897,19 @@
 				},
 				{
 					"name": "NC",
-					"confirmed_cases": 7,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Chatham County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Wake County",
-							"confirmed_cases": 6,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1591,13 +1917,13 @@
 				},
 				{
 					"name": "NE",
-					"confirmed_cases": 3,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Douglas County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1605,19 +1931,19 @@
 				},
 				{
 					"name": "NH",
-					"confirmed_cases": 4,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Grafton County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Rockingham County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1625,49 +1951,49 @@
 				},
 				{
 					"name": "NJ",
-					"confirmed_cases": 15,
-					"deaths": 1,
+					"confirmed_cases": 0,
+					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Bergen County",
-							"confirmed_cases": 7,
-							"deaths": 1,
+							"confirmed_cases": 0,
+							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Burlington",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Camden",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Hudson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Monmouth",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Passaic",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Union",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1675,19 +2001,19 @@
 				},
 				{
 					"name": "NV",
-					"confirmed_cases": 4,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Clark County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Washoe County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1695,49 +2021,49 @@
 				},
 				{
 					"name": "NY",
-					"confirmed_cases": 150,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Nassau County",
-							"confirmed_cases": 19,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "New York County",
-							"confirmed_cases": 25,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Rockland County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Saratoga County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Suffolk County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Ulster County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Wetchester County",
-							"confirmed_cases": 98,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1745,13 +2071,13 @@
 				},
 				{
 					"name": "OH",
-					"confirmed_cases": 3,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Cuyahoga",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1759,13 +2085,13 @@
 				},
 				{
 					"name": "OK",
-					"confirmed_cases": 2,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Tulsa County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1773,43 +2099,43 @@
 				},
 				{
 					"name": "OR",
-					"confirmed_cases": 14,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Douglas County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Jackson County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Klamath County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Marion County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Umatilla",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Washington County",
-							"confirmed_cases": 8,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1817,37 +2143,37 @@
 				},
 				{
 					"name": "PA",
-					"confirmed_cases": 12,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Delaware County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Monroe",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Montgomery County",
-							"confirmed_cases": 8,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Philadelphia",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Wayne County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1855,13 +2181,13 @@
 				},
 				{
 					"name": "RI",
-					"confirmed_cases": 3,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Providence County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1869,31 +2195,31 @@
 				},
 				{
 					"name": "SC",
-					"confirmed_cases": 7,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Camden",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Charleston County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Kershaw County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Spartanburg County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1901,25 +2227,25 @@
 				},
 				{
 					"name": "TN",
-					"confirmed_cases": 3,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Davidson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Shelby County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Williamson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1927,31 +2253,31 @@
 				},
 				{
 					"name": "TX",
-					"confirmed_cases": 16,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Collin County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Fort Bend County",
-							"confirmed_cases": 6,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Gregg",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Harris County",
-							"confirmed_cases": 6,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1959,19 +2285,19 @@
 				},
 				{
 					"name": "UT",
-					"confirmed_cases": 2,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Davis County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Weber",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -1979,37 +2305,37 @@
 				},
 				{
 					"name": "VA",
-					"confirmed_cases": 9,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Arlington",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Fairfax County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Loudoun",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Norfolk",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Spotsylvania",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -2017,13 +2343,13 @@
 				},
 				{
 					"name": "VT",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Bennington County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -2031,75 +2357,75 @@
 				},
 				{
 					"name": "WA",
-					"confirmed_cases": 162,
-					"deaths": 23,
-					"recovered": 1,
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0,
 					"regions": [
 						{
 							"name": "Clark County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Grant County",
-							"confirmed_cases": 1,
-							"deaths": 1,
+							"confirmed_cases": 0,
+							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Jefferson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "King County",
-							"confirmed_cases": 116,
-							"deaths": 21,
-							"recovered": 1
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0
 						},
 						{
 							"name": "Kitsap",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Kittitas County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Pierce County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Snohomish County",
-							"confirmed_cases": 37,
-							"deaths": 1,
+							"confirmed_cases": 0,
+							"deaths": 0,
 							"recovered": 0
 						}
 					]
 				},
 				{
 					"name": "WI",
-					"confirmed_cases": 3,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
 					"regions": [
 						{
 							"name": "Dane",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						},
 						{
 							"name": "Pierce",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
 							"recovered": 0
 						}
@@ -2117,17 +2443,49 @@
 			"name": "United Arab Emirates",
 			"confirmed_cases": 74,
 			"deaths": 0,
-			"recovered": 12
+			"recovered": 17
+		},
+		{
+			"name": "United Kingdom",
+			"confirmed_cases": 459,
+			"deaths": 8,
+			"recovered": 19,
+			"regions": [
+				{
+					"name": "Channel Islands",
+					"confirmed_cases": 2,
+					"deaths": 0,
+					"recovered": 0
+				},
+				{
+					"name": "Gibraltar",
+					"confirmed_cases": 1,
+					"deaths": 0,
+					"recovered": 1
+				},
+				{
+					"name": "UK",
+					"confirmed_cases": 456,
+					"deaths": 8,
+					"recovered": 18
+				}
+			]
 		},
 		{
 			"name": "Viet Nam",
-			"confirmed_cases": 31,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"name": "Vietnam",
+			"confirmed_cases": 38,
 			"deaths": 0,
 			"recovered": 16
 		},
 		{
 			"name": "occupied Palestinian territory",
-			"confirmed_cases": 25,
+			"confirmed_cases": 0,
 			"deaths": 0,
 			"recovered": 0
 		}
