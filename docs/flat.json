@@ -1,11 +1,11 @@
 {
-	"data_date": "3/14/20",
+	"data_date": "3/15/20",
 	"data": [
 		{
 			"country": "Afghanistan",
 			"lat": 33,
 			"long": 65,
-			"confirmed_cases": 11,
+			"confirmed_cases": 16,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -13,7 +13,7 @@
 			"country": "Albania",
 			"lat": 41.1533,
 			"long": 20.1683,
-			"confirmed_cases": 38,
+			"confirmed_cases": 42,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -21,8 +21,8 @@
 			"country": "Algeria",
 			"lat": 28.0339,
 			"long": 1.6596,
-			"confirmed_cases": 37,
-			"deaths": 3,
+			"confirmed_cases": 48,
+			"deaths": 4,
 			"recovered": 12
 		},
 		{
@@ -45,7 +45,7 @@
 			"country": "Argentina",
 			"lat": -38.4161,
 			"long": -63.6167,
-			"confirmed_cases": 34,
+			"confirmed_cases": 45,
 			"deaths": 2,
 			"recovered": 1
 		},
@@ -53,7 +53,7 @@
 			"country": "Armenia",
 			"lat": 40.0691,
 			"long": 45.0382,
-			"confirmed_cases": 18,
+			"confirmed_cases": 23,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -88,7 +88,7 @@
 			"country": "Australia",
 			"lat": -33.8688,
 			"long": 151.2093,
-			"confirmed_cases": 112,
+			"confirmed_cases": 134,
 			"deaths": 2,
 			"recovered": 4
 		},
@@ -106,7 +106,7 @@
 			"country": "Australia",
 			"lat": -28.0167,
 			"long": 153.4,
-			"confirmed_cases": 46,
+			"confirmed_cases": 61,
 			"deaths": 0,
 			"recovered": 8
 		},
@@ -115,7 +115,7 @@
 			"country": "Australia",
 			"lat": -34.9285,
 			"long": 138.6007,
-			"confirmed_cases": 19,
+			"confirmed_cases": 20,
 			"deaths": 0,
 			"recovered": 3
 		},
@@ -124,7 +124,7 @@
 			"country": "Australia",
 			"lat": -41.4545,
 			"long": 145.9707,
-			"confirmed_cases": 5,
+			"confirmed_cases": 6,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -133,7 +133,7 @@
 			"country": "Australia",
 			"lat": -37.8136,
 			"long": 144.9631,
-			"confirmed_cases": 49,
+			"confirmed_cases": 57,
 			"deaths": 0,
 			"recovered": 8
 		},
@@ -150,7 +150,7 @@
 			"country": "Austria",
 			"lat": 47.5162,
 			"long": 14.5501,
-			"confirmed_cases": 655,
+			"confirmed_cases": 800,
 			"deaths": 1,
 			"recovered": 6
 		},
@@ -174,7 +174,7 @@
 			"country": "Bangladesh",
 			"lat": 23.685,
 			"long": 90.3563,
-			"confirmed_cases": 3,
+			"confirmed_cases": 5,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -190,7 +190,7 @@
 			"country": "Belgium",
 			"lat": 50.8333,
 			"long": 4,
-			"confirmed_cases": 689,
+			"confirmed_cases": 886,
 			"deaths": 4,
 			"recovered": 1
 		},
@@ -214,7 +214,7 @@
 			"country": "Bosnia and Herzegovina",
 			"lat": 43.9159,
 			"long": 17.6791,
-			"confirmed_cases": 18,
+			"confirmed_cases": 21,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -222,7 +222,7 @@
 			"country": "Brazil",
 			"lat": -14.235,
 			"long": -51.9253,
-			"confirmed_cases": 151,
+			"confirmed_cases": 162,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -230,7 +230,7 @@
 			"country": "Brunei",
 			"lat": 4.5353,
 			"long": 114.7277,
-			"confirmed_cases": 40,
+			"confirmed_cases": 50,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -238,7 +238,7 @@
 			"country": "Bulgaria",
 			"lat": 42.7339,
 			"long": 25.4858,
-			"confirmed_cases": 41,
+			"confirmed_cases": 43,
 			"deaths": 2,
 			"recovered": 0
 		},
@@ -271,7 +271,7 @@
 			"country": "Canada",
 			"lat": 53.9333,
 			"long": -116.5765,
-			"confirmed_cases": 29,
+			"confirmed_cases": 39,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -280,7 +280,7 @@
 			"country": "Canada",
 			"lat": 49.2827,
 			"long": -123.1207,
-			"confirmed_cases": 64,
+			"confirmed_cases": 73,
 			"deaths": 1,
 			"recovered": 4
 		},
@@ -307,6 +307,15 @@
 			"country": "Canada",
 			"lat": 46.5653,
 			"long": -66.4619,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Newfoundland and Labrador",
+			"country": "Canada",
+			"lat": 53.1355,
+			"long": -57.6604,
 			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
@@ -316,16 +325,25 @@
 			"country": "Canada",
 			"lat": 51.2538,
 			"long": -85.3232,
-			"confirmed_cases": 79,
+			"confirmed_cases": 104,
 			"deaths": 0,
 			"recovered": 4
+		},
+		{
+			"region": "Prince Edward Island",
+			"country": "Canada",
+			"lat": 46.5107,
+			"long": -63.4168,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
 		},
 		{
 			"region": "Quebec",
 			"country": "Canada",
 			"lat": 52.9399,
 			"long": -73.5491,
-			"confirmed_cases": 17,
+			"confirmed_cases": 24,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -342,6 +360,14 @@
 			"country": "Cayman Islands",
 			"lat": 19.3133,
 			"long": -81.2546,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"country": "Central African Republic",
+			"lat": 6.6111,
+			"long": 20.9394,
 			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
@@ -368,9 +394,9 @@
 			"country": "China",
 			"lat": 40.1824,
 			"long": 116.4142,
-			"confirmed_cases": 437,
+			"confirmed_cases": 442,
 			"deaths": 8,
-			"recovered": 349
+			"recovered": 353
 		},
 		{
 			"region": "Chongqing",
@@ -379,7 +405,7 @@
 			"long": 107.874,
 			"confirmed_cases": 576,
 			"deaths": 6,
-			"recovered": 569
+			"recovered": 570
 		},
 		{
 			"region": "Fujian",
@@ -395,18 +421,18 @@
 			"country": "China",
 			"lat": 37.8099,
 			"long": 101.0583,
-			"confirmed_cases": 129,
+			"confirmed_cases": 133,
 			"deaths": 2,
-			"recovered": 89
+			"recovered": 91
 		},
 		{
 			"region": "Guangdong",
 			"country": "China",
 			"lat": 23.3417,
 			"long": 113.4244,
-			"confirmed_cases": 1356,
+			"confirmed_cases": 1360,
 			"deaths": 8,
-			"recovered": 1299
+			"recovered": 1304
 		},
 		{
 			"region": "Guangxi",
@@ -451,7 +477,7 @@
 			"long": 127.7615,
 			"confirmed_cases": 482,
 			"deaths": 13,
-			"recovered": 447
+			"recovered": 453
 		},
 		{
 			"region": "Henan",
@@ -467,18 +493,18 @@
 			"country": "China",
 			"lat": 22.3,
 			"long": 114.2,
-			"confirmed_cases": 140,
+			"confirmed_cases": 145,
 			"deaths": 4,
-			"recovered": 78
+			"recovered": 81
 		},
 		{
 			"region": "Hubei",
 			"country": "China",
 			"lat": 30.9756,
 			"long": 112.2707,
-			"confirmed_cases": 67790,
-			"deaths": 3075,
-			"recovered": 52960
+			"confirmed_cases": 67794,
+			"deaths": 3085,
+			"recovered": 54288
 		},
 		{
 			"region": "Hunan",
@@ -505,7 +531,7 @@
 			"long": 119.455,
 			"confirmed_cases": 631,
 			"deaths": 0,
-			"recovered": 630
+			"recovered": 631
 		},
 		{
 			"region": "Jiangxi",
@@ -532,7 +558,7 @@
 			"long": 122.6085,
 			"confirmed_cases": 125,
 			"deaths": 1,
-			"recovered": 113
+			"recovered": 114
 		},
 		{
 			"region": "Macau",
@@ -604,7 +630,7 @@
 			"long": 102.7103,
 			"confirmed_cases": 539,
 			"deaths": 3,
-			"recovered": 511
+			"recovered": 516
 		},
 		{
 			"region": "Tianjin",
@@ -613,7 +639,7 @@
 			"long": 117.323,
 			"confirmed_cases": 136,
 			"deaths": 3,
-			"recovered": 132
+			"recovered": 133
 		},
 		{
 			"region": "Tibet",
@@ -647,7 +673,7 @@
 			"country": "China",
 			"lat": 29.1832,
 			"long": 120.0934,
-			"confirmed_cases": 1227,
+			"confirmed_cases": 1231,
 			"deaths": 1,
 			"recovered": 1211
 		},
@@ -655,7 +681,15 @@
 			"country": "Colombia",
 			"lat": 4.5709,
 			"long": -74.2973,
-			"confirmed_cases": 22,
+			"confirmed_cases": 34,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"country": "Congo (Brazzaville)",
+			"lat": -4.0383,
+			"long": 21.7587,
+			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -671,7 +705,7 @@
 			"country": "Costa Rica",
 			"lat": 9.7489,
 			"long": -83.7534,
-			"confirmed_cases": 26,
+			"confirmed_cases": 27,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -687,7 +721,7 @@
 			"country": "Croatia",
 			"lat": 45.1,
 			"long": 15.2,
-			"confirmed_cases": 38,
+			"confirmed_cases": 49,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -728,7 +762,7 @@
 			"country": "Czechia",
 			"lat": 49.8175,
 			"long": 15.473,
-			"confirmed_cases": 189,
+			"confirmed_cases": 231,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -737,7 +771,7 @@
 			"country": "Denmark",
 			"lat": 56.2639,
 			"long": 9.5018,
-			"confirmed_cases": 827,
+			"confirmed_cases": 864,
 			"deaths": 1,
 			"recovered": 1
 		},
@@ -746,7 +780,7 @@
 			"country": "Denmark",
 			"lat": 61.8926,
 			"long": -6.9118,
-			"confirmed_cases": 9,
+			"confirmed_cases": 11,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -770,15 +804,23 @@
 			"country": "Egypt",
 			"lat": 26,
 			"long": 30,
-			"confirmed_cases": 109,
+			"confirmed_cases": 110,
 			"deaths": 2,
-			"recovered": 27
+			"recovered": 21
+		},
+		{
+			"country": "Equatorial Guinea",
+			"lat": 1.5,
+			"long": 10,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
 		},
 		{
 			"country": "Estonia",
 			"lat": 58.5953,
 			"long": 25.0136,
-			"confirmed_cases": 115,
+			"confirmed_cases": 135,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -802,27 +844,27 @@
 			"country": "Finland",
 			"lat": 64,
 			"long": 26,
-			"confirmed_cases": 225,
+			"confirmed_cases": 243,
 			"deaths": 0,
 			"recovered": 1
-		},
-		{
-			"region": "Fench Guiana",
-			"country": "France",
-			"lat": 4,
-			"long": -53,
-			"confirmed_cases": 5,
-			"deaths": 0,
-			"recovered": 0
 		},
 		{
 			"region": "France",
 			"country": "France",
 			"lat": 46.2276,
 			"long": 2.2137,
-			"confirmed_cases": 4469,
+			"confirmed_cases": 4499,
 			"deaths": 91,
 			"recovered": 12
+		},
+		{
+			"region": "French Guiana",
+			"country": "France",
+			"lat": 3.9339,
+			"long": -53.1258,
+			"confirmed_cases": 5,
+			"deaths": 0,
+			"recovered": 0
 		},
 		{
 			"region": "French Polynesia",
@@ -830,6 +872,15 @@
 			"lat": -17.6797,
 			"long": 149.4068,
 			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Mayotte",
+			"country": "France",
+			"lat": -12.8275,
+			"long": 45.1662,
+			"confirmed_cases": 1,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -848,14 +899,6 @@
 			"lat": 18.0708,
 			"long": -63.0501,
 			"confirmed_cases": 2,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"country": "French Guiana",
-			"lat": 3.9339,
-			"long": -53.1258,
-			"confirmed_cases": 5,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -879,15 +922,15 @@
 			"country": "Germany",
 			"lat": 51,
 			"long": 9,
-			"confirmed_cases": 4585,
-			"deaths": 9,
+			"confirmed_cases": 5426,
+			"deaths": 11,
 			"recovered": 46
 		},
 		{
 			"country": "Ghana",
 			"lat": 7.9465,
 			"long": -1.0232,
-			"confirmed_cases": 3,
+			"confirmed_cases": 6,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -896,7 +939,7 @@
 			"lat": 39.0742,
 			"long": 21.8243,
 			"confirmed_cases": 228,
-			"deaths": 3,
+			"deaths": 4,
 			"recovered": 8
 		},
 		{
@@ -935,7 +978,7 @@
 			"country": "Guyana",
 			"lat": 5,
 			"long": -58.75,
-			"confirmed_cases": 1,
+			"confirmed_cases": 4,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -951,7 +994,7 @@
 			"country": "Honduras",
 			"lat": 15.2,
 			"long": -86.2419,
-			"confirmed_cases": 2,
+			"confirmed_cases": 3,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -959,15 +1002,15 @@
 			"country": "Hungary",
 			"lat": 47.1625,
 			"long": 19.5033,
-			"confirmed_cases": 30,
-			"deaths": 0,
+			"confirmed_cases": 32,
+			"deaths": 1,
 			"recovered": 1
 		},
 		{
 			"country": "Iceland",
 			"lat": 64.9631,
 			"long": -19.0208,
-			"confirmed_cases": 156,
+			"confirmed_cases": 161,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -975,7 +1018,7 @@
 			"country": "India",
 			"lat": 21,
 			"long": 78,
-			"confirmed_cases": 102,
+			"confirmed_cases": 113,
 			"deaths": 2,
 			"recovered": 4
 		},
@@ -983,7 +1026,7 @@
 			"country": "Indonesia",
 			"lat": -0.7893,
 			"long": 113.9213,
-			"confirmed_cases": 96,
+			"confirmed_cases": 117,
 			"deaths": 5,
 			"recovered": 8
 		},
@@ -991,9 +1034,9 @@
 			"country": "Iran",
 			"lat": 32,
 			"long": 53,
-			"confirmed_cases": 12729,
-			"deaths": 611,
-			"recovered": 2959
+			"confirmed_cases": 13938,
+			"deaths": 724,
+			"recovered": 4590
 		},
 		{
 			"country": "Iraq",
@@ -1015,7 +1058,7 @@
 			"country": "Israel",
 			"lat": 31,
 			"long": 35,
-			"confirmed_cases": 193,
+			"confirmed_cases": 200,
 			"deaths": 0,
 			"recovered": 4
 		},
@@ -1055,7 +1098,7 @@
 			"country": "Jordan",
 			"lat": 31.24,
 			"long": 36.51,
-			"confirmed_cases": 1,
+			"confirmed_cases": 7,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -1063,7 +1106,7 @@
 			"country": "Kazakhstan",
 			"lat": 48.0196,
 			"long": 66.9237,
-			"confirmed_cases": 6,
+			"confirmed_cases": 8,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1079,15 +1122,23 @@
 			"country": "Korea, South",
 			"lat": 36,
 			"long": 128,
-			"confirmed_cases": 8086,
-			"deaths": 72,
+			"confirmed_cases": 8162,
+			"deaths": 75,
 			"recovered": 510
+		},
+		{
+			"country": "Kosovo",
+			"lat": 42.6026,
+			"long": 20.903,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0
 		},
 		{
 			"country": "Kuwait",
 			"lat": 29.5,
 			"long": 47.75,
-			"confirmed_cases": 104,
+			"confirmed_cases": 112,
 			"deaths": 0,
 			"recovered": 5
 		},
@@ -1095,7 +1146,7 @@
 			"country": "Latvia",
 			"lat": 56.8796,
 			"long": 24.6032,
-			"confirmed_cases": 26,
+			"confirmed_cases": 30,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -1103,7 +1154,7 @@
 			"country": "Lebanon",
 			"lat": 33.8547,
 			"long": 35.8623,
-			"confirmed_cases": 93,
+			"confirmed_cases": 110,
 			"deaths": 3,
 			"recovered": 1
 		},
@@ -1119,15 +1170,15 @@
 			"country": "Lithuania",
 			"lat": 55.1694,
 			"long": 23.8813,
-			"confirmed_cases": 8,
+			"confirmed_cases": 12,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1
 		},
 		{
 			"country": "Luxembourg",
 			"lat": 49.8153,
 			"long": 6.1296,
-			"confirmed_cases": 51,
+			"confirmed_cases": 59,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -1135,15 +1186,15 @@
 			"country": "Malaysia",
 			"lat": 2.5,
 			"long": 112.5,
-			"confirmed_cases": 238,
+			"confirmed_cases": 428,
 			"deaths": 0,
-			"recovered": 35
+			"recovered": 42
 		},
 		{
 			"country": "Maldives",
 			"lat": 3.2028,
 			"long": 73.2207,
-			"confirmed_cases": 10,
+			"confirmed_cases": 13,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1151,7 +1202,7 @@
 			"country": "Malta",
 			"lat": 35.9375,
 			"long": 14.3754,
-			"confirmed_cases": 18,
+			"confirmed_cases": 21,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -1175,7 +1226,7 @@
 			"country": "Mexico",
 			"lat": 23.6345,
 			"long": -102.5528,
-			"confirmed_cases": 26,
+			"confirmed_cases": 41,
 			"deaths": 0,
 			"recovered": 4
 		},
@@ -1207,7 +1258,7 @@
 			"country": "Morocco",
 			"lat": 31.7917,
 			"long": -7.0926,
-			"confirmed_cases": 17,
+			"confirmed_cases": 28,
 			"deaths": 1,
 			"recovered": 1
 		},
@@ -1231,15 +1282,15 @@
 			"country": "Netherlands",
 			"lat": 52.1326,
 			"long": 5.2913,
-			"confirmed_cases": 959,
-			"deaths": 12,
+			"confirmed_cases": 1135,
+			"deaths": 20,
 			"recovered": 2
 		},
 		{
 			"country": "New Zealand",
 			"lat": -40.9006,
 			"long": 174.886,
-			"confirmed_cases": 6,
+			"confirmed_cases": 8,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1263,7 +1314,7 @@
 			"country": "Norway",
 			"lat": 60.472,
 			"long": 8.4689,
-			"confirmed_cases": 1090,
+			"confirmed_cases": 1207,
 			"deaths": 3,
 			"recovered": 1
 		},
@@ -1271,7 +1322,7 @@
 			"country": "Oman",
 			"lat": 21,
 			"long": 57,
-			"confirmed_cases": 19,
+			"confirmed_cases": 20,
 			"deaths": 0,
 			"recovered": 9
 		},
@@ -1279,7 +1330,7 @@
 			"country": "Pakistan",
 			"lat": 30.3753,
 			"long": 69.3451,
-			"confirmed_cases": 31,
+			"confirmed_cases": 53,
 			"deaths": 0,
 			"recovered": 2
 		},
@@ -1287,7 +1338,7 @@
 			"country": "Panama",
 			"lat": 8.538,
 			"long": -80.7821,
-			"confirmed_cases": 36,
+			"confirmed_cases": 43,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -1303,7 +1354,7 @@
 			"country": "Peru",
 			"lat": -9.19,
 			"long": -75.0152,
-			"confirmed_cases": 38,
+			"confirmed_cases": 43,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1311,15 +1362,15 @@
 			"country": "Philippines",
 			"lat": 13,
 			"long": 122,
-			"confirmed_cases": 111,
-			"deaths": 8,
+			"confirmed_cases": 140,
+			"deaths": 11,
 			"recovered": 2
 		},
 		{
 			"country": "Poland",
 			"lat": 51.9194,
 			"long": 19.1451,
-			"confirmed_cases": 103,
+			"confirmed_cases": 119,
 			"deaths": 3,
 			"recovered": 0
 		},
@@ -1327,7 +1378,7 @@
 			"country": "Portugal",
 			"lat": 39.3999,
 			"long": -8.2245,
-			"confirmed_cases": 169,
+			"confirmed_cases": 245,
 			"deaths": 0,
 			"recovered": 2
 		},
@@ -1343,7 +1394,7 @@
 			"country": "Reunion",
 			"lat": -21.1151,
 			"long": 55.5364,
-			"confirmed_cases": 6,
+			"confirmed_cases": 7,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1351,7 +1402,7 @@
 			"country": "Romania",
 			"lat": 45.9432,
 			"long": 24.9668,
-			"confirmed_cases": 123,
+			"confirmed_cases": 131,
 			"deaths": 0,
 			"recovered": 9
 		},
@@ -1359,7 +1410,7 @@
 			"country": "Russia",
 			"lat": 60,
 			"long": 90,
-			"confirmed_cases": 59,
+			"confirmed_cases": 63,
 			"deaths": 0,
 			"recovered": 8
 		},
@@ -1391,7 +1442,7 @@
 			"country": "San Marino",
 			"lat": 43.9424,
 			"long": 12.4578,
-			"confirmed_cases": 80,
+			"confirmed_cases": 92,
 			"deaths": 5,
 			"recovered": 4
 		},
@@ -1431,7 +1482,7 @@
 			"country": "Singapore",
 			"lat": 1.2833,
 			"long": 103.8333,
-			"confirmed_cases": 212,
+			"confirmed_cases": 226,
 			"deaths": 0,
 			"recovered": 105
 		},
@@ -1439,7 +1490,7 @@
 			"country": "Slovakia",
 			"lat": 48.669,
 			"long": 19.699,
-			"confirmed_cases": 44,
+			"confirmed_cases": 54,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1447,7 +1498,7 @@
 			"country": "Slovenia",
 			"lat": 46.1512,
 			"long": 14.9955,
-			"confirmed_cases": 181,
+			"confirmed_cases": 219,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -1455,7 +1506,7 @@
 			"country": "South Africa",
 			"lat": -30.5595,
 			"long": 22.9375,
-			"confirmed_cases": 38,
+			"confirmed_cases": 51,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1463,15 +1514,15 @@
 			"country": "Spain",
 			"lat": 40,
 			"long": -4,
-			"confirmed_cases": 6391,
-			"deaths": 195,
+			"confirmed_cases": 7798,
+			"deaths": 289,
 			"recovered": 517
 		},
 		{
 			"country": "Sri Lanka",
 			"lat": 7,
 			"long": 81,
-			"confirmed_cases": 10,
+			"confirmed_cases": 11,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -1495,23 +1546,23 @@
 			"country": "Sweden",
 			"lat": 63,
 			"long": 16,
-			"confirmed_cases": 961,
-			"deaths": 2,
+			"confirmed_cases": 1022,
+			"deaths": 3,
 			"recovered": 1
 		},
 		{
 			"country": "Switzerland",
 			"lat": 46.8182,
 			"long": 8.2275,
-			"confirmed_cases": 1359,
-			"deaths": 13,
+			"confirmed_cases": 2200,
+			"deaths": 14,
 			"recovered": 4
 		},
 		{
 			"country": "Taiwan*",
 			"lat": 23.7,
 			"long": 121,
-			"confirmed_cases": 53,
+			"confirmed_cases": 59,
 			"deaths": 1,
 			"recovered": 20
 		},
@@ -1519,7 +1570,7 @@
 			"country": "Thailand",
 			"lat": 15,
 			"long": 101,
-			"confirmed_cases": 82,
+			"confirmed_cases": 114,
 			"deaths": 1,
 			"recovered": 35
 		},
@@ -1551,7 +1602,7 @@
 			"country": "Turkey",
 			"lat": 38.9637,
 			"long": 35.2433,
-			"confirmed_cases": 5,
+			"confirmed_cases": 6,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1569,7 +1620,7 @@
 			"country": "US",
 			"lat": 32.3182,
 			"long": -86.9023,
-			"confirmed_cases": 6,
+			"confirmed_cases": 12,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1632,7 +1683,7 @@
 			"country": "US",
 			"lat": 34.9697,
 			"long": -92.3731,
-			"confirmed_cases": 12,
+			"confirmed_cases": 16,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -1749,8 +1800,8 @@
 			"country": "US",
 			"lat": 36.1162,
 			"long": -119.6816,
-			"confirmed_cases": 340,
-			"deaths": 5,
+			"confirmed_cases": 406,
+			"deaths": 6,
 			"recovered": 6
 		},
 		{
@@ -1893,7 +1944,7 @@
 			"country": "US",
 			"lat": 41.5978,
 			"long": -72.7554,
-			"confirmed_cases": 22,
+			"confirmed_cases": 24,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2028,7 +2079,7 @@
 			"country": "US",
 			"lat": 38.8974,
 			"long": -77.0268,
-			"confirmed_cases": 10,
+			"confirmed_cases": 16,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2127,8 +2178,8 @@
 			"country": "US",
 			"lat": 27.7663,
 			"long": -81.6868,
-			"confirmed_cases": 76,
-			"deaths": 3,
+			"confirmed_cases": 115,
+			"deaths": 4,
 			"recovered": 0
 		},
 		{
@@ -2172,7 +2223,7 @@
 			"country": "US",
 			"lat": 33.0406,
 			"long": -83.6431,
-			"confirmed_cases": 66,
+			"confirmed_cases": 99,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -2209,6 +2260,15 @@
 			"lat": 32.4893,
 			"long": -94.8521,
 			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
+			"region": "Guam",
+			"country": "US",
+			"lat": 13.4443,
+			"long": 144.7937,
+			"confirmed_cases": 3,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2271,7 +2331,7 @@
 			"country": "US",
 			"lat": 21.0943,
 			"long": -157.4983,
-			"confirmed_cases": 4,
+			"confirmed_cases": 6,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2334,7 +2394,7 @@
 			"country": "US",
 			"lat": 44.2405,
 			"long": -114.4788,
-			"confirmed_cases": 2,
+			"confirmed_cases": 5,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2343,7 +2403,7 @@
 			"country": "US",
 			"lat": 40.3495,
 			"long": -88.9861,
-			"confirmed_cases": 64,
+			"confirmed_cases": 66,
 			"deaths": 0,
 			"recovered": 2
 		},
@@ -2352,7 +2412,7 @@
 			"country": "US",
 			"lat": 39.8494,
 			"long": -86.2583,
-			"confirmed_cases": 16,
+			"confirmed_cases": 20,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2361,7 +2421,7 @@
 			"country": "US",
 			"lat": 42.0115,
 			"long": -93.2105,
-			"confirmed_cases": 17,
+			"confirmed_cases": 18,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2469,7 +2529,7 @@
 			"country": "US",
 			"lat": 37.6681,
 			"long": -84.6701,
-			"confirmed_cases": 14,
+			"confirmed_cases": 18,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2595,8 +2655,8 @@
 			"country": "US",
 			"lat": 31.1695,
 			"long": -91.8678,
-			"confirmed_cases": 77,
-			"deaths": 1,
+			"confirmed_cases": 91,
+			"deaths": 2,
 			"recovered": 0
 		},
 		{
@@ -2613,7 +2673,7 @@
 			"country": "US",
 			"lat": 44.6939,
 			"long": -69.3819,
-			"confirmed_cases": 3,
+			"confirmed_cases": 6,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2667,7 +2727,7 @@
 			"country": "US",
 			"lat": 39.0639,
 			"long": -76.8021,
-			"confirmed_cases": 26,
+			"confirmed_cases": 31,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2694,7 +2754,7 @@
 			"country": "US",
 			"lat": 43.3266,
 			"long": -84.5361,
-			"confirmed_cases": 25,
+			"confirmed_cases": 33,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2730,7 +2790,7 @@
 			"country": "US",
 			"lat": 45.6945,
 			"long": -93.9002,
-			"confirmed_cases": 21,
+			"confirmed_cases": 35,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2748,7 +2808,7 @@
 			"country": "US",
 			"lat": 38.4561,
 			"long": -92.2884,
-			"confirmed_cases": 4,
+			"confirmed_cases": 5,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2775,7 +2835,7 @@
 			"country": "US",
 			"lat": 46.9219,
 			"long": -110.4544,
-			"confirmed_cases": 5,
+			"confirmed_cases": 7,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2847,7 +2907,7 @@
 			"country": "US",
 			"lat": 41.1254,
 			"long": -98.2681,
-			"confirmed_cases": 14,
+			"confirmed_cases": 17,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2883,8 +2943,8 @@
 			"country": "US",
 			"lat": 40.2989,
 			"long": -74.521,
-			"confirmed_cases": 69,
-			"deaths": 1,
+			"confirmed_cases": 74,
+			"deaths": 2,
 			"recovered": 0
 		},
 		{
@@ -2892,7 +2952,7 @@
 			"country": "US",
 			"lat": 34.8405,
 			"long": -106.2485,
-			"confirmed_cases": 10,
+			"confirmed_cases": 13,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2901,8 +2961,8 @@
 			"country": "US",
 			"lat": 42.1657,
 			"long": -74.9481,
-			"confirmed_cases": 525,
-			"deaths": 2,
+			"confirmed_cases": 729,
+			"deaths": 3,
 			"recovered": 0
 		},
 		{
@@ -2946,7 +3006,7 @@
 			"country": "US",
 			"lat": 35.6301,
 			"long": -79.8064,
-			"confirmed_cases": 24,
+			"confirmed_cases": 32,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -2973,7 +3033,7 @@
 			"country": "US",
 			"lat": 40.3888,
 			"long": -82.7649,
-			"confirmed_cases": 26,
+			"confirmed_cases": 30,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -3018,8 +3078,8 @@
 			"country": "US",
 			"lat": 44.572,
 			"long": -122.0709,
-			"confirmed_cases": 32,
-			"deaths": 0,
+			"confirmed_cases": 36,
+			"deaths": 1,
 			"recovered": 0
 		},
 		{
@@ -3522,7 +3582,7 @@
 			"country": "US",
 			"lat": 31.0545,
 			"long": -97.5635,
-			"confirmed_cases": 57,
+			"confirmed_cases": 63,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -3576,7 +3636,7 @@
 			"country": "US",
 			"lat": 40.15,
 			"long": -111.8624,
-			"confirmed_cases": 10,
+			"confirmed_cases": 24,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -3612,7 +3672,7 @@
 			"country": "US",
 			"lat": 37.7693,
 			"long": -78.17,
-			"confirmed_cases": 41,
+			"confirmed_cases": 45,
 			"deaths": 1,
 			"recovered": 0
 		},
@@ -3639,8 +3699,8 @@
 			"country": "US",
 			"lat": 47.4009,
 			"long": -121.4905,
-			"confirmed_cases": 572,
-			"deaths": 37,
+			"confirmed_cases": 642,
+			"deaths": 40,
 			"recovered": 1
 		},
 		{
@@ -3738,7 +3798,7 @@
 			"country": "US",
 			"lat": 44.2685,
 			"long": -89.6165,
-			"confirmed_cases": 27,
+			"confirmed_cases": 28,
 			"deaths": 0,
 			"recovered": 1
 		},
@@ -3756,7 +3816,7 @@
 			"country": "US",
 			"lat": 42.756,
 			"long": -107.3025,
-			"confirmed_cases": 2,
+			"confirmed_cases": 3,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -3781,16 +3841,16 @@
 			"country": "United Arab Emirates",
 			"lat": 24,
 			"long": 54,
-			"confirmed_cases": 85,
+			"confirmed_cases": 86,
 			"deaths": 0,
-			"recovered": 17
+			"recovered": 23
 		},
 		{
 			"region": "Channel Islands",
 			"country": "United Kingdom",
 			"lat": 49.3723,
 			"long": -2.3644,
-			"confirmed_cases": 2,
+			"confirmed_cases": 3,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -3821,10 +3881,18 @@
 			"recovered": 0
 		},
 		{
+			"country": "Uzbekistan",
+			"lat": 41.3775,
+			"long": 64.5853,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0
+		},
+		{
 			"country": "Venezuela",
 			"lat": 6.4238,
 			"long": -66.5897,
-			"confirmed_cases": 2,
+			"confirmed_cases": 8,
 			"deaths": 0,
 			"recovered": 0
 		},
@@ -3832,7 +3900,7 @@
 			"country": "Vietnam",
 			"lat": 16,
 			"long": 108,
-			"confirmed_cases": 53,
+			"confirmed_cases": 56,
 			"deaths": 0,
 			"recovered": 16
 		},
