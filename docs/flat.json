@@ -1,45 +1,238 @@
 {
-	"data_date": "3/8/20",
+	"data_date": "3/19/20",
 	"data": [
 		{
 			"country": "Afghanistan",
 			"lat": 33,
 			"long": 65,
-			"confirmed_cases": 4,
+			"confirmed_cases": 22,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				22,
+				22,
+				21,
+				16,
+				11
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Albania",
+			"lat": 41.1533,
+			"long": 20.1683,
+			"confirmed_cases": 64,
+			"deaths": 2,
+			"recovered": 0,
+			"historic_cases": [
+				59,
+				55,
+				51,
+				42,
+				38
+			],
+			"historic_deaths": [
+				2,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Algeria",
 			"lat": 28.0339,
 			"long": 1.6596,
-			"confirmed_cases": 19,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 87,
+			"deaths": 9,
+			"recovered": 32,
+			"historic_cases": [
+				74,
+				60,
+				54,
+				48,
+				37
+			],
+			"historic_deaths": [
+				7,
+				4,
+				4,
+				4,
+				3
+			],
+			"historic_recovered": [
+				12,
+				12,
+				12,
+				12,
+				12
+			]
 		},
 		{
 			"country": "Andorra",
 			"lat": 42.5063,
 			"long": 1.5218,
+			"confirmed_cases": 53,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				39,
+				39,
+				2,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"country": "Antigua and Barbuda",
+			"lat": 17.0608,
+			"long": -61.7964,
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Argentina",
 			"lat": -38.4161,
 			"long": -63.6167,
-			"confirmed_cases": 12,
-			"deaths": 1,
-			"recovered": 0
+			"confirmed_cases": 97,
+			"deaths": 3,
+			"recovered": 3,
+			"historic_cases": [
+				79,
+				68,
+				56,
+				45,
+				34
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				3,
+				3,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"country": "Armenia",
 			"lat": 40.0691,
 			"long": 45.0382,
-			"confirmed_cases": 1,
+			"confirmed_cases": 115,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				84,
+				78,
+				52,
+				26,
+				18
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Australian Capital Territory",
+			"country": "Australia",
+			"lat": -35.4735,
+			"long": 149.0124,
+			"confirmed_cases": 4,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				2,
+				2,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "From Diamond Princess",
@@ -48,118 +241,499 @@
 			"long": 139.638,
 			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "New South Wales",
 			"country": "Australia",
 			"lat": -33.8688,
 			"long": 151.2093,
-			"confirmed_cases": 38,
-			"deaths": 3,
-			"recovered": 4
+			"confirmed_cases": 307,
+			"deaths": 5,
+			"recovered": 4,
+			"historic_cases": [
+				267,
+				210,
+				171,
+				134,
+				112
+			],
+			"historic_deaths": [
+				5,
+				4,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				4,
+				4,
+				4,
+				4,
+				4
+			]
 		},
 		{
 			"region": "Northern Territory",
 			"country": "Australia",
 			"lat": -12.4634,
 			"long": 130.8456,
-			"confirmed_cases": 0,
+			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Queensland",
 			"country": "Australia",
 			"lat": -28.0167,
 			"long": 153.4,
-			"confirmed_cases": 15,
+			"confirmed_cases": 144,
 			"deaths": 0,
-			"recovered": 8
+			"recovered": 8,
+			"historic_cases": [
+				94,
+				78,
+				68,
+				61,
+				46
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				8,
+				8,
+				8,
+				8,
+				8
+			]
 		},
 		{
 			"region": "South Australia",
 			"country": "Australia",
 			"lat": -34.9285,
 			"long": 138.6007,
-			"confirmed_cases": 7,
+			"confirmed_cases": 42,
 			"deaths": 0,
-			"recovered": 2
+			"recovered": 3,
+			"historic_cases": [
+				37,
+				29,
+				29,
+				20,
+				19
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				3,
+				3,
+				3,
+				3,
+				3
+			]
 		},
 		{
 			"region": "Tasmania",
 			"country": "Australia",
 			"lat": -41.4545,
 			"long": 145.9707,
-			"confirmed_cases": 2,
+			"confirmed_cases": 10,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 3,
+			"historic_cases": [
+				10,
+				7,
+				7,
+				6,
+				5
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Victoria",
 			"country": "Australia",
 			"lat": -37.8136,
 			"long": 144.9631,
-			"confirmed_cases": 11,
+			"confirmed_cases": 121,
 			"deaths": 0,
-			"recovered": 7
+			"recovered": 8,
+			"historic_cases": [
+				121,
+				94,
+				71,
+				57,
+				49
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				8,
+				8,
+				8,
+				8,
+				8
+			]
 		},
 		{
 			"region": "Western Australia",
 			"country": "Australia",
 			"lat": -31.9505,
 			"long": 115.8605,
-			"confirmed_cases": 3,
+			"confirmed_cases": 52,
 			"deaths": 1,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				35,
+				31,
+				28,
+				17,
+				17
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Austria",
 			"lat": 47.5162,
 			"long": 14.5501,
-			"confirmed_cases": 104,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 2013,
+			"deaths": 6,
+			"recovered": 9,
+			"historic_cases": [
+				1646,
+				1332,
+				1018,
+				860,
+				655
+			],
+			"historic_deaths": [
+				4,
+				3,
+				3,
+				1,
+				1
+			],
+			"historic_recovered": [
+				9,
+				1,
+				6,
+				6,
+				6
+			]
 		},
 		{
 			"country": "Azerbaijan",
 			"lat": 40.1431,
 			"long": 47.5769,
-			"confirmed_cases": 9,
+			"confirmed_cases": 44,
+			"deaths": 1,
+			"recovered": 6,
+			"historic_cases": [
+				28,
+				28,
+				15,
+				23,
+				15
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				6,
+				6,
+				6,
+				6,
+				3
+			]
+		},
+		{
+			"country": "Bahamas, The",
+			"lat": 25.0343,
+			"long": -77.3963,
+			"confirmed_cases": 3,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Bahrain",
 			"lat": 26.0275,
 			"long": 50.55,
-			"confirmed_cases": 85,
-			"deaths": 0,
-			"recovered": 4
+			"confirmed_cases": 278,
+			"deaths": 1,
+			"recovered": 100,
+			"historic_cases": [
+				256,
+				228,
+				214,
+				214,
+				210
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				88,
+				81,
+				77,
+				60,
+				44
+			]
 		},
 		{
 			"country": "Bangladesh",
 			"lat": 23.685,
 			"long": 90.3563,
-			"confirmed_cases": 3,
+			"confirmed_cases": 17,
+			"deaths": 1,
+			"recovered": 3,
+			"historic_cases": [
+				14,
+				10,
+				8,
+				5,
+				3
+			],
+			"historic_deaths": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				3,
+				3,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Barbados",
+			"lat": 13.1939,
+			"long": -59.5432,
+			"confirmed_cases": 5,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Belarus",
 			"lat": 53.7098,
 			"long": 27.9534,
-			"confirmed_cases": 6,
+			"confirmed_cases": 51,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 5,
+			"historic_cases": [
+				51,
+				36,
+				36,
+				27,
+				27
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				5,
+				3,
+				3,
+				3,
+				3
+			]
 		},
 		{
 			"country": "Belgium",
 			"lat": 50.8333,
 			"long": 4,
-			"confirmed_cases": 200,
+			"confirmed_cases": 1795,
+			"deaths": 21,
+			"recovered": 31,
+			"historic_cases": [
+				1486,
+				1243,
+				1058,
+				886,
+				689
+			],
+			"historic_deaths": [
+				14,
+				10,
+				5,
+				4,
+				4
+			],
+			"historic_recovered": [
+				31,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"country": "Benin",
+			"lat": 9.3077,
+			"long": 2.3158,
+			"confirmed_cases": 2,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Bhutan",
@@ -167,742 +741,4029 @@
 			"long": 90.4336,
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Bolivia",
+			"lat": -16.2902,
+			"long": -63.5887,
+			"confirmed_cases": 12,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				12,
+				11,
+				11,
+				10,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Bosnia and Herzegovina",
 			"lat": 43.9159,
 			"long": 17.6791,
-			"confirmed_cases": 3,
+			"confirmed_cases": 63,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 2,
+			"historic_cases": [
+				38,
+				26,
+				25,
+				24,
+				18
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Brazil",
 			"lat": -14.235,
 			"long": -51.9253,
-			"confirmed_cases": 20,
+			"confirmed_cases": 621,
+			"deaths": 6,
+			"recovered": 2,
+			"historic_cases": [
+				372,
+				321,
+				200,
+				162,
+				151
+			],
+			"historic_deaths": [
+				3,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Brunei",
+			"lat": 4.5353,
+			"long": 114.7277,
+			"confirmed_cases": 75,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				68,
+				56,
+				54,
+				50,
+				40
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Bulgaria",
 			"lat": 42.7339,
 			"long": 25.4858,
-			"confirmed_cases": 4,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 94,
+			"deaths": 3,
+			"recovered": 0,
+			"historic_cases": [
+				92,
+				67,
+				52,
+				51,
+				41
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Burkina Faso",
+			"lat": 12.2383,
+			"long": -1.5616,
+			"confirmed_cases": 33,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				20,
+				15,
+				15,
+				3,
+				2
+			],
+			"historic_deaths": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Cambodia",
 			"lat": 11.55,
 			"long": 104.9167,
-			"confirmed_cases": 2,
+			"confirmed_cases": 37,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 1,
+			"historic_cases": [
+				35,
+				33,
+				7,
+				7,
+				7
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"country": "Cameroon",
 			"lat": 3.848,
 			"long": 11.5021,
-			"confirmed_cases": 2,
+			"confirmed_cases": 13,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				10,
+				10,
+				4,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": " Montreal, QC",
+			"region": "Alberta",
 			"country": "Canada",
-			"lat": 45.5017,
-			"long": -73.5673,
-			"confirmed_cases": 4,
+			"lat": 53.9333,
+			"long": -116.5765,
+			"confirmed_cases": 119,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				97,
+				74,
+				56,
+				39,
+				29
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "British Columbia",
 			"country": "Canada",
 			"lat": 49.2827,
 			"long": -123.1207,
-			"confirmed_cases": 27,
-			"deaths": 0,
-			"recovered": 4
+			"confirmed_cases": 231,
+			"deaths": 7,
+			"recovered": 4,
+			"historic_cases": [
+				186,
+				103,
+				103,
+				73,
+				64
+			],
+			"historic_deaths": [
+				7,
+				4,
+				4,
+				1,
+				1
+			],
+			"historic_recovered": [
+				4,
+				4,
+				4,
+				4,
+				4
+			]
 		},
 		{
-			"region": "Calgary, Alberta",
+			"region": "Grand Princess",
 			"country": "Canada",
-			"lat": 51.0447,
-			"long": -114.0719,
-			"confirmed_cases": 1,
+			"lat": 37.6489,
+			"long": -122.6655,
+			"confirmed_cases": 9,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				9,
+				8,
+				2,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "Edmonton, Alberta",
+			"region": "Manitoba",
 			"country": "Canada",
-			"lat": 53.5461,
-			"long": -113.4938,
+			"lat": 53.7609,
+			"long": -98.8139,
+			"confirmed_cases": 17,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				15,
+				8,
+				7,
+				4,
+				4
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "New Brunswick",
+			"country": "Canada",
+			"lat": 46.5653,
+			"long": -66.4619,
+			"confirmed_cases": 11,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				11,
+				8,
+				6,
+				2,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Newfoundland and Labrador",
+			"country": "Canada",
+			"lat": 53.1355,
+			"long": -57.6604,
 			"confirmed_cases": 3,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				3,
+				1,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "London, ON",
+			"region": "Nova Scotia",
 			"country": "Canada",
-			"lat": 42.9849,
-			"long": -81.2453,
+			"lat": 44.682,
+			"long": -63.7443,
+			"confirmed_cases": 14,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				12,
+				7,
+				5,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Ontario",
+			"country": "Canada",
+			"lat": 51.2538,
+			"long": -85.3232,
+			"confirmed_cases": 257,
+			"deaths": 1,
+			"recovered": 5,
+			"historic_cases": [
+				221,
+				185,
+				177,
+				104,
+				79
+			],
+			"historic_deaths": [
+				1,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				5,
+				5,
+				5,
+				4,
+				4
+			]
+		},
+		{
+			"region": "Prince Edward Island",
+			"country": "Canada",
+			"lat": 46.5107,
+			"long": -63.4168,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Quebec",
+			"country": "Canada",
+			"lat": 52.9399,
+			"long": -73.5491,
+			"confirmed_cases": 121,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				94,
+				74,
+				50,
+				24,
+				17
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Saskatchewan",
+			"country": "Canada",
+			"lat": 52.9399,
+			"long": -106.4509,
+			"confirmed_cases": 16,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				8,
+				7,
+				7,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Central African Republic",
+			"lat": 6.6111,
+			"long": 20.9394,
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "Toronto, ON",
-			"country": "Canada",
-			"lat": 43.6532,
-			"long": -79.3832,
-			"confirmed_cases": 28,
+			"country": "Chad",
+			"lat": 15.4542,
+			"long": 18.7322,
+			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 3
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Chile",
 			"lat": -35.6751,
 			"long": -71.543,
-			"confirmed_cases": 8,
+			"confirmed_cases": 238,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				238,
+				201,
+				155,
+				74,
+				61
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Anhui",
+			"country": "China",
+			"lat": 31.8257,
+			"long": 117.2264,
+			"confirmed_cases": 990,
+			"deaths": 6,
+			"recovered": 984,
+			"historic_cases": [
+				990,
+				990,
+				990,
+				990,
+				990
+			],
+			"historic_deaths": [
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"historic_recovered": [
+				984,
+				984,
+				984,
+				984,
+				984
+			]
+		},
+		{
+			"region": "Beijing",
+			"country": "China",
+			"lat": 40.1824,
+			"long": 116.4142,
+			"confirmed_cases": 480,
+			"deaths": 8,
+			"recovered": 380,
+			"historic_cases": [
+				469,
+				456,
+				452,
+				442,
+				437
+			],
+			"historic_deaths": [
+				8,
+				8,
+				8,
+				8,
+				8
+			],
+			"historic_recovered": [
+				378,
+				369,
+				360,
+				353,
+				349
+			]
+		},
+		{
+			"region": "Chongqing",
+			"country": "China",
+			"lat": 30.0572,
+			"long": 107.874,
+			"confirmed_cases": 576,
+			"deaths": 6,
+			"recovered": 570,
+			"historic_cases": [
+				576,
+				576,
+				576,
+				576,
+				576
+			],
+			"historic_deaths": [
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"historic_recovered": [
+				570,
+				570,
+				570,
+				570,
+				569
+			]
+		},
+		{
+			"region": "Fujian",
+			"country": "China",
+			"lat": 26.0789,
+			"long": 117.9874,
+			"confirmed_cases": 296,
+			"deaths": 1,
+			"recovered": 295,
+			"historic_cases": [
+				296,
+				296,
+				296,
+				296,
+				296
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				295,
+				295,
+				295,
+				295,
+				295
+			]
+		},
+		{
+			"region": "Gansu",
+			"country": "China",
+			"lat": 37.8099,
+			"long": 101.0583,
+			"confirmed_cases": 134,
+			"deaths": 2,
+			"recovered": 91,
+			"historic_cases": [
+				133,
+				133,
+				133,
+				133,
+				129
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				91,
+				91,
+				91,
+				91,
+				89
+			]
+		},
+		{
+			"region": "Guangdong",
+			"country": "China",
+			"lat": 23.3417,
+			"long": 113.4244,
+			"confirmed_cases": 1378,
+			"deaths": 8,
+			"recovered": 1318,
+			"historic_cases": [
+				1370,
+				1364,
+				1361,
+				1360,
+				1356
+			],
+			"historic_deaths": [
+				8,
+				8,
+				8,
+				8,
+				8
+			],
+			"historic_recovered": [
+				1313,
+				1307,
+				1306,
+				1304,
+				1299
+			]
+		},
+		{
+			"region": "Guangxi",
+			"country": "China",
+			"lat": 23.8298,
+			"long": 108.7881,
+			"confirmed_cases": 253,
+			"deaths": 2,
+			"recovered": 250,
+			"historic_cases": [
+				253,
+				253,
+				252,
+				252,
+				252
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				250,
+				248,
+				248,
+				243,
+				243
+			]
+		},
+		{
+			"region": "Guizhou",
+			"country": "China",
+			"lat": 26.8154,
+			"long": 106.8748,
+			"confirmed_cases": 146,
+			"deaths": 2,
+			"recovered": 144,
+			"historic_cases": [
+				146,
+				147,
+				146,
+				146,
+				146
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				144,
+				144,
+				144,
+				143,
+				143
+			]
+		},
+		{
+			"region": "Hainan",
+			"country": "China",
+			"lat": 19.1959,
+			"long": 109.7453,
+			"confirmed_cases": 168,
+			"deaths": 6,
+			"recovered": 161,
+			"historic_cases": [
+				168,
+				168,
+				168,
+				168,
+				168
+			],
+			"historic_deaths": [
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"historic_recovered": [
+				161,
+				161,
+				161,
+				160,
+				160
+			]
+		},
+		{
+			"region": "Hebei",
+			"country": "China",
+			"lat": 39.549,
+			"long": 116.1306,
+			"confirmed_cases": 318,
+			"deaths": 6,
+			"recovered": 310,
+			"historic_cases": [
+				318,
+				318,
+				318,
+				318,
+				318
+			],
+			"historic_deaths": [
+				6,
+				6,
+				6,
+				6,
+				6
+			],
+			"historic_recovered": [
+				310,
+				310,
+				310,
+				310,
+				310
+			]
+		},
+		{
+			"region": "Heilongjiang",
+			"country": "China",
+			"lat": 47.862,
+			"long": 127.7615,
+			"confirmed_cases": 483,
+			"deaths": 13,
+			"recovered": 460,
+			"historic_cases": [
+				482,
+				482,
+				482,
+				482,
+				482
+			],
+			"historic_deaths": [
+				13,
+				13,
+				13,
+				13,
+				13
+			],
+			"historic_recovered": [
+				459,
+				456,
+				455,
+				453,
+				447
+			]
+		},
+		{
+			"region": "Henan",
+			"country": "China",
+			"lat": 33.882,
+			"long": 113.614,
+			"confirmed_cases": 1273,
+			"deaths": 22,
+			"recovered": 1250,
+			"historic_cases": [
+				1273,
+				1273,
+				1273,
+				1273,
+				1273
+			],
+			"historic_deaths": [
+				22,
+				22,
+				22,
+				22,
+				22
+			],
+			"historic_recovered": [
+				1250,
+				1250,
+				1250,
+				1250,
+				1250
+			]
+		},
+		{
+			"region": "Hong Kong",
+			"country": "China",
+			"lat": 22.3,
+			"long": 114.2,
+			"confirmed_cases": 208,
+			"deaths": 4,
+			"recovered": 95,
+			"historic_cases": [
+				181,
+				162,
+				155,
+				145,
+				140
+			],
+			"historic_deaths": [
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"historic_recovered": [
+				92,
+				88,
+				84,
+				81,
+				78
+			]
+		},
+		{
+			"region": "Hubei",
+			"country": "China",
+			"lat": 30.9756,
+			"long": 112.2707,
+			"confirmed_cases": 67800,
+			"deaths": 3130,
+			"recovered": 57682,
+			"historic_cases": [
+				67800,
+				67799,
+				67798,
+				67794,
+				67790
+			],
+			"historic_deaths": [
+				3122,
+				3111,
+				3099,
+				3085,
+				3075
+			],
+			"historic_recovered": [
+				56927,
+				56003,
+				55142,
+				54288,
+				52960
+			]
+		},
+		{
+			"region": "Hunan",
+			"country": "China",
+			"lat": 27.6104,
+			"long": 111.7088,
+			"confirmed_cases": 1018,
+			"deaths": 4,
+			"recovered": 1014,
+			"historic_cases": [
+				1018,
+				1018,
+				1018,
+				1018,
+				1018
+			],
+			"historic_deaths": [
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"historic_recovered": [
+				1014,
+				1014,
+				1014,
+				1014,
+				1014
+			]
+		},
+		{
+			"region": "Inner Mongolia",
+			"country": "China",
+			"lat": 44.0935,
+			"long": 113.9448,
+			"confirmed_cases": 75,
+			"deaths": 1,
+			"recovered": 74,
+			"historic_cases": [
+				75,
+				75,
+				75,
+				75,
+				75
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				73,
+				73,
+				73,
+				71,
+				71
+			]
+		},
+		{
+			"region": "Jiangsu",
+			"country": "China",
+			"lat": 32.9711,
+			"long": 119.455,
+			"confirmed_cases": 631,
+			"deaths": 0,
+			"recovered": 631,
+			"historic_cases": [
+				631,
+				631,
+				631,
+				631,
+				631
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				631,
+				631,
+				631,
+				631,
+				630
+			]
+		},
+		{
+			"region": "Jiangxi",
+			"country": "China",
+			"lat": 27.614,
+			"long": 115.7221,
+			"confirmed_cases": 935,
+			"deaths": 1,
+			"recovered": 934,
+			"historic_cases": [
+				935,
+				935,
+				935,
+				935,
+				935
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				934,
+				934,
+				934,
+				934,
+				934
+			]
+		},
+		{
+			"region": "Jilin",
+			"country": "China",
+			"lat": 43.6661,
+			"long": 126.1923,
+			"confirmed_cases": 93,
+			"deaths": 1,
+			"recovered": 92,
+			"historic_cases": [
+				93,
+				93,
+				93,
+				93,
+				93
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				92,
+				92,
+				92,
+				91,
+				91
+			]
+		},
+		{
+			"region": "Liaoning",
+			"country": "China",
+			"lat": 41.2956,
+			"long": 122.6085,
+			"confirmed_cases": 125,
+			"deaths": 1,
+			"recovered": 122,
+			"historic_cases": [
+				125,
+				125,
+				125,
+				125,
+				125
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				122,
+				120,
+				115,
+				114,
+				113
+			]
+		},
+		{
+			"region": "Macau",
+			"country": "China",
+			"lat": 22.1667,
+			"long": 113.55,
+			"confirmed_cases": 17,
+			"deaths": 0,
+			"recovered": 10,
+			"historic_cases": [
+				15,
+				12,
+				11,
+				10,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				10,
+				10,
+				10,
+				10,
+				10
+			]
+		},
+		{
+			"region": "Ningxia",
+			"country": "China",
+			"lat": 37.2692,
+			"long": 106.1655,
+			"confirmed_cases": 75,
+			"deaths": 0,
+			"recovered": 75,
+			"historic_cases": [
+				75,
+				75,
+				75,
+				75,
+				75
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				75,
+				75,
+				75,
+				73,
+				73
+			]
+		},
+		{
+			"region": "Qinghai",
+			"country": "China",
+			"lat": 35.7452,
+			"long": 95.9956,
+			"confirmed_cases": 18,
+			"deaths": 0,
+			"recovered": 18,
+			"historic_cases": [
+				18,
+				18,
+				18,
+				18,
+				18
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				18,
+				18,
+				18,
+				18,
+				18
+			]
+		},
+		{
+			"region": "Shaanxi",
+			"country": "China",
+			"lat": 35.1917,
+			"long": 108.8701,
+			"confirmed_cases": 246,
+			"deaths": 3,
+			"recovered": 237,
+			"historic_cases": [
+				246,
+				246,
+				245,
+				245,
+				245
+			],
+			"historic_deaths": [
+				3,
+				3,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				237,
+				236,
+				233,
+				232,
+				232
+			]
+		},
+		{
+			"region": "Shandong",
+			"country": "China",
+			"lat": 36.3427,
+			"long": 118.1498,
+			"confirmed_cases": 761,
+			"deaths": 7,
+			"recovered": 747,
+			"historic_cases": [
+				761,
+				761,
+				760,
+				760,
+				760
+			],
+			"historic_deaths": [
+				7,
+				7,
+				7,
+				7,
+				7
+			],
+			"historic_recovered": [
+				746,
+				746,
+				746,
+				741,
+				741
+			]
+		},
+		{
+			"region": "Shanghai",
+			"country": "China",
+			"lat": 31.202,
+			"long": 121.4491,
+			"confirmed_cases": 363,
+			"deaths": 3,
+			"recovered": 326,
+			"historic_cases": [
+				361,
+				358,
+				355,
+				353,
+				353
+			],
+			"historic_deaths": [
+				3,
+				3,
+				3,
+				3,
+				3
+			],
+			"historic_recovered": [
+				326,
+				325,
+				325,
+				324,
+				324
+			]
+		},
+		{
+			"region": "Shanxi",
+			"country": "China",
+			"lat": 37.5777,
+			"long": 112.2922,
+			"confirmed_cases": 133,
+			"deaths": 0,
+			"recovered": 133,
+			"historic_cases": [
+				133,
+				133,
+				133,
+				133,
+				133
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				133,
+				133,
+				133,
+				133,
+				133
+			]
+		},
+		{
+			"region": "Sichuan",
+			"country": "China",
+			"lat": 30.6171,
+			"long": 102.7103,
+			"confirmed_cases": 540,
+			"deaths": 3,
+			"recovered": 536,
+			"historic_cases": [
+				540,
+				540,
+				539,
+				539,
+				539
+			],
+			"historic_deaths": [
+				3,
+				3,
+				3,
+				3,
+				3
+			],
+			"historic_recovered": [
+				525,
+				520,
+				516,
+				516,
+				511
+			]
+		},
+		{
+			"region": "Tianjin",
+			"country": "China",
+			"lat": 39.3054,
+			"long": 117.323,
+			"confirmed_cases": 137,
+			"deaths": 3,
+			"recovered": 133,
+			"historic_cases": [
+				136,
+				136,
+				136,
+				136,
+				136
+			],
+			"historic_deaths": [
+				3,
+				3,
+				3,
+				3,
+				3
+			],
+			"historic_recovered": [
+				133,
+				133,
+				133,
+				133,
+				132
+			]
+		},
+		{
+			"region": "Tibet",
+			"country": "China",
+			"lat": 31.6927,
+			"long": 88.0924,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"region": "Xinjiang",
+			"country": "China",
+			"lat": 41.1129,
+			"long": 85.2401,
+			"confirmed_cases": 76,
+			"deaths": 3,
+			"recovered": 73,
+			"historic_cases": [
+				76,
+				76,
+				76,
+				76,
+				76
+			],
+			"historic_deaths": [
+				3,
+				3,
+				3,
+				3,
+				3
+			],
+			"historic_recovered": [
+				73,
+				73,
+				73,
+				73,
+				73
+			]
+		},
+		{
+			"region": "Yunnan",
+			"country": "China",
+			"lat": 24.974,
+			"long": 101.487,
+			"confirmed_cases": 176,
+			"deaths": 2,
+			"recovered": 172,
+			"historic_cases": [
+				176,
+				176,
+				176,
+				174,
+				174
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				172,
+				172,
+				172,
+				172,
+				172
+			]
+		},
+		{
+			"region": "Zhejiang",
+			"country": "China",
+			"lat": 29.1832,
+			"long": 120.0934,
+			"confirmed_cases": 1233,
+			"deaths": 1,
+			"recovered": 1217,
+			"historic_cases": [
+				1232,
+				1232,
+				1231,
+				1231,
+				1227
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				1216,
+				1216,
+				1216,
+				1211,
+				1211
+			]
 		},
 		{
 			"country": "Colombia",
 			"lat": 4.5709,
 			"long": -74.2973,
-			"confirmed_cases": 1,
+			"confirmed_cases": 102,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				93,
+				65,
+				54,
+				34,
+				22
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Congo (Brazzaville)",
+			"lat": -4.0383,
+			"long": 21.7587,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Congo (Kinshasa)",
+			"lat": -4.0383,
+			"long": 21.7587,
+			"confirmed_cases": 14,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				4,
+				3,
+				2,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Costa Rica",
 			"lat": 9.7489,
 			"long": -83.7534,
-			"confirmed_cases": 5,
+			"confirmed_cases": 69,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				50,
+				41,
+				35,
+				27,
+				26
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Cote d'Ivoire",
+			"lat": 7.54,
+			"long": -5.5471,
+			"confirmed_cases": 9,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				6,
+				5,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Croatia",
 			"lat": 45.1,
 			"long": 15.2,
-			"confirmed_cases": 12,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 105,
+			"deaths": 1,
+			"recovered": 5,
+			"historic_cases": [
+				81,
+				65,
+				57,
+				49,
+				38
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				4,
+				4,
+				2,
+				1,
+				1
+			]
 		},
 		{
-			"country": "Czech Republic",
+			"region": "Diamond Princess",
+			"country": "Cruise Ship",
+			"lat": 35.4437,
+			"long": 139.638,
+			"confirmed_cases": 712,
+			"deaths": 7,
+			"recovered": 325,
+			"historic_cases": [
+				712,
+				696,
+				696,
+				696,
+				696
+			],
+			"historic_deaths": [
+				7,
+				7,
+				7,
+				7,
+				7
+			],
+			"historic_recovered": [
+				325,
+				325,
+				325,
+				325,
+				325
+			]
+		},
+		{
+			"country": "Cuba",
+			"lat": 22,
+			"long": -80,
+			"confirmed_cases": 11,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				7,
+				5,
+				4,
+				4,
+				4
+			],
+			"historic_deaths": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Cyprus",
+			"lat": 35.1264,
+			"long": 33.4299,
+			"confirmed_cases": 67,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				49,
+				46,
+				33,
+				26,
+				26
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Czechia",
 			"lat": 49.8175,
 			"long": 15.473,
-			"confirmed_cases": 31,
+			"confirmed_cases": 694,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 3,
+			"historic_cases": [
+				464,
+				396,
+				298,
+				253,
+				189
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				3,
+				3,
+				3,
+				0,
+				0
+			]
 		},
 		{
+			"region": "Denmark",
 			"country": "Denmark",
 			"lat": 56.2639,
 			"long": 9.5018,
-			"confirmed_cases": 35,
+			"confirmed_cases": 1151,
+			"deaths": 6,
+			"recovered": 1,
+			"historic_cases": [
+				1057,
+				977,
+				914,
+				864,
+				827
+			],
+			"historic_deaths": [
+				4,
+				4,
+				3,
+				2,
+				1
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"region": "Faroe Islands",
+			"country": "Denmark",
+			"lat": 61.8926,
+			"long": -6.9118,
+			"confirmed_cases": 72,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				58,
+				47,
+				18,
+				11,
+				9
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Greenland",
+			"country": "Denmark",
+			"lat": 71.7069,
+			"long": -42.6043,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Djibouti",
+			"lat": 11.8251,
+			"long": 42.5903,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Dominican Republic",
 			"lat": 18.7357,
 			"long": -70.1627,
-			"confirmed_cases": 5,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 34,
+			"deaths": 2,
+			"recovered": 0,
+			"historic_cases": [
+				21,
+				21,
+				11,
+				11,
+				11
+			],
+			"historic_deaths": [
+				1,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Ecuador",
 			"lat": -1.8312,
 			"long": -78.1834,
-			"confirmed_cases": 14,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 199,
+			"deaths": 3,
+			"recovered": 0,
+			"historic_cases": [
+				111,
+				58,
+				37,
+				28,
+				28
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Egypt",
 			"lat": 26,
 			"long": 30,
-			"confirmed_cases": 49,
-			"deaths": 1,
-			"recovered": 1
+			"confirmed_cases": 256,
+			"deaths": 6,
+			"recovered": 32,
+			"historic_cases": [
+				196,
+				196,
+				150,
+				110,
+				109
+			],
+			"historic_deaths": [
+				6,
+				4,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				32,
+				32,
+				27,
+				21,
+				27
+			]
+		},
+		{
+			"country": "El Salvador",
+			"lat": 13.7942,
+			"long": -88.8965,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Equatorial Guinea",
+			"lat": 1.5,
+			"long": 10,
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				4,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Estonia",
 			"lat": 58.5953,
 			"long": 25.0136,
-			"confirmed_cases": 10,
+			"confirmed_cases": 267,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				258,
+				225,
+				205,
+				171,
+				115
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				0
+			]
 		},
 		{
-			"country": "Faroe Islands",
-			"lat": 61.8926,
-			"long": -6.9118,
-			"confirmed_cases": 2,
+			"country": "Eswatini",
+			"lat": -26.5225,
+			"long": 31.4659,
+			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Ethiopia",
+			"lat": 9.145,
+			"long": 40.4897,
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				6,
+				5,
+				5,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Fiji",
+			"lat": -17.7134,
+			"long": 178.065,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Finland",
 			"lat": 64,
 			"long": 26,
-			"confirmed_cases": 23,
+			"confirmed_cases": 400,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 10,
+			"historic_cases": [
+				336,
+				321,
+				277,
+				244,
+				225
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				10,
+				10,
+				10,
+				10,
+				1
+			]
 		},
 		{
+			"region": "France",
 			"country": "France",
-			"lat": 47,
-			"long": 2,
-			"confirmed_cases": 1126,
-			"deaths": 19,
-			"recovered": 12
+			"lat": 46.2276,
+			"long": 2.2137,
+			"confirmed_cases": 10871,
+			"deaths": 243,
+			"recovered": 12,
+			"historic_cases": [
+				9043,
+				7652,
+				6633,
+				4499,
+				4469
+			],
+			"historic_deaths": [
+				148,
+				148,
+				148,
+				91,
+				91
+			],
+			"historic_recovered": [
+				12,
+				12,
+				12,
+				12,
+				12
+			]
 		},
 		{
-			"country": "French Guiana",
+			"region": "French Guiana",
+			"country": "France",
 			"lat": 3.9339,
 			"long": -53.1258,
-			"confirmed_cases": 5,
+			"confirmed_cases": 11,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				11,
+				11,
+				11,
+				7,
+				5
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "French Polynesia",
+			"country": "France",
+			"lat": -17.6797,
+			"long": 149.4068,
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				3,
+				3,
+				3,
+				3
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Guadeloupe",
+			"country": "France",
+			"lat": 16.25,
+			"long": -61.5833,
+			"confirmed_cases": 33,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				27,
+				18,
+				6,
+				3,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Mayotte",
+			"country": "France",
+			"lat": -12.8275,
+			"long": 45.1662,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "New Caledonia",
+			"country": "France",
+			"lat": -20.9043,
+			"long": 165.618,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Reunion",
+			"country": "France",
+			"lat": -21.1351,
+			"long": 55.2471,
+			"confirmed_cases": 14,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				12,
+				9,
+				9,
+				7,
+				6
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Saint Barthelemy",
+			"country": "France",
+			"lat": 17.9,
+			"long": -62.8333,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				3,
+				3,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "St Martin",
+			"country": "France",
+			"lat": 18.0708,
+			"long": -63.0501,
+			"confirmed_cases": 4,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Gabon",
+			"lat": -0.8037,
+			"long": 11.6094,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Gambia, The",
+			"lat": 13.4432,
+			"long": -15.3101,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Georgia",
 			"lat": 42.3154,
 			"long": 43.3569,
-			"confirmed_cases": 13,
+			"confirmed_cases": 40,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				38,
+				34,
+				33,
+				33,
+				30
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Germany",
 			"lat": 51,
 			"long": 9,
-			"confirmed_cases": 1040,
-			"deaths": 0,
-			"recovered": 18
+			"confirmed_cases": 15320,
+			"deaths": 44,
+			"recovered": 113,
+			"historic_cases": [
+				12327,
+				9257,
+				7272,
+				5795,
+				4585
+			],
+			"historic_deaths": [
+				28,
+				24,
+				17,
+				11,
+				9
+			],
+			"historic_recovered": [
+				105,
+				67,
+				67,
+				46,
+				46
+			]
 		},
 		{
-			"country": "Gibraltar",
-			"lat": 36.1408,
-			"long": -5.3536,
-			"confirmed_cases": 1,
+			"country": "Ghana",
+			"lat": 7.9465,
+			"long": -1.0232,
+			"confirmed_cases": 11,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				7,
+				7,
+				6,
+				6,
+				3
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Greece",
 			"lat": 39.0742,
 			"long": 21.8243,
-			"confirmed_cases": 73,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 418,
+			"deaths": 6,
+			"recovered": 8,
+			"historic_cases": [
+				418,
+				387,
+				331,
+				331,
+				228
+			],
+			"historic_deaths": [
+				5,
+				5,
+				4,
+				4,
+				3
+			],
+			"historic_recovered": [
+				8,
+				8,
+				8,
+				8,
+				8
+			]
 		},
 		{
-			"region": "Hong Kong",
-			"country": "Hong Kong",
-			"lat": 22.3,
-			"long": 114.2,
-			"confirmed_cases": 114,
-			"deaths": 3,
-			"recovered": 58
+			"country": "Guatemala",
+			"lat": 15.7835,
+			"long": -90.2308,
+			"confirmed_cases": 9,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				6,
+				6,
+				2,
+				1,
+				1
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Guinea",
+			"lat": 9.9456,
+			"long": -9.6966,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Guyana",
+			"lat": 5,
+			"long": -58.75,
+			"confirmed_cases": 7,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				7,
+				7,
+				4,
+				4,
+				1
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Holy See",
+			"lat": 41.9029,
+			"long": 12.4534,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Honduras",
+			"lat": 15.2,
+			"long": -86.2419,
+			"confirmed_cases": 12,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				9,
+				8,
+				6,
+				3,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Hungary",
 			"lat": 47.1625,
 			"long": 19.5033,
-			"confirmed_cases": 7,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 73,
+			"deaths": 1,
+			"recovered": 2,
+			"historic_cases": [
+				58,
+				50,
+				39,
+				32,
+				30
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"country": "Iceland",
 			"lat": 64.9631,
 			"long": -19.0208,
-			"confirmed_cases": 50,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 330,
+			"deaths": 1,
+			"recovered": 5,
+			"historic_cases": [
+				250,
+				220,
+				180,
+				171,
+				156
+			],
+			"historic_deaths": [
+				1,
+				1,
+				0,
+				5,
+				0
+			],
+			"historic_recovered": [
+				5,
+				0,
+				0,
+				8,
+				1
+			]
 		},
 		{
 			"country": "India",
 			"lat": 21,
 			"long": 78,
-			"confirmed_cases": 39,
-			"deaths": 0,
-			"recovered": 3
+			"confirmed_cases": 194,
+			"deaths": 4,
+			"recovered": 15,
+			"historic_cases": [
+				156,
+				142,
+				119,
+				113,
+				102
+			],
+			"historic_deaths": [
+				3,
+				3,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				14,
+				14,
+				13,
+				13,
+				4
+			]
 		},
 		{
 			"country": "Indonesia",
 			"lat": -0.7893,
 			"long": 113.9213,
-			"confirmed_cases": 6,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 311,
+			"deaths": 25,
+			"recovered": 11,
+			"historic_cases": [
+				227,
+				172,
+				134,
+				117,
+				96
+			],
+			"historic_deaths": [
+				19,
+				5,
+				5,
+				5,
+				5
+			],
+			"historic_recovered": [
+				11,
+				8,
+				8,
+				8,
+				8
+			]
 		},
 		{
 			"country": "Iran",
 			"lat": 32,
 			"long": 53,
-			"confirmed_cases": 6566,
-			"deaths": 194,
-			"recovered": 2134
+			"confirmed_cases": 18407,
+			"deaths": 1284,
+			"recovered": 5710,
+			"historic_cases": [
+				17361,
+				16169,
+				14991,
+				13938,
+				12729
+			],
+			"historic_deaths": [
+				1135,
+				988,
+				853,
+				724,
+				611
+			],
+			"historic_recovered": [
+				5389,
+				5389,
+				4590,
+				4590,
+				2959
+			]
 		},
 		{
 			"country": "Iraq",
 			"lat": 33,
 			"long": 44,
-			"confirmed_cases": 60,
-			"deaths": 6,
-			"recovered": 0
+			"confirmed_cases": 192,
+			"deaths": 13,
+			"recovered": 43,
+			"historic_cases": [
+				164,
+				154,
+				124,
+				116,
+				110
+			],
+			"historic_deaths": [
+				12,
+				11,
+				10,
+				10,
+				10
+			],
+			"historic_recovered": [
+				43,
+				32,
+				26,
+				26,
+				26
+			]
 		},
 		{
 			"country": "Ireland",
 			"lat": 53.1424,
 			"long": -7.6921,
-			"confirmed_cases": 19,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 557,
+			"deaths": 3,
+			"recovered": 5,
+			"historic_cases": [
+				292,
+				223,
+				169,
+				129,
+				129
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				5,
+				5,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Israel",
 			"lat": 31,
 			"long": 35,
-			"confirmed_cases": 39,
+			"confirmed_cases": 677,
 			"deaths": 0,
-			"recovered": 2
+			"recovered": 11,
+			"historic_cases": [
+				433,
+				337,
+				255,
+				251,
+				193
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				11,
+				11,
+				4,
+				4,
+				4
+			]
 		},
 		{
 			"country": "Italy",
 			"lat": 43,
 			"long": 12,
-			"confirmed_cases": 7375,
-			"deaths": 366,
-			"recovered": 622
+			"confirmed_cases": 41035,
+			"deaths": 3405,
+			"recovered": 4440,
+			"historic_cases": [
+				35713,
+				31506,
+				27980,
+				24747,
+				21157
+			],
+			"historic_deaths": [
+				2978,
+				2503,
+				2158,
+				1809,
+				1441
+			],
+			"historic_recovered": [
+				4025,
+				2941,
+				2749,
+				2335,
+				1966
+			]
+		},
+		{
+			"country": "Jamaica",
+			"lat": 18.1096,
+			"long": -77.2975,
+			"confirmed_cases": 15,
+			"deaths": 1,
+			"recovered": 2,
+			"historic_cases": [
+				13,
+				12,
+				10,
+				10,
+				8
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				2,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Japan",
 			"lat": 36,
 			"long": 138,
-			"confirmed_cases": 502,
-			"deaths": 6,
-			"recovered": 76
+			"confirmed_cases": 924,
+			"deaths": 29,
+			"recovered": 150,
+			"historic_cases": [
+				889,
+				878,
+				825,
+				839,
+				773
+			],
+			"historic_deaths": [
+				29,
+				29,
+				27,
+				22,
+				22
+			],
+			"historic_recovered": [
+				144,
+				144,
+				144,
+				118,
+				118
+			]
 		},
 		{
 			"country": "Jordan",
 			"lat": 31.24,
 			"long": 36.51,
-			"confirmed_cases": 1,
+			"confirmed_cases": 69,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				52,
+				34,
+				17,
+				8,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"country": "Kazakhstan",
+			"lat": 48.0196,
+			"long": 66.9237,
+			"confirmed_cases": 44,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				35,
+				33,
+				10,
+				9,
+				6
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Kenya",
+			"lat": -0.0236,
+			"long": 37.9062,
+			"confirmed_cases": 7,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				3,
+				3,
+				3,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Korea, South",
+			"lat": 36,
+			"long": 128,
+			"confirmed_cases": 8565,
+			"deaths": 91,
+			"recovered": 1540,
+			"historic_cases": [
+				8413,
+				8320,
+				8236,
+				8162,
+				8086
+			],
+			"historic_deaths": [
+				84,
+				81,
+				75,
+				75,
+				72
+			],
+			"historic_recovered": [
+				1540,
+				1407,
+				1137,
+				510,
+				510
+			]
+		},
+		{
+			"country": "Kosovo",
+			"lat": 42.6026,
+			"long": 20.903,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				2,
+				2,
+				2,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Kuwait",
 			"lat": 29.5,
 			"long": 47.75,
-			"confirmed_cases": 64,
+			"confirmed_cases": 148,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 18,
+			"historic_cases": [
+				142,
+				130,
+				123,
+				112,
+				104
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				15,
+				9,
+				9,
+				5,
+				5
+			]
+		},
+		{
+			"country": "Kyrgyzstan",
+			"lat": 41.2044,
+			"long": 74.7661,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Latvia",
 			"lat": 56.8796,
 			"long": 24.6032,
-			"confirmed_cases": 2,
+			"confirmed_cases": 86,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				71,
+				49,
+				34,
+				30,
+				26
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"country": "Lebanon",
 			"lat": 33.8547,
 			"long": 35.8623,
-			"confirmed_cases": 32,
+			"confirmed_cases": 157,
+			"deaths": 4,
+			"recovered": 4,
+			"historic_cases": [
+				133,
+				120,
+				99,
+				110,
+				93
+			],
+			"historic_deaths": [
+				3,
+				3,
+				3,
+				3,
+				3
+			],
+			"historic_recovered": [
+				3,
+				3,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"country": "Liberia",
+			"lat": 6.4281,
+			"long": -9.4295,
+			"confirmed_cases": 2,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Liechtenstein",
 			"lat": 47.14,
 			"long": 9.55,
-			"confirmed_cases": 1,
+			"confirmed_cases": 28,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				28,
+				7,
+				4,
+				4,
+				4
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Lithuania",
 			"lat": 55.1694,
 			"long": 23.8813,
-			"confirmed_cases": 1,
+			"confirmed_cases": 36,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				27,
+				25,
+				17,
+				12,
+				8
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				0
+			]
 		},
 		{
 			"country": "Luxembourg",
 			"lat": 49.8153,
 			"long": 6.1296,
-			"confirmed_cases": 3,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"region": "Macau",
-			"country": "Macau",
-			"lat": 22.1667,
-			"long": 113.55,
-			"confirmed_cases": 10,
-			"deaths": 0,
-			"recovered": 10
-		},
-		{
-			"region": "Anhui",
-			"country": "Mainland China",
-			"lat": 31.8257,
-			"long": 117.2264,
-			"confirmed_cases": 990,
-			"deaths": 6,
-			"recovered": 984
-		},
-		{
-			"region": "Beijing",
-			"country": "Mainland China",
-			"lat": 40.1824,
-			"long": 116.4142,
-			"confirmed_cases": 428,
-			"deaths": 8,
-			"recovered": 308
-		},
-		{
-			"region": "Chongqing",
-			"country": "Mainland China",
-			"lat": 30.0572,
-			"long": 107.874,
-			"confirmed_cases": 576,
-			"deaths": 6,
-			"recovered": 527
-		},
-		{
-			"region": "Fujian",
-			"country": "Mainland China",
-			"lat": 26.0789,
-			"long": 117.9874,
-			"confirmed_cases": 296,
-			"deaths": 1,
-			"recovered": 295
-		},
-		{
-			"region": "Gansu",
-			"country": "Mainland China",
-			"lat": 36.0611,
-			"long": 103.8343,
-			"confirmed_cases": 124,
-			"deaths": 2,
-			"recovered": 87
-		},
-		{
-			"region": "Guangdong",
-			"country": "Mainland China",
-			"lat": 23.3417,
-			"long": 113.4244,
-			"confirmed_cases": 1352,
-			"deaths": 7,
-			"recovered": 1256
-		},
-		{
-			"region": "Guangxi",
-			"country": "Mainland China",
-			"lat": 23.8298,
-			"long": 108.7881,
-			"confirmed_cases": 252,
-			"deaths": 2,
-			"recovered": 223
-		},
-		{
-			"region": "Guizhou",
-			"country": "Mainland China",
-			"lat": 26.8154,
-			"long": 106.8748,
-			"confirmed_cases": 146,
-			"deaths": 2,
-			"recovered": 117
-		},
-		{
-			"region": "Hainan",
-			"country": "Mainland China",
-			"lat": 19.1959,
-			"long": 109.7453,
-			"confirmed_cases": 168,
-			"deaths": 6,
-			"recovered": 159
-		},
-		{
-			"region": "Hebei",
-			"country": "Mainland China",
-			"lat": 38.0428,
-			"long": 114.5149,
-			"confirmed_cases": 318,
-			"deaths": 6,
-			"recovered": 307
-		},
-		{
-			"region": "Heilongjiang",
-			"country": "Mainland China",
-			"lat": 47.862,
-			"long": 127.7615,
-			"confirmed_cases": 481,
-			"deaths": 13,
-			"recovered": 412
-		},
-		{
-			"region": "Henan",
-			"country": "Mainland China",
-			"lat": 33.88202,
-			"long": 113.614,
-			"confirmed_cases": 1272,
-			"deaths": 22,
-			"recovered": 1247
-		},
-		{
-			"region": "Hubei",
-			"country": "Mainland China",
-			"lat": 30.9756,
-			"long": 112.2707,
-			"confirmed_cases": 67707,
-			"deaths": 2986,
-			"recovered": 45235
-		},
-		{
-			"region": "Hunan",
-			"country": "Mainland China",
-			"lat": 27.6104,
-			"long": 111.7088,
-			"confirmed_cases": 1018,
+			"confirmed_cases": 335,
 			"deaths": 4,
-			"recovered": 968
-		},
-		{
-			"region": "Inner Mongolia",
-			"country": "Mainland China",
-			"lat": 44.0935,
-			"long": 113.9448,
-			"confirmed_cases": 75,
-			"deaths": 1,
-			"recovered": 70
-		},
-		{
-			"region": "Jiangsu",
-			"country": "Mainland China",
-			"lat": 32.9711,
-			"long": 119.455,
-			"confirmed_cases": 631,
-			"deaths": 0,
-			"recovered": 612
-		},
-		{
-			"region": "Jiangxi",
-			"country": "Mainland China",
-			"lat": 27.614,
-			"long": 115.7221,
-			"confirmed_cases": 935,
-			"deaths": 1,
-			"recovered": 919
-		},
-		{
-			"region": "Jilin",
-			"country": "Mainland China",
-			"lat": 43.6661,
-			"long": 126.1923,
-			"confirmed_cases": 93,
-			"deaths": 1,
-			"recovered": 90
-		},
-		{
-			"region": "Liaoning",
-			"country": "Mainland China",
-			"lat": 41.2956,
-			"long": 122.6085,
-			"confirmed_cases": 125,
-			"deaths": 1,
-			"recovered": 109
-		},
-		{
-			"region": "Ningxia",
-			"country": "Mainland China",
-			"lat": 37.2692,
-			"long": 106.1655,
-			"confirmed_cases": 75,
-			"deaths": 0,
-			"recovered": 71
-		},
-		{
-			"region": "Qinghai",
-			"country": "Mainland China",
-			"lat": 35.7452,
-			"long": 95.9956,
-			"confirmed_cases": 18,
-			"deaths": 0,
-			"recovered": 18
-		},
-		{
-			"region": "Shaanxi",
-			"country": "Mainland China",
-			"lat": 35.1917,
-			"long": 108.8701,
-			"confirmed_cases": 245,
-			"deaths": 1,
-			"recovered": 227
-		},
-		{
-			"region": "Shandong",
-			"country": "Mainland China",
-			"lat": 36.3427,
-			"long": 118.1498,
-			"confirmed_cases": 758,
-			"deaths": 6,
-			"recovered": 642
-		},
-		{
-			"region": "Shanghai",
-			"country": "Mainland China",
-			"lat": 31.202,
-			"long": 121.4491,
-			"confirmed_cases": 342,
-			"deaths": 3,
-			"recovered": 314
-		},
-		{
-			"region": "Shanxi",
-			"country": "Mainland China",
-			"lat": 37.5777,
-			"long": 112.2922,
-			"confirmed_cases": 133,
-			"deaths": 0,
-			"recovered": 126
-		},
-		{
-			"region": "Sichuan",
-			"country": "Mainland China",
-			"lat": 30.6171,
-			"long": 102.7103,
-			"confirmed_cases": 539,
-			"deaths": 3,
-			"recovered": 464
-		},
-		{
-			"region": "Tianjin",
-			"country": "Mainland China",
-			"lat": 39.3054,
-			"long": 117.323,
-			"confirmed_cases": 136,
-			"deaths": 3,
-			"recovered": 128
-		},
-		{
-			"region": "Tibet",
-			"country": "Mainland China",
-			"lat": 31.6927,
-			"long": 88.0924,
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"region": "Xinjiang",
-			"country": "Mainland China",
-			"lat": 41.1129,
-			"long": 85.2401,
-			"confirmed_cases": 76,
-			"deaths": 3,
-			"recovered": 73
-		},
-		{
-			"region": "Yunnan",
-			"country": "Mainland China",
-			"lat": 24.974,
-			"long": 101.487,
-			"confirmed_cases": 174,
-			"deaths": 2,
-			"recovered": 170
-		},
-		{
-			"region": "Zhejiang",
-			"country": "Mainland China",
-			"lat": 29.1832,
-			"long": 120.0934,
-			"confirmed_cases": 1215,
-			"deaths": 1,
-			"recovered": 1161
+			"recovered": 0,
+			"historic_cases": [
+				203,
+				140,
+				77,
+				59,
+				51
+			],
+			"historic_deaths": [
+				2,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Malaysia",
 			"lat": 2.5,
 			"long": 112.5,
-			"confirmed_cases": 99,
-			"deaths": 0,
-			"recovered": 24
+			"confirmed_cases": 900,
+			"deaths": 2,
+			"recovered": 75,
+			"historic_cases": [
+				790,
+				673,
+				566,
+				428,
+				238
+			],
+			"historic_deaths": [
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				60,
+				49,
+				42,
+				42,
+				35
+			]
 		},
 		{
 			"country": "Maldives",
 			"lat": 3.2028,
 			"long": 73.2207,
-			"confirmed_cases": 4,
+			"confirmed_cases": 13,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				13,
+				13,
+				13,
+				13,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Malta",
 			"lat": 35.9375,
 			"long": 14.3754,
-			"confirmed_cases": 3,
+			"confirmed_cases": 53,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 2,
+			"historic_cases": [
+				38,
+				38,
+				30,
+				21,
+				18
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				2,
+				1,
+				1
+			]
 		},
 		{
 			"country": "Martinique",
 			"lat": 14.6415,
 			"long": -61.0242,
+			"confirmed_cases": 23,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				19,
+				16,
+				15,
+				9,
+				9
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Mauritania",
+			"lat": 21.0079,
+			"long": 10.9408,
 			"confirmed_cases": 2,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Mauritius",
+			"lat": -20.2,
+			"long": 57.5,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Mexico",
 			"lat": 23.6345,
 			"long": -102.5528,
-			"confirmed_cases": 7,
-			"deaths": 0,
-			"recovered": 1
+			"confirmed_cases": 118,
+			"deaths": 1,
+			"recovered": 4,
+			"historic_cases": [
+				93,
+				82,
+				53,
+				41,
+				26
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				4,
+				4,
+				4,
+				4,
+				4
+			]
 		},
 		{
 			"country": "Moldova",
 			"lat": 47.4116,
 			"long": 28.3699,
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 49,
+			"deaths": 1,
+			"recovered": 1,
+			"historic_cases": [
+				30,
+				30,
+				23,
+				23,
+				12
+			],
+			"historic_deaths": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Monaco",
 			"lat": 43.7333,
 			"long": 7.4167,
-			"confirmed_cases": 1,
+			"confirmed_cases": 7,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				7,
+				7,
+				7,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Mongolia",
+			"lat": 46.8625,
+			"long": 103.8467,
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				6,
+				5,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Montenegro",
+			"lat": 42.5,
+			"long": 19.3,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Morocco",
 			"lat": 31.7917,
 			"long": -7.0926,
-			"confirmed_cases": 2,
+			"confirmed_cases": 63,
+			"deaths": 2,
+			"recovered": 1,
+			"historic_cases": [
+				49,
+				38,
+				29,
+				28,
+				17
+			],
+			"historic_deaths": [
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"country": "Namibia",
+			"lat": -22.9576,
+			"long": 18.4904,
+			"confirmed_cases": 3,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Nepal",
@@ -910,281 +4771,1220 @@
 			"long": 84.25,
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 1,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
 		},
 		{
+			"region": "Aruba",
+			"country": "Netherlands",
+			"lat": 12.5186,
+			"long": -70.0358,
+			"confirmed_cases": 4,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				4,
+				3,
+				2,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Curacao",
+			"country": "Netherlands",
+			"lat": 12.1696,
+			"long": -68.99,
+			"confirmed_cases": 3,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				3,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Netherlands",
 			"country": "Netherlands",
 			"lat": 52.1326,
 			"long": 5.2913,
-			"confirmed_cases": 265,
-			"deaths": 3,
-			"recovered": 0
+			"confirmed_cases": 2460,
+			"deaths": 76,
+			"recovered": 2,
+			"historic_cases": [
+				2051,
+				1705,
+				1413,
+				1135,
+				959
+			],
+			"historic_deaths": [
+				58,
+				43,
+				24,
+				20,
+				12
+			],
+			"historic_recovered": [
+				2,
+				2,
+				2,
+				2,
+				2
+			]
 		},
 		{
 			"country": "New Zealand",
 			"lat": -40.9006,
 			"long": 174.886,
-			"confirmed_cases": 5,
+			"confirmed_cases": 28,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				20,
+				12,
+				8,
+				8,
+				6
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Nicaragua",
+			"lat": 12.8654,
+			"long": -85.2072,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Nigeria",
 			"lat": 9.082,
 			"long": 8.6753,
-			"confirmed_cases": 1,
+			"confirmed_cases": 8,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				8,
+				3,
+				2,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "North Macedonia",
 			"lat": 41.6086,
 			"long": 21.7453,
-			"confirmed_cases": 3,
+			"confirmed_cases": 48,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				35,
+				26,
+				18,
+				14,
+				14
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"country": "Norway",
 			"lat": 60.472,
 			"long": 8.4689,
-			"confirmed_cases": 176,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 1746,
+			"deaths": 7,
+			"recovered": 1,
+			"historic_cases": [
+				1550,
+				1463,
+				1333,
+				1221,
+				1090
+			],
+			"historic_deaths": [
+				6,
+				3,
+				3,
+				3,
+				3
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"country": "Oman",
 			"lat": 21,
 			"long": 57,
-			"confirmed_cases": 16,
+			"confirmed_cases": 48,
 			"deaths": 0,
-			"recovered": 2
-		},
-		{
-			"region": "Diamond Princess cruise ship",
-			"country": "Others",
-			"lat": 35.4437,
-			"long": 139.638,
-			"confirmed_cases": 696,
-			"deaths": 6,
-			"recovered": 40
+			"recovered": 12,
+			"historic_cases": [
+				39,
+				24,
+				22,
+				22,
+				19
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				12,
+				9,
+				9,
+				9,
+				9
+			]
 		},
 		{
 			"country": "Pakistan",
 			"lat": 30.3753,
 			"long": 69.3451,
-			"confirmed_cases": 6,
-			"deaths": 0,
-			"recovered": 1
+			"confirmed_cases": 454,
+			"deaths": 2,
+			"recovered": 13,
+			"historic_cases": [
+				299,
+				236,
+				136,
+				53,
+				31
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				2,
+				2,
+				2
+			]
 		},
 		{
-			"country": "Palestine",
-			"lat": 31.9522,
-			"long": 35.2332,
-			"confirmed_cases": 22,
-			"deaths": 0,
-			"recovered": 0
+			"country": "Panama",
+			"lat": 8.538,
+			"long": -80.7821,
+			"confirmed_cases": 109,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				86,
+				69,
+				55,
+				43,
+				36
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Paraguay",
 			"lat": -23.4425,
 			"long": -58.4438,
-			"confirmed_cases": 1,
+			"confirmed_cases": 11,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				11,
+				9,
+				8,
+				6,
+				6
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Peru",
 			"lat": -9.19,
 			"long": -75.0152,
-			"confirmed_cases": 6,
+			"confirmed_cases": 234,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				145,
+				117,
+				86,
+				43,
+				38
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Philippines",
 			"lat": 13,
 			"long": 122,
-			"confirmed_cases": 10,
-			"deaths": 1,
-			"recovered": 1
+			"confirmed_cases": 217,
+			"deaths": 17,
+			"recovered": 8,
+			"historic_cases": [
+				202,
+				187,
+				142,
+				140,
+				111
+			],
+			"historic_deaths": [
+				19,
+				12,
+				12,
+				11,
+				8
+			],
+			"historic_recovered": [
+				5,
+				5,
+				2,
+				2,
+				2
+			]
 		},
 		{
 			"country": "Poland",
 			"lat": 51.9194,
 			"long": 19.1451,
-			"confirmed_cases": 11,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 355,
+			"deaths": 5,
+			"recovered": 1,
+			"historic_cases": [
+				251,
+				238,
+				177,
+				119,
+				103
+			],
+			"historic_deaths": [
+				5,
+				5,
+				4,
+				3,
+				3
+			],
+			"historic_recovered": [
+				13,
+				13,
+				13,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Portugal",
 			"lat": 39.3999,
 			"long": -8.2245,
-			"confirmed_cases": 30,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 785,
+			"deaths": 3,
+			"recovered": 3,
+			"historic_cases": [
+				448,
+				448,
+				331,
+				245,
+				169
+			],
+			"historic_deaths": [
+				2,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				3,
+				3,
+				3,
+				2,
+				2
+			]
 		},
 		{
 			"country": "Qatar",
 			"lat": 25.3548,
 			"long": 51.1839,
-			"confirmed_cases": 15,
+			"confirmed_cases": 460,
 			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"country": "Republic of Ireland",
-			"lat": 53.1424,
-			"long": -7.6921,
-			"confirmed_cases": 21,
-			"deaths": 0,
-			"recovered": 0
+			"recovered": 4,
+			"historic_cases": [
+				452,
+				439,
+				439,
+				401,
+				337
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				4,
+				4,
+				4,
+				4,
+				4
+			]
 		},
 		{
 			"country": "Romania",
 			"lat": 45.9432,
 			"long": 24.9668,
-			"confirmed_cases": 15,
+			"confirmed_cases": 277,
 			"deaths": 0,
-			"recovered": 3
+			"recovered": 25,
+			"historic_cases": [
+				260,
+				184,
+				158,
+				131,
+				123
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				19,
+				16,
+				9,
+				9,
+				9
+			]
 		},
 		{
 			"country": "Russia",
 			"lat": 60,
 			"long": 90,
-			"confirmed_cases": 17,
-			"deaths": 0,
-			"recovered": 3
+			"confirmed_cases": 199,
+			"deaths": 1,
+			"recovered": 9,
+			"historic_cases": [
+				147,
+				114,
+				90,
+				63,
+				59
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				8,
+				8,
+				8,
+				8,
+				8
+			]
 		},
 		{
-			"country": "Saint Barthelemy",
-			"lat": 17.9,
-			"long": -62.8333,
-			"confirmed_cases": 3,
+			"country": "Rwanda",
+			"lat": -1.9403,
+			"long": 29.8739,
+			"confirmed_cases": 8,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				8,
+				7,
+				5,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Saint Lucia",
+			"lat": 13.9094,
+			"long": -60.9789,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				2,
+				2,
+				2,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Saint Vincent and the Grenadines",
+			"lat": 12.9843,
+			"long": -61.2872,
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "San Marino",
 			"lat": 43.9424,
 			"long": 12.4578,
-			"confirmed_cases": 36,
-			"deaths": 1,
-			"recovered": 0
+			"confirmed_cases": 119,
+			"deaths": 11,
+			"recovered": 4,
+			"historic_cases": [
+				119,
+				109,
+				109,
+				101,
+				80
+			],
+			"historic_deaths": [
+				11,
+				7,
+				7,
+				5,
+				5
+			],
+			"historic_recovered": [
+				4,
+				4,
+				4,
+				4,
+				4
+			]
 		},
 		{
 			"country": "Saudi Arabia",
 			"lat": 24,
 			"long": 45,
-			"confirmed_cases": 11,
+			"confirmed_cases": 274,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 6,
+			"historic_cases": [
+				171,
+				171,
+				118,
+				103,
+				103
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				6,
+				6,
+				2,
+				1,
+				1
+			]
 		},
 		{
 			"country": "Senegal",
 			"lat": 14.4974,
 			"long": -14.4524,
-			"confirmed_cases": 4,
+			"confirmed_cases": 31,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 2,
+			"historic_cases": [
+				31,
+				26,
+				24,
+				24,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				2,
+				1,
+				1
+			]
 		},
 		{
 			"country": "Serbia",
 			"lat": 44.0165,
 			"long": 21.0059,
-			"confirmed_cases": 1,
+			"confirmed_cases": 103,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				83,
+				65,
+				55,
+				48,
+				46
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Seychelles",
+			"lat": -4.6796,
+			"long": 55.492,
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				4,
+				4,
+				3,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Singapore",
 			"lat": 1.2833,
 			"long": 103.8333,
-			"confirmed_cases": 150,
+			"confirmed_cases": 345,
 			"deaths": 0,
-			"recovered": 78
+			"recovered": 114,
+			"historic_cases": [
+				313,
+				266,
+				243,
+				226,
+				212
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				114,
+				114,
+				109,
+				105,
+				105
+			]
 		},
 		{
 			"country": "Slovakia",
 			"lat": 48.669,
 			"long": 19.699,
-			"confirmed_cases": 3,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 123,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				105,
+				72,
+				63,
+				54,
+				44
+			],
+			"historic_deaths": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Slovenia",
 			"lat": 46.1512,
 			"long": 14.9955,
-			"confirmed_cases": 16,
+			"confirmed_cases": 286,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				275,
+				275,
+				253,
+				219,
+				181
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Somalia",
+			"lat": 5.1521,
+			"long": 46.1996,
+			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "South Africa",
 			"lat": -30.5595,
 			"long": 22.9375,
-			"confirmed_cases": 3,
+			"confirmed_cases": 150,
 			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"country": "South Korea",
-			"lat": 36,
-			"long": 128,
-			"confirmed_cases": 7314,
-			"deaths": 50,
-			"recovered": 118
+			"recovered": 0,
+			"historic_cases": [
+				116,
+				62,
+				62,
+				51,
+				38
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Spain",
 			"lat": 40,
 			"long": -4,
-			"confirmed_cases": 673,
-			"deaths": 17,
-			"recovered": 30
+			"confirmed_cases": 17963,
+			"deaths": 830,
+			"recovered": 1107,
+			"historic_cases": [
+				13910,
+				11748,
+				9942,
+				7798,
+				6391
+			],
+			"historic_deaths": [
+				623,
+				533,
+				342,
+				289,
+				195
+			],
+			"historic_recovered": [
+				1081,
+				1028,
+				530,
+				517,
+				517
+			]
 		},
 		{
 			"country": "Sri Lanka",
 			"lat": 7,
 			"long": 81,
+			"confirmed_cases": 60,
+			"deaths": 0,
+			"recovered": 3,
+			"historic_cases": [
+				51,
+				44,
+				28,
+				18,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"country": "Sudan",
+			"lat": 12.8628,
+			"long": 30.2176,
+			"confirmed_cases": 2,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Suriname",
+			"lat": 3.9193,
+			"long": -56.0278,
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Sweden",
 			"lat": 63,
 			"long": 16,
-			"confirmed_cases": 203,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 1439,
+			"deaths": 11,
+			"recovered": 16,
+			"historic_cases": [
+				1279,
+				1190,
+				1103,
+				1022,
+				961
+			],
+			"historic_deaths": [
+				10,
+				7,
+				6,
+				3,
+				2
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"country": "Switzerland",
 			"lat": 46.8182,
 			"long": 8.2275,
-			"confirmed_cases": 337,
-			"deaths": 2,
-			"recovered": 3
+			"confirmed_cases": 4075,
+			"deaths": 41,
+			"recovered": 15,
+			"historic_cases": [
+				3028,
+				2700,
+				2200,
+				2200,
+				1359
+			],
+			"historic_deaths": [
+				28,
+				27,
+				14,
+				14,
+				13
+			],
+			"historic_recovered": [
+				15,
+				4,
+				4,
+				4,
+				4
+			]
 		},
 		{
-			"region": "Taiwan",
-			"country": "Taiwan",
+			"country": "Taiwan*",
 			"lat": 23.7,
 			"long": 121,
-			"confirmed_cases": 45,
+			"confirmed_cases": 108,
 			"deaths": 1,
-			"recovered": 13
+			"recovered": 26,
+			"historic_cases": [
+				100,
+				77,
+				67,
+				59,
+				53
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				22,
+				22,
+				20,
+				20,
+				20
+			]
+		},
+		{
+			"country": "Tanzania",
+			"lat": -6.369,
+			"long": 34.8888,
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Thailand",
 			"lat": 15,
 			"long": 101,
-			"confirmed_cases": 50,
+			"confirmed_cases": 272,
 			"deaths": 1,
-			"recovered": 31
+			"recovered": 42,
+			"historic_cases": [
+				212,
+				177,
+				147,
+				114,
+				82
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				42,
+				41,
+				35,
+				35,
+				35
+			]
 		},
 		{
 			"country": "Togo",
@@ -1192,1009 +5992,7908 @@
 			"long": 0.8248,
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Trinidad and Tobago",
+			"lat": 10.6918,
+			"long": -61.2225,
+			"confirmed_cases": 9,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				7,
+				5,
+				4,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Tunisia",
 			"lat": 34,
 			"long": 9,
-			"confirmed_cases": 2,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 39,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				29,
+				24,
+				20,
+				18,
+				18
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"country": "UK",
-			"lat": 55,
-			"long": -3,
-			"confirmed_cases": 273,
+			"country": "Turkey",
+			"lat": 38.9637,
+			"long": 35.2433,
+			"confirmed_cases": 192,
 			"deaths": 3,
-			"recovered": 18
+			"recovered": 0,
+			"historic_cases": [
+				98,
+				47,
+				18,
+				6,
+				5
+			],
+			"historic_deaths": [
+				1,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": " Norfolk County, MA",
+			"region": "Adams, IN",
 			"country": "US",
-			"lat": 42.1767,
-			"long": -71.1449,
-			"confirmed_cases": 6,
+			"lat": 39.8522,
+			"long": -77.2865,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Alabama",
+			"country": "US",
+			"lat": 32.3182,
+			"long": -86.9023,
+			"confirmed_cases": 78,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				46,
+				39,
+				29,
+				12,
+				6
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Alachua, FL",
+			"country": "US",
+			"lat": 29.7938,
+			"long": -82.4944,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Alameda County, CA",
 			"country": "US",
 			"lat": 37.6017,
 			"long": -121.7195,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Alaska",
+			"country": "US",
+			"lat": 61.3707,
+			"long": -152.4044,
+			"confirmed_cases": 9,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				6,
+				3,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Anoka, MN",
+			"country": "US",
+			"lat": 45.3293,
+			"long": -93.2197,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Arapahoe, CO",
+			"country": "US",
+			"lat": 39.6203,
+			"long": -104.3326,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Arizona",
+			"country": "US",
+			"lat": 33.7298,
+			"long": -111.4312,
+			"confirmed_cases": 45,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				27,
+				20,
+				18,
+				13,
+				12
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"region": "Arkansas",
+			"country": "US",
+			"lat": 34.9697,
+			"long": -92.3731,
+			"confirmed_cases": 62,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				33,
+				22,
+				22,
+				16,
+				12
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Arlington, VA",
+			"country": "US",
+			"lat": 38.8816,
+			"long": -77.091,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Beadle, SD",
+			"country": "US",
+			"lat": 44.4797,
+			"long": -98.2213,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Bennington County, VT",
+			"country": "US",
+			"lat": 43.0279,
+			"long": -73.135,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Bergen County, NJ",
 			"country": "US",
 			"lat": 40.9263,
 			"long": -74.077,
-			"confirmed_cases": 4,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Berkshire County, MA",
 			"country": "US",
 			"lat": 42.3118,
 			"long": -73.1822,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Bernalillo, NM",
+			"country": "US",
+			"lat": 35.0178,
+			"long": -106.6291,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Bon Homme, SD",
+			"country": "US",
+			"lat": 42.9815,
+			"long": -97.8722,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Boone, IN",
+			"country": "US",
+			"lat": 40.0106,
+			"long": -86.4997,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Broward County, FL",
 			"country": "US",
 			"lat": 26.1901,
 			"long": -80.3659,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Bucks, PA",
+			"country": "US",
+			"lat": 40.4108,
+			"long": -75.2479,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Burlington, NJ",
+			"country": "US",
+			"lat": 40.0712,
+			"long": -74.8649,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Calaveras, CA",
+			"country": "US",
+			"lat": 38.196,
+			"long": -120.6805,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "California",
+			"country": "US",
+			"lat": 36.1162,
+			"long": -119.6816,
+			"confirmed_cases": 952,
+			"deaths": 18,
+			"recovered": 0,
+			"historic_cases": [
+				751,
+				698,
+				557,
+				426,
+				340
+			],
+			"historic_deaths": [
+				13,
+				12,
+				7,
+				6,
+				5
+			],
+			"historic_recovered": [
+				0,
+				6,
+				6,
+				6,
+				6
+			]
+		},
+		{
+			"region": "Camden, NC",
+			"country": "US",
+			"lat": 34.2465,
+			"long": -80.607,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Camden, NJ",
+			"country": "US",
+			"lat": 39.9259,
+			"long": -75.1196,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Carver County, MN",
+			"country": "US",
+			"lat": 44.8254,
+			"long": -93.7842,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Charles Mix, SD",
+			"country": "US",
+			"lat": 43.0985,
+			"long": -98.3965,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Charleston County, SC",
 			"country": "US",
 			"lat": 32.7957,
 			"long": -79.7848,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Charlotte County, FL",
+			"country": "US",
+			"lat": 26.8946,
+			"long": -81.9098,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Charlton, GA",
+			"country": "US",
+			"lat": 30.7917,
+			"long": -82.0843,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Chatham County, NC",
 			"country": "US",
 			"lat": 35.7211,
 			"long": -79.1781,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Cherokee County, GA",
+			"country": "US",
+			"lat": 34.2515,
+			"long": -84.4803,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Clark County, NV",
 			"country": "US",
 			"lat": 36.0796,
 			"long": -115.094,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Clark County, WA",
 			"country": "US",
 			"lat": 45.7466,
 			"long": -122.5194,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Cobb County, GA",
 			"country": "US",
 			"lat": 33.8999,
 			"long": -84.5641,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Collier, FL",
+			"country": "US",
+			"lat": 26.07,
+			"long": -81.4279,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Collin County, TX",
+			"country": "US",
+			"lat": 33.1795,
+			"long": -96.493,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Colorado",
+			"country": "US",
+			"lat": 39.0598,
+			"long": -105.3111,
+			"confirmed_cases": 277,
+			"deaths": 4,
+			"recovered": 0,
+			"historic_cases": [
+				184,
+				160,
+				160,
+				131,
+				101
+			],
+			"historic_deaths": [
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Connecticut",
+			"country": "US",
+			"lat": 41.5978,
+			"long": -72.7554,
+			"confirmed_cases": 159,
+			"deaths": 2,
+			"recovered": 0,
+			"historic_cases": [
+				68,
+				68,
+				30,
+				24,
+				22
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Contra Costa County, CA",
 			"country": "US",
 			"lat": 37.8534,
 			"long": -121.9018,
-			"confirmed_cases": 12,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Cook County, IL",
 			"country": "US",
 			"lat": 41.7377,
 			"long": -87.6976,
-			"confirmed_cases": 7,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 2
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Cuyahoga, OH",
+			"country": "US",
+			"lat": 41.4339,
+			"long": -81.6758,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Dallas, TX",
+			"country": "US",
+			"lat": 32.7767,
+			"long": -96.797,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Dane, WI",
+			"country": "US",
+			"lat": 43.0186,
+			"long": -89.5498,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Davidson County, TN",
 			"country": "US",
 			"lat": 36.1343,
 			"long": -86.822,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Davis County, UT",
 			"country": "US",
 			"lat": 40.9629,
 			"long": -112.0953,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Davison, SD",
+			"country": "US",
+			"lat": 43.7242,
+			"long": -98.2213,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "DeKalb, GA",
+			"country": "US",
+			"lat": 33.7956,
+			"long": -84.2279,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Delaware",
+			"country": "US",
+			"lat": 39.3185,
+			"long": -75.5071,
+			"confirmed_cases": 30,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				19,
+				16,
+				8,
+				7,
+				6
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Delaware County, PA",
 			"country": "US",
 			"lat": 39.9078,
 			"long": -75.3879,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Denver County, CO",
 			"country": "US",
 			"lat": 39.7392,
 			"long": -104.9903,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Deschutes, OR",
+			"country": "US",
+			"lat": 43.8325,
+			"long": -121.2617,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Diamond Princess",
+			"country": "US",
+			"lat": 35.4437,
+			"long": 139.638,
+			"confirmed_cases": 47,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				47,
+				47,
+				47,
+				46,
+				46
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "District of Columbia",
+			"country": "US",
+			"lat": 38.8974,
+			"long": -77.0268,
+			"confirmed_cases": 40,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				31,
+				22,
+				22,
+				16,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Douglas County, CO",
 			"country": "US",
 			"lat": 39.2587,
 			"long": -104.9389,
-			"confirmed_cases": 3,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Douglas County, NE",
 			"country": "US",
 			"lat": 41.3148,
 			"long": -96.1951,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Douglas County, OR",
 			"country": "US",
 			"lat": 43.1261,
 			"long": -123.2492,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Eagle, CO",
+			"country": "US",
+			"lat": 39.6553,
+			"long": -106.8287,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "El Paso County, CO",
 			"country": "US",
 			"lat": 38.9108,
 			"long": -104.4723,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Essex, MA",
+			"country": "US",
+			"lat": 42.632,
+			"long": -70.7829,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Fairfax County, VA",
 			"country": "US",
 			"lat": 38.9085,
 			"long": -77.2405,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "Fairfield County, CT",
+			"region": "Fairfield, CT",
 			"country": "US",
 			"lat": 41.256,
 			"long": -73.3709,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Fayette County, KY",
 			"country": "US",
 			"lat": 38.0606,
 			"long": -84.4803,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Fayette, GA",
+			"country": "US",
+			"lat": 33.4502,
+			"long": -84.4803,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Florida",
+			"country": "US",
+			"lat": 27.7663,
+			"long": -81.6868,
+			"confirmed_cases": 417,
+			"deaths": 9,
+			"recovered": 0,
+			"historic_cases": [
+				314,
+				216,
+				155,
+				115,
+				76
+			],
+			"historic_deaths": [
+				7,
+				6,
+				5,
+				4,
+				3
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Floyd, GA",
+			"country": "US",
+			"lat": 37.5455,
+			"long": -82.7779,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Fort Bend County, TX",
 			"country": "US",
 			"lat": 29.5693,
 			"long": -95.8143,
-			"confirmed_cases": 6,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Fresno County, CA",
 			"country": "US",
 			"lat": 36.9859,
 			"long": -119.2321,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Fulton County, GA",
 			"country": "US",
 			"lat": 33.8034,
 			"long": -84.3963,
-			"confirmed_cases": 3,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Georgia",
+			"country": "US",
+			"lat": 33.0406,
+			"long": -83.6431,
+			"confirmed_cases": 287,
+			"deaths": 10,
+			"recovered": 0,
+			"historic_cases": [
+				199,
+				146,
+				121,
+				99,
+				66
+			],
+			"historic_deaths": [
+				3,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Grafton County, NH",
 			"country": "US",
 			"lat": 43.9088,
 			"long": -71.826,
-			"confirmed_cases": 4,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "Grand Princess Cruise Ship",
+			"region": "Grand Princess",
 			"country": "US",
 			"lat": 37.6489,
 			"long": -122.6655,
-			"confirmed_cases": 21,
+			"confirmed_cases": 22,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				21,
+				21,
+				20,
+				21,
+				21
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Grant County, WA",
 			"country": "US",
 			"lat": 47.1981,
 			"long": -119.3732,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Gregg, TX",
+			"country": "US",
+			"lat": 32.4893,
+			"long": -94.8521,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Guam",
+			"country": "US",
+			"lat": 13.4443,
+			"long": 144.7937,
+			"confirmed_cases": 12,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				5,
+				3,
+				3,
+				3,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Gunnison, CO",
+			"country": "US",
+			"lat": 38.5458,
+			"long": -106.9253,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Gwinnett, GA",
+			"country": "US",
+			"lat": 33.9191,
+			"long": -84.0167,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Hanover, VA",
+			"country": "US",
+			"lat": 37.7772,
+			"long": -77.5161,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Harford County, MD",
 			"country": "US",
 			"lat": 39.5839,
 			"long": -76.3637,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Harris County, TX",
 			"country": "US",
 			"lat": 29.7752,
 			"long": -95.3103,
-			"confirmed_cases": 5,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Harrison County, KY",
+			"country": "US",
+			"lat": 38.4333,
+			"long": -84.3542,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Hawaii",
+			"country": "US",
+			"lat": 21.0943,
+			"long": -157.4983,
+			"confirmed_cases": 16,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				14,
+				10,
+				7,
+				6,
+				4
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Hendricks County, IN",
 			"country": "US",
 			"lat": 39.8065,
 			"long": -86.5401,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Hillsborough, FL",
 			"country": "US",
 			"lat": 27.9904,
 			"long": -82.3018,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Honolulu County, HI",
 			"country": "US",
 			"lat": 21.307,
 			"long": -157.8584,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Howard, IN",
+			"country": "US",
+			"lat": 40.4483,
+			"long": -86.1345,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Hudson County, NJ",
 			"country": "US",
 			"lat": 40.7453,
 			"long": -74.0535,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Humboldt County, CA",
 			"country": "US",
 			"lat": 40.745,
 			"long": -123.8695,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Idaho",
+			"country": "US",
+			"lat": 44.2405,
+			"long": -114.4788,
+			"confirmed_cases": 11,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				9,
+				8,
+				5,
+				5,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Illinois",
+			"country": "US",
+			"lat": 40.3495,
+			"long": -88.9861,
+			"confirmed_cases": 422,
+			"deaths": 4,
+			"recovered": 0,
+			"historic_cases": [
+				162,
+				161,
+				105,
+				93,
+				64
+			],
+			"historic_deaths": [
+				1,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"region": "Indiana",
+			"country": "US",
+			"lat": 39.8494,
+			"long": -86.2583,
+			"confirmed_cases": 60,
+			"deaths": 2,
+			"recovered": 0,
+			"historic_cases": [
+				39,
+				30,
+				25,
+				20,
+				16
+			],
+			"historic_deaths": [
+				2,
+				2,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Iowa",
+			"country": "US",
+			"lat": 42.0115,
+			"long": -93.2105,
+			"confirmed_cases": 44,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				29,
+				23,
+				23,
+				18,
+				17
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Island, WA",
+			"country": "US",
+			"lat": 48.1976,
+			"long": -122.5795,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Jackson County, OR ",
 			"country": "US",
 			"lat": 42.3345,
 			"long": -122.7647,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Jefferson County, KY",
+			"country": "US",
+			"lat": 38.1938,
+			"long": -85.6435,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Jefferson County, WA",
 			"country": "US",
 			"lat": 47.7425,
 			"long": -123.304,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Jefferson Parish, LA",
+			"country": "US",
+			"lat": 29.6499,
+			"long": -90.1121,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Jefferson, CO",
+			"country": "US",
+			"lat": 39.58,
+			"long": -105.2663,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Johnson County, IA",
+			"country": "US",
+			"lat": 41.6699,
+			"long": -91.5984,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Johnson County, KS",
 			"country": "US",
 			"lat": 38.8454,
 			"long": -94.8521,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Johnson, IN",
+			"country": "US",
+			"lat": 39.4638,
+			"long": -86.1345,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Kane, IL",
+			"country": "US",
+			"lat": 41.9879,
+			"long": -88.4016,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Kansas",
+			"country": "US",
+			"lat": 38.5266,
+			"long": -96.7265,
+			"confirmed_cases": 34,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				18,
+				18,
+				11,
+				8,
+				8
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Kentucky",
+			"country": "US",
+			"lat": 37.6681,
+			"long": -84.6701,
+			"confirmed_cases": 37,
+			"deaths": 2,
+			"recovered": 0,
+			"historic_cases": [
+				27,
+				26,
+				21,
+				20,
+				14
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				1,
+				1,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Kershaw County, SC",
 			"country": "US",
 			"lat": 34.3672,
 			"long": -80.5883,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "King County, WA",
 			"country": "US",
 			"lat": 47.6062,
 			"long": -122.3321,
-			"confirmed_cases": 83,
-			"deaths": 17,
-			"recovered": 1
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Kitsap, WA",
+			"country": "US",
+			"lat": 47.6477,
+			"long": -122.6413,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Kittitas County, WA",
 			"country": "US",
 			"lat": 47.175,
 			"long": -120.9319,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Klamath County, OR",
 			"country": "US",
 			"lat": 42.6953,
 			"long": -121.6142,
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"region": "Lackland, TX (From Diamond Princess)",
-			"country": "US",
-			"lat": 29.3829,
-			"long": -98.6134,
 			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Knox, NE",
+			"country": "US",
+			"lat": 42.6712,
+			"long": -97.8722,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Lake, IL",
+			"country": "US",
+			"lat": 42.3689,
+			"long": -87.8272,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Lancaster, SC",
+			"country": "US",
+			"lat": 34.7253,
+			"long": -80.6771,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Larimer, CO",
+			"country": "US",
+			"lat": 40.6956,
+			"long": -105.5943,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Lee County, FL",
 			"country": "US",
 			"lat": 26.663,
 			"long": -81.9535,
-			"confirmed_cases": 2,
-			"deaths": 1,
-			"recovered": 0
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Litchfield, CT",
+			"country": "US",
+			"lat": 41.7866,
+			"long": -73.2765,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Los Angeles, CA",
 			"country": "US",
 			"lat": 34.0522,
 			"long": -118.2437,
-			"confirmed_cases": 14,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Loudoun, VA",
+			"country": "US",
+			"lat": 39.0768,
+			"long": -77.6536,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Louisiana",
+			"country": "US",
+			"lat": 31.1695,
+			"long": -91.8678,
+			"confirmed_cases": 392,
+			"deaths": 10,
+			"recovered": 0,
+			"historic_cases": [
+				257,
+				196,
+				136,
+				91,
+				77
+			],
+			"historic_deaths": [
+				4,
+				4,
+				3,
+				2,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Madera County, CA",
 			"country": "US",
 			"lat": 37.2519,
 			"long": -119.6963,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "Madison, WI",
+			"region": "Maine",
 			"country": "US",
-			"lat": 43.0731,
-			"long": -89.4012,
-			"confirmed_cases": 1,
+			"lat": 44.6939,
+			"long": -69.3819,
+			"confirmed_cases": 52,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				42,
+				32,
+				17,
+				12,
+				3
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Manatee County, FL",
 			"country": "US",
 			"lat": 27.4799,
 			"long": -82.3452,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Maricopa County, AZ",
 			"country": "US",
 			"lat": 33.2918,
 			"long": -112.4291,
-			"confirmed_cases": 3,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Marin, CA",
+			"country": "US",
+			"lat": 38.0834,
+			"long": -122.7633,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Marion County, IN",
 			"country": "US",
 			"lat": 39.8362,
 			"long": -86.1752,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Marion County, OR",
 			"country": "US",
 			"lat": 44.8446,
 			"long": -122.5927,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Maryland",
+			"country": "US",
+			"lat": 39.0639,
+			"long": -76.8021,
+			"confirmed_cases": 107,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				85,
+				60,
+				41,
+				32,
+				26
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				3,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Massachusetts",
+			"country": "US",
+			"lat": 42.2302,
+			"long": -71.5301,
+			"confirmed_cases": 328,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				218,
+				218,
+				197,
+				164,
+				138
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"region": "McHenry, IL",
+			"country": "US",
+			"lat": 42.3334,
+			"long": -88.2668,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Michigan",
+			"country": "US",
+			"lat": 43.3266,
+			"long": -84.5361,
+			"confirmed_cases": 334,
+			"deaths": 3,
+			"recovered": 0,
+			"historic_cases": [
+				83,
+				65,
+				53,
+				33,
+				25
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Middlesex County, MA",
 			"country": "US",
 			"lat": 42.4672,
 			"long": -71.2874,
-			"confirmed_cases": 7,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Middlesex, NJ",
+			"country": "US",
+			"lat": 40.5726,
+			"long": -74.4927,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Minnehaha, SD",
+			"country": "US",
+			"lat": 43.6632,
+			"long": -96.8351,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Minnesota",
+			"country": "US",
+			"lat": 45.6945,
+			"long": -93.9002,
+			"confirmed_cases": 89,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				77,
+				60,
+				54,
+				35,
+				21
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Mississippi",
+			"country": "US",
+			"lat": 32.7416,
+			"long": -89.6787,
+			"confirmed_cases": 50,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				34,
+				21,
+				13,
+				10,
+				6
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Missouri",
+			"country": "US",
+			"lat": 38.4561,
+			"long": -92.2884,
+			"confirmed_cases": 31,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				18,
+				11,
+				6,
+				5,
+				4
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Monmouth, NJ",
+			"country": "US",
+			"lat": 40.2589,
+			"long": -74.124,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Monroe, PA",
+			"country": "US",
+			"lat": 41.0458,
+			"long": -75.2479,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Montana",
+			"country": "US",
+			"lat": 46.9219,
+			"long": -110.4544,
+			"confirmed_cases": 11,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				11,
+				9,
+				7,
+				7,
+				5
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Montgomery County, MD",
 			"country": "US",
 			"lat": 39.1547,
 			"long": -77.2405,
-			"confirmed_cases": 4,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Montgomery County, PA",
 			"country": "US",
 			"lat": 40.229,
 			"long": -75.3879,
-			"confirmed_cases": 4,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"region": "Montgomery County, TX",
-			"country": "US",
-			"lat": 30.3213,
-			"long": -95.4778,
 			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Montgomery, TX",
+			"country": "US",
+			"lat": 30.3883,
+			"long": -95.6963,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Multnomah, OR",
+			"country": "US",
+			"lat": 45.5146,
+			"long": -122.5863,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Napa, CA",
+			"country": "US",
+			"lat": 38.5025,
+			"long": -122.2654,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Nassau County, NY",
 			"country": "US",
 			"lat": 40.6546,
 			"long": -73.5594,
-			"confirmed_cases": 5,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Nassau, FL",
+			"country": "US",
+			"lat": 30.5927,
+			"long": -81.8224,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Nebraska",
+			"country": "US",
+			"lat": 41.1254,
+			"long": -98.2681,
+			"confirmed_cases": 29,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				24,
+				21,
+				18,
+				17,
+				14
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Nevada",
+			"country": "US",
+			"lat": 38.3135,
+			"long": -117.0554,
+			"confirmed_cases": 95,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				55,
+				56,
+				45,
+				24,
+				21
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "New Castle, DE",
+			"country": "US",
+			"lat": 39.5393,
+			"long": -75.6674,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "New Hampshire",
+			"country": "US",
+			"lat": 43.4525,
+			"long": -71.5639,
+			"confirmed_cases": 44,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				26,
+				26,
+				17,
+				13,
+				7
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "New Jersey",
+			"country": "US",
+			"lat": 40.2989,
+			"long": -74.521,
+			"confirmed_cases": 742,
+			"deaths": 9,
+			"recovered": 0,
+			"historic_cases": [
+				267,
+				267,
+				178,
+				98,
+				69
+			],
+			"historic_deaths": [
+				3,
+				3,
+				2,
+				2,
+				1
+			],
+			"historic_recovered": [
+				0,
+				1,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"region": "New Mexico",
+			"country": "US",
+			"lat": 34.8405,
+			"long": -106.2485,
+			"confirmed_cases": 35,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				23,
+				23,
+				17,
+				13,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "New York",
+			"country": "US",
+			"lat": 42.1657,
+			"long": -74.9481,
+			"confirmed_cases": 5365,
+			"deaths": 34,
+			"recovered": 0,
+			"historic_cases": [
+				2495,
+				1706,
+				967,
+				732,
+				525
+			],
+			"historic_deaths": [
+				16,
+				13,
+				10,
+				3,
+				2
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "New York County, NY",
 			"country": "US",
 			"lat": 40.7128,
 			"long": -74.006,
-			"confirmed_cases": 12,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Noble, IN",
+			"country": "US",
+			"lat": 41.4277,
+			"long": -85.355,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Norfolk County, MA",
+			"country": "US",
+			"lat": 42.1767,
+			"long": -71.1449,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Norfolk, VA",
+			"country": "US",
+			"lat": 36.8508,
+			"long": -76.2859,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "North Carolina",
+			"country": "US",
+			"lat": 35.6301,
+			"long": -79.8064,
+			"confirmed_cases": 123,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				70,
+				64,
+				38,
+				33,
+				24
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "North Dakota",
+			"country": "US",
+			"lat": 47.5289,
+			"long": -99.784,
+			"confirmed_cases": 18,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				6,
+				3,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Oakland, MI",
+			"country": "US",
+			"lat": 42.5922,
+			"long": -83.3362,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Ohio",
+			"country": "US",
+			"lat": 40.3888,
+			"long": -82.7649,
+			"confirmed_cases": 119,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				86,
+				67,
+				50,
+				37,
+				26
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Okaloosa County, FL",
 			"country": "US",
 			"lat": 30.5773,
 			"long": -86.6611,
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"region": "Omaha, NE (From Diamond Princess)",
-			"country": "US",
-			"lat": 41.2545,
-			"long": -95.9758,
 			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Oklahoma",
+			"country": "US",
+			"lat": 35.5653,
+			"long": -96.9289,
+			"confirmed_cases": 44,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				19,
+				19,
+				10,
+				7,
+				4
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Olmsted, MN",
+			"country": "US",
+			"lat": 43.9952,
+			"long": -92.3814,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Orange County, CA",
 			"country": "US",
 			"lat": 33.7879,
 			"long": -117.8531,
-			"confirmed_cases": 3,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Oregon",
+			"country": "US",
+			"lat": 44.572,
+			"long": -122.0709,
+			"confirmed_cases": 88,
+			"deaths": 3,
+			"recovered": 0,
+			"historic_cases": [
+				68,
+				66,
+				39,
+				36,
+				32
+			],
+			"historic_deaths": [
+				2,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Orleans, LA",
+			"country": "US",
+			"lat": 29.9511,
+			"long": -90.0715,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Pasco, FL",
+			"country": "US",
+			"lat": 28.3232,
+			"long": -82.4319,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Passaic, NJ",
+			"country": "US",
+			"lat": 40.8568,
+			"long": -74.1285,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Pennington, SD",
+			"country": "US",
+			"lat": 43.8901,
+			"long": -102.2548,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Pennsylvania",
+			"country": "US",
+			"lat": 40.5908,
+			"long": -77.2098,
+			"confirmed_cases": 206,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				152,
+				112,
+				77,
+				66,
+				47
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Philadelphia, PA",
+			"country": "US",
+			"lat": 39.9526,
+			"long": -75.1652,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Pierce County, WA",
 			"country": "US",
 			"lat": 47.0676,
 			"long": -122.1295,
-			"confirmed_cases": 4,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Pierce, WI",
+			"country": "US",
+			"lat": 44.7509,
+			"long": -92.3814,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Pima, AZ",
+			"country": "US",
+			"lat": 32.0575,
+			"long": -111.6661,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Pinal County, AZ",
 			"country": "US",
 			"lat": 32.8162,
 			"long": -111.2845,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Pinellas, FL",
+			"country": "US",
+			"lat": 27.8764,
+			"long": -82.7779,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Placer County, CA",
 			"country": "US",
 			"lat": 39.0916,
 			"long": -120.8039,
-			"confirmed_cases": 5,
-			"deaths": 1,
-			"recovered": 0
-		},
-		{
-			"region": "Plymouth County, MA",
-			"country": "US",
-			"lat": 42.1615,
-			"long": -70.7928,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Polk County, GA",
 			"country": "US",
 			"lat": 34.0132,
 			"long": -85.1479,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Polk, OR",
+			"country": "US",
+			"lat": 44.9267,
+			"long": -123.4919,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Pottawattamie, IA",
+			"country": "US",
+			"lat": 41.3912,
+			"long": -95.4778,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Prince George's, MD",
+			"country": "US",
+			"lat": 38.7849,
+			"long": -76.8721,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Providence County, RI",
 			"country": "US",
 			"lat": 41.8882,
 			"long": -71.4774,
-			"confirmed_cases": 3,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Puerto Rico",
+			"country": "US",
+			"lat": 18.2208,
+			"long": -66.5901,
+			"confirmed_cases": 5,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				5,
+				5,
+				5,
+				5,
+				3
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Ramsey County, MN",
 			"country": "US",
 			"lat": 44.9964,
 			"long": -93.0616,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Rhode Island",
+			"country": "US",
+			"lat": 41.6809,
+			"long": -71.5118,
+			"confirmed_cases": 44,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				33,
+				23,
+				21,
+				20,
+				20
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Riverside County, CA",
 			"country": "US",
 			"lat": 33.9533,
 			"long": -117.3961,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Rockingham County, NH",
 			"country": "US",
 			"lat": 42.9931,
 			"long": -71.0498,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Rockland County, NY",
 			"country": "US",
 			"lat": 41.1489,
 			"long": -73.983,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Sacramento County, CA",
 			"country": "US",
 			"lat": 38.4747,
 			"long": -121.3542,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"region": "San Antonio, TX",
-			"country": "US",
-			"lat": 29.4241,
-			"long": -98.4936,
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "San Benito, CA",
 			"country": "US",
 			"lat": 36.5761,
 			"long": -120.9876,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "San Diego County, CA",
 			"country": "US",
 			"lat": 32.7157,
 			"long": -117.1611,
-			"confirmed_cases": 3,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "San Francisco County, CA",
 			"country": "US",
 			"lat": 37.7749,
 			"long": -122.4194,
-			"confirmed_cases": 9,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "San Joaquin, CA",
+			"country": "US",
+			"lat": 36.6066,
+			"long": -120.189,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "San Mateo, CA",
 			"country": "US",
 			"lat": 37.563,
 			"long": -122.3255,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Santa Clara County, CA",
 			"country": "US",
 			"lat": 37.3541,
 			"long": -121.9552,
-			"confirmed_cases": 38,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Santa Cruz, CA",
+			"country": "US",
+			"lat": 37.0454,
+			"long": -121.958,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Santa Rosa County, FL",
 			"country": "US",
 			"lat": 30.769,
 			"long": -86.9824,
-			"confirmed_cases": 1,
-			"deaths": 1,
-			"recovered": 0
-		},
-		{
-			"region": "Sarasota, FL",
-			"country": "US",
-			"lat": 27.3364,
-			"long": -82.5307,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Saratoga County, NY",
 			"country": "US",
 			"lat": 43.0324,
 			"long": -73.936,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Shasta County, CA",
+			"country": "US",
+			"lat": 40.7909,
+			"long": -121.8474,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Shelby County, TN",
 			"country": "US",
 			"lat": 35.1269,
 			"long": -89.9253,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Skagit, WA",
+			"country": "US",
+			"lat": 48.4242,
+			"long": -121.7114,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Snohomish County, WA",
 			"country": "US",
 			"lat": 48.033,
 			"long": -121.8339,
-			"confirmed_cases": 31,
-			"deaths": 1,
-			"recovered": 0
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Socorro, NM",
+			"country": "US",
+			"lat": 33.8837,
+			"long": -106.7235,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Solano, CA",
+			"country": "US",
+			"lat": 38.3105,
+			"long": -121.9018,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Sonoma County, CA",
 			"country": "US",
 			"lat": 38.578,
 			"long": -122.9888,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "Spokane County, WA",
+			"region": "South Carolina",
 			"country": "US",
-			"lat": 47.6587,
-			"long": -117.4225,
-			"confirmed_cases": 1,
+			"lat": 33.8569,
+			"long": -80.945,
+			"confirmed_cases": 81,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				47,
+				47,
+				33,
+				28,
+				19
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "South Dakota",
+			"country": "US",
+			"lat": 44.2998,
+			"long": -99.4388,
+			"confirmed_cases": 11,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				11,
+				11,
+				10,
+				9,
+				9
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Spartanburg County, SC",
+			"country": "US",
+			"lat": 34.8606,
+			"long": -81.9535,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Spotsylvania, VA",
+			"country": "US",
+			"lat": 38.2042,
+			"long": -77.6078,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "St. Joseph, IN",
+			"country": "US",
+			"lat": 41.6228,
+			"long": -86.3377,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "St. Louis County, MO",
 			"country": "US",
 			"lat": 38.6103,
 			"long": -90.4125,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Stanislaus, CA",
+			"country": "US",
+			"lat": 37.5091,
+			"long": -120.9876,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Stark, OH",
+			"country": "US",
+			"lat": 40.8685,
+			"long": -81.2519,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Suffolk County, MA",
 			"country": "US",
 			"lat": 42.3601,
 			"long": -71.0589,
-			"confirmed_cases": 8,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Suffolk County, NY",
 			"country": "US",
 			"lat": 40.9849,
 			"long": -72.6151,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Sullivan, TN",
+			"country": "US",
+			"lat": 36.4933,
+			"long": -82.3452,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Summit County, CO",
 			"country": "US",
 			"lat": 39.5912,
 			"long": -106.064,
-			"confirmed_cases": 2,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"region": "Travis, CA (From Diamond Princess)",
-			"country": "US",
-			"lat": 38.2721,
-			"long": -121.9399,
 			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Summit, UT",
+			"country": "US",
+			"lat": 40.8298,
+			"long": -110.9984,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Tarrant, TX",
+			"country": "US",
+			"lat": 32.7732,
+			"long": -97.3517,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Tennessee",
+			"country": "US",
+			"lat": 35.7478,
+			"long": -86.6923,
+			"confirmed_cases": 154,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				79,
+				74,
+				52,
+				39,
+				32
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Texas",
+			"country": "US",
+			"lat": 31.0545,
+			"long": -97.5635,
+			"confirmed_cases": 260,
+			"deaths": 5,
+			"recovered": 0,
+			"historic_cases": [
+				173,
+				110,
+				85,
+				72,
+				57
+			],
+			"historic_deaths": [
+				3,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Thurston, WA",
+			"country": "US",
+			"lat": 46.8646,
+			"long": -122.7696,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Tulsa County, OK",
 			"country": "US",
 			"lat": 36.1593,
 			"long": -95.941,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Ulster County, NY",
 			"country": "US",
 			"lat": 41.8586,
 			"long": -74.3118,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Umatilla, OR",
 			"country": "US",
 			"lat": 45.775,
 			"long": -118.7606,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "Unassigned Location (From Diamond Princess)",
+			"region": "Union, NJ",
 			"country": "US",
-			"lat": 35.4437,
-			"long": 139.638,
-			"confirmed_cases": 45,
+			"lat": 40.6976,
+			"long": -74.2632,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "Unassigned Location, VT",
+			"region": "Utah",
 			"country": "US",
-			"lat": 44.3378,
-			"long": -72.7563,
-			"confirmed_cases": 1,
+			"lat": 40.15,
+			"long": -111.8624,
+			"confirmed_cases": 80,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				51,
+				51,
+				39,
+				28,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "Unassigned Location, WA",
+			"region": "Ventura, CA",
 			"country": "US",
-			"lat": 47.7511,
-			"long": -120.7401,
-			"confirmed_cases": 5,
+			"lat": 34.3705,
+			"long": -119.1391,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"region": "Unknown Location, MA",
+			"region": "Vermont",
 			"country": "US",
-			"lat": 42.4072,
-			"long": -71.3824,
-			"confirmed_cases": 1,
+			"lat": 44.0459,
+			"long": -72.7107,
+			"confirmed_cases": 22,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				18,
+				12,
+				12,
+				8,
+				5
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Virgin Islands",
+			"country": "US",
+			"lat": 18.3358,
+			"long": -64.8963,
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Virginia",
+			"country": "US",
+			"lat": 37.7693,
+			"long": -78.17,
+			"confirmed_cases": 99,
+			"deaths": 2,
+			"recovered": 0,
+			"historic_cases": [
+				77,
+				67,
+				49,
+				45,
+				41
+			],
+			"historic_deaths": [
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Volusia County, FL",
 			"country": "US",
 			"lat": 29.028,
 			"long": -81.0755,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Wake County, NC",
 			"country": "US",
 			"lat": 35.8032,
 			"long": -78.5661,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Washington",
+			"country": "US",
+			"lat": 47.4009,
+			"long": -121.4905,
+			"confirmed_cases": 1376,
+			"deaths": 74,
+			"recovered": 0,
+			"historic_cases": [
+				1014,
+				1076,
+				904,
+				643,
+				572
+			],
+			"historic_deaths": [
+				55,
+				55,
+				48,
+				40,
+				37
+			],
+			"historic_recovered": [
+				0,
+				1,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"region": "Washington County, OR",
 			"country": "US",
 			"lat": 45.547,
 			"long": -123.1386,
-			"confirmed_cases": 8,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Washington, D.C.",
 			"country": "US",
 			"lat": 38.9072,
 			"long": -77.0369,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Washoe County, NV",
 			"country": "US",
 			"lat": 40.5608,
 			"long": -119.6035,
-			"confirmed_cases": 2,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Wayne County, PA",
 			"country": "US",
 			"lat": 41.6739,
 			"long": -75.2479,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Wayne, MI",
+			"country": "US",
+			"lat": 42.2791,
+			"long": -83.3362,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Weber, UT",
+			"country": "US",
+			"lat": 41.2603,
+			"long": -111.9522,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "West Virginia",
+			"country": "US",
+			"lat": 38.4912,
+			"long": -80.9545,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Westchester County, NY",
 			"country": "US",
 			"lat": 41.122,
 			"long": -73.7949,
-			"confirmed_cases": 83,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Whatcom, WA",
+			"country": "US",
+			"lat": 48.8787,
+			"long": -121.9719,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Williamson County, TN",
 			"country": "US",
 			"lat": 35.9179,
 			"long": -86.8622,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Wisconsin",
+			"country": "US",
+			"lat": 44.2685,
+			"long": -89.6165,
+			"confirmed_cases": 159,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				92,
+				72,
+				47,
+				32,
+				27
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"region": "Worcester, MA",
+			"country": "US",
+			"lat": 42.4097,
+			"long": -71.8571,
+			"confirmed_cases": 0,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Wyoming",
+			"country": "US",
+			"lat": 42.756,
+			"long": -107.3025,
+			"confirmed_cases": 18,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				15,
+				11,
+				3,
+				3,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"region": "Yolo County, CA",
 			"country": "US",
 			"lat": 38.7646,
 			"long": -121.9018,
-			"confirmed_cases": 1,
+			"confirmed_cases": 0,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Ukraine",
 			"lat": 48.3794,
 			"long": 31.1656,
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 16,
+			"deaths": 2,
+			"recovered": 0,
+			"historic_cases": [
+				14,
+				14,
+				7,
+				3,
+				3
+			],
+			"historic_deaths": [
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "United Arab Emirates",
 			"lat": 24,
 			"long": 54,
-			"confirmed_cases": 45,
+			"confirmed_cases": 140,
 			"deaths": 0,
-			"recovered": 7
+			"recovered": 31,
+			"historic_cases": [
+				113,
+				98,
+				98,
+				98,
+				85
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				26,
+				23,
+				23,
+				23,
+				17
+			]
 		},
 		{
-			"country": "Vatican City",
-			"lat": 41.9029,
-			"long": 12.4534,
+			"region": "Bermuda",
+			"country": "United Kingdom",
+			"lat": 32.3078,
+			"long": -64.7505,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Cayman Islands",
+			"country": "United Kingdom",
+			"lat": 19.3133,
+			"long": -81.2546,
+			"confirmed_cases": 3,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Channel Islands",
+			"country": "United Kingdom",
+			"lat": 49.3723,
+			"long": -2.3644,
+			"confirmed_cases": 11,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				6,
+				6,
+				6,
+				3,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "Gibraltar",
+			"country": "United Kingdom",
+			"lat": 36.1408,
+			"long": -5.3536,
+			"confirmed_cases": 10,
+			"deaths": 0,
+			"recovered": 2,
+			"historic_cases": [
+				8,
+				3,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"region": "Montserrat",
+			"country": "United Kingdom",
+			"lat": 16.7425,
+			"long": -62.1874,
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"region": "United Kingdom",
+			"country": "United Kingdom",
+			"lat": 55.3781,
+			"long": -3.436,
+			"confirmed_cases": 2689,
+			"deaths": 137,
+			"recovered": 65,
+			"historic_cases": [
+				2626,
+				1950,
+				1543,
+				1140,
+				1140
+			],
+			"historic_deaths": [
+				71,
+				55,
+				55,
+				21,
+				21
+			],
+			"historic_recovered": [
+				65,
+				52,
+				20,
+				18,
+				18
+			]
+		},
+		{
+			"country": "Uruguay",
+			"lat": -32.5228,
+			"long": -55.7658,
+			"confirmed_cases": 79,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				50,
+				29,
+				8,
+				4,
+				4
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Uzbekistan",
+			"lat": 41.3775,
+			"long": 64.5853,
+			"confirmed_cases": 23,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				15,
+				10,
+				6,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"country": "Venezuela",
+			"lat": 6.4238,
+			"long": -66.5897,
+			"confirmed_cases": 42,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				36,
+				33,
+				17,
+				10,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"country": "Vietnam",
 			"lat": 16,
 			"long": 108,
-			"confirmed_cases": 30,
+			"confirmed_cases": 85,
 			"deaths": 0,
-			"recovered": 16
+			"recovered": 16,
+			"historic_cases": [
+				75,
+				66,
+				61,
+				56,
+				53
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				16,
+				16,
+				16,
+				16,
+				16
+			]
+		},
+		{
+			"country": "Zambia",
+			"lat": -15.4167,
+			"long": 28.2833,
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		}
 	]
 }

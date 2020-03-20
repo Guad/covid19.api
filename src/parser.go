@@ -16,12 +16,22 @@ func reduceCountries(regions []*LastRegionStatus) []*LastCountryStatus {
 				Deaths:         0,
 				Recovered:      0,
 				Regions:        []*LastCountryStatus{},
+
+				HistoricCases:     make([]int, 5),
+				HistoricDeaths:    make([]int, 5),
+				HistoricRecovered: make([]int, 5),
 			}
 		}
 
 		countries[country].ConfirmedCases += row.ConfirmedCases
 		countries[country].Deaths += row.Deaths
 		countries[country].Recovered += row.Recovered
+
+		for i := 0; i < 5; i++ {
+			countries[country].HistoricCases[i] += row.HistoricCases[i]
+			countries[country].HistoricDeaths[i] += row.HistoricDeaths[i]
+			countries[country].HistoricRecovered[i] += row.HistoricRecovered[i]
+		}
 
 		if region != "" && region != country {
 			countries[country].Regions = append(countries[country].Regions,
@@ -30,6 +40,10 @@ func reduceCountries(regions []*LastRegionStatus) []*LastCountryStatus {
 					ConfirmedCases: row.ConfirmedCases,
 					Deaths:         row.Deaths,
 					Recovered:      row.Recovered,
+
+					HistoricCases:     row.HistoricCases,
+					HistoricDeaths:    row.HistoricDeaths,
+					HistoricRecovered: row.HistoricRecovered,
 				},
 			)
 		}
@@ -64,6 +78,10 @@ func reduceRegions(countries []*LastCountryStatus) []*LastCountryStatus {
 						Deaths:         0,
 						Recovered:      0,
 						Regions:        []*LastCountryStatus{},
+
+						HistoricCases:     make([]int, 5),
+						HistoricDeaths:    make([]int, 5),
+						HistoricRecovered: make([]int, 5),
 					}
 				}
 
@@ -71,12 +89,22 @@ func reduceRegions(countries []*LastCountryStatus) []*LastCountryStatus {
 				subregions[parent].Deaths += region.Deaths
 				subregions[parent].Recovered += region.Recovered
 
+				for i := 0; i < 5; i++ {
+					subregions[parent].HistoricCases[i] += region.HistoricCases[i]
+					subregions[parent].HistoricDeaths[i] += region.HistoricDeaths[i]
+					subregions[parent].HistoricRecovered[i] += region.HistoricRecovered[i]
+				}
+
 				subregions[parent].Regions = append(subregions[parent].Regions,
 					&LastCountryStatus{
 						Name:           child,
 						ConfirmedCases: region.ConfirmedCases,
 						Deaths:         region.Deaths,
 						Recovered:      region.Recovered,
+
+						HistoricCases:     region.HistoricCases,
+						HistoricDeaths:    region.HistoricDeaths,
+						HistoricRecovered: region.HistoricRecovered,
 					},
 				)
 			}

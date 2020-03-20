@@ -8,14 +8,23 @@ type LastRegionStatus struct {
 	ConfirmedCases int     `json:"confirmed_cases"`
 	Deaths         int     `json:"deaths"`
 	Recovered      int     `json:"recovered"`
+
+	HistoricCases     []int `json:"historic_cases"`
+	HistoricDeaths    []int `json:"historic_deaths"`
+	HistoricRecovered []int `json:"historic_recovered"`
 }
 
 type LastCountryStatus struct {
-	Name           string               `json:"name"`
-	ConfirmedCases int                  `json:"confirmed_cases"`
-	Deaths         int                  `json:"deaths"`
-	Recovered      int                  `json:"recovered"`
-	Regions        []*LastCountryStatus `json:"regions,omitempty"`
+	Name           string `json:"name"`
+	ConfirmedCases int    `json:"confirmed_cases"`
+	Deaths         int    `json:"deaths"`
+	Recovered      int    `json:"recovered"`
+
+	HistoricCases     []int `json:"historic_cases"`
+	HistoricDeaths    []int `json:"historic_deaths"`
+	HistoricRecovered []int `json:"historic_recovered"`
+
+	Regions []*LastCountryStatus `json:"regions,omitempty"`
 }
 
 type FetchData struct {

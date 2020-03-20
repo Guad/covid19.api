@@ -67,6 +67,11 @@ func getLastStatus() ([]*LastRegionStatus, string) {
 			key := record[0] + "$" + record[1]
 
 			data, _ := strconv.Atoi(record[len(record)-1])
+			historic := make([]int, 5)
+
+			for i := 0; i < 5; i++ {
+				historic[i], _ = strconv.Atoi(record[len(record)-2-i])
+			}
 
 			if _, ok := stats[key]; !ok {
 				lat, _ := strconv.ParseFloat(record[2], 64)
@@ -82,10 +87,13 @@ func getLastStatus() ([]*LastRegionStatus, string) {
 
 			if strings.Contains(urlpath, "Confirmed") {
 				stats[key].ConfirmedCases = data
+				stats[key].HistoricCases = historic
 			} else if strings.Contains(urlpath, "Recovered") {
 				stats[key].Recovered = data
+				stats[key].HistoricRecovered = historic
 			} else {
 				stats[key].Deaths = data
+				stats[key].HistoricDeaths = historic
 			}
 		}
 

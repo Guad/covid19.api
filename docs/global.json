@@ -1,1849 +1,12114 @@
 {
-	"data_date": "3/8/20",
+	"data_date": "3/19/20",
 	"data": [
 		{
 			"name": "Afghanistan",
-			"confirmed_cases": 4,
+			"confirmed_cases": 22,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				22,
+				22,
+				21,
+				16,
+				11
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Albania",
+			"confirmed_cases": 64,
+			"deaths": 2,
+			"recovered": 0,
+			"historic_cases": [
+				59,
+				55,
+				51,
+				42,
+				38
+			],
+			"historic_deaths": [
+				2,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Algeria",
-			"confirmed_cases": 19,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 87,
+			"deaths": 9,
+			"recovered": 32,
+			"historic_cases": [
+				74,
+				60,
+				54,
+				48,
+				37
+			],
+			"historic_deaths": [
+				7,
+				4,
+				4,
+				4,
+				3
+			],
+			"historic_recovered": [
+				12,
+				12,
+				12,
+				12,
+				12
+			]
 		},
 		{
 			"name": "Andorra",
+			"confirmed_cases": 53,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				39,
+				39,
+				2,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Antigua and Barbuda",
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Argentina",
-			"confirmed_cases": 12,
-			"deaths": 1,
-			"recovered": 0
+			"confirmed_cases": 97,
+			"deaths": 3,
+			"recovered": 3,
+			"historic_cases": [
+				79,
+				68,
+				56,
+				45,
+				34
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				3,
+				3,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"name": "Armenia",
-			"confirmed_cases": 1,
+			"confirmed_cases": 115,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				84,
+				78,
+				52,
+				26,
+				18
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Australia",
-			"confirmed_cases": 76,
-			"deaths": 4,
-			"recovered": 21,
+			"confirmed_cases": 681,
+			"deaths": 6,
+			"recovered": 26,
+			"historic_cases": [
+				568,
+				452,
+				377,
+				297,
+				250
+			],
+			"historic_deaths": [
+				6,
+				5,
+				3,
+				3,
+				3
+			],
+			"historic_recovered": [
+				23,
+				23,
+				23,
+				23,
+				23
+			],
 			"regions": [
+				{
+					"name": "Australian Capital Territory",
+					"confirmed_cases": 4,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						3,
+						2,
+						2,
+						1,
+						1
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
 				{
 					"name": "From Diamond Princess",
 					"confirmed_cases": 0,
 					"deaths": 0,
-					"recovered": 0
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
 				},
 				{
 					"name": "New South Wales",
-					"confirmed_cases": 38,
-					"deaths": 3,
-					"recovered": 4
+					"confirmed_cases": 307,
+					"deaths": 5,
+					"recovered": 4,
+					"historic_cases": [
+						267,
+						210,
+						171,
+						134,
+						112
+					],
+					"historic_deaths": [
+						5,
+						4,
+						2,
+						2,
+						2
+					],
+					"historic_recovered": [
+						4,
+						4,
+						4,
+						4,
+						4
+					]
 				},
 				{
 					"name": "Northern Territory",
-					"confirmed_cases": 0,
+					"confirmed_cases": 1,
 					"deaths": 0,
-					"recovered": 0
+					"recovered": 0,
+					"historic_cases": [
+						1,
+						1,
+						1,
+						1,
+						1
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
 				},
 				{
 					"name": "Queensland",
-					"confirmed_cases": 15,
+					"confirmed_cases": 144,
 					"deaths": 0,
-					"recovered": 8
+					"recovered": 8,
+					"historic_cases": [
+						94,
+						78,
+						68,
+						61,
+						46
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						8,
+						8,
+						8,
+						8,
+						8
+					]
 				},
 				{
 					"name": "South Australia",
-					"confirmed_cases": 7,
+					"confirmed_cases": 42,
 					"deaths": 0,
-					"recovered": 2
+					"recovered": 3,
+					"historic_cases": [
+						37,
+						29,
+						29,
+						20,
+						19
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						3,
+						3,
+						3,
+						3,
+						3
+					]
 				},
 				{
 					"name": "Tasmania",
-					"confirmed_cases": 2,
+					"confirmed_cases": 10,
 					"deaths": 0,
-					"recovered": 0
+					"recovered": 3,
+					"historic_cases": [
+						10,
+						7,
+						7,
+						6,
+						5
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
 				},
 				{
 					"name": "Victoria",
-					"confirmed_cases": 11,
+					"confirmed_cases": 121,
 					"deaths": 0,
-					"recovered": 7
+					"recovered": 8,
+					"historic_cases": [
+						121,
+						94,
+						71,
+						57,
+						49
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						8,
+						8,
+						8,
+						8,
+						8
+					]
 				},
 				{
 					"name": "Western Australia",
-					"confirmed_cases": 3,
+					"confirmed_cases": 52,
 					"deaths": 1,
-					"recovered": 0
+					"recovered": 0,
+					"historic_cases": [
+						35,
+						31,
+						28,
+						17,
+						17
+					],
+					"historic_deaths": [
+						1,
+						1,
+						1,
+						1,
+						1
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
 				}
 			]
 		},
 		{
 			"name": "Austria",
-			"confirmed_cases": 104,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 2013,
+			"deaths": 6,
+			"recovered": 9,
+			"historic_cases": [
+				1646,
+				1332,
+				1018,
+				860,
+				655
+			],
+			"historic_deaths": [
+				4,
+				3,
+				3,
+				1,
+				1
+			],
+			"historic_recovered": [
+				9,
+				1,
+				6,
+				6,
+				6
+			]
 		},
 		{
 			"name": "Azerbaijan",
-			"confirmed_cases": 9,
+			"confirmed_cases": 44,
+			"deaths": 1,
+			"recovered": 6,
+			"historic_cases": [
+				28,
+				28,
+				15,
+				23,
+				15
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				6,
+				6,
+				6,
+				6,
+				3
+			]
+		},
+		{
+			"name": "Bahamas, The",
+			"confirmed_cases": 3,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Bahrain",
-			"confirmed_cases": 85,
-			"deaths": 0,
-			"recovered": 4
+			"confirmed_cases": 278,
+			"deaths": 1,
+			"recovered": 100,
+			"historic_cases": [
+				256,
+				228,
+				214,
+				214,
+				210
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				88,
+				81,
+				77,
+				60,
+				44
+			]
 		},
 		{
 			"name": "Bangladesh",
-			"confirmed_cases": 3,
+			"confirmed_cases": 17,
+			"deaths": 1,
+			"recovered": 3,
+			"historic_cases": [
+				14,
+				10,
+				8,
+				5,
+				3
+			],
+			"historic_deaths": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				3,
+				3,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Barbados",
+			"confirmed_cases": 5,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Belarus",
-			"confirmed_cases": 6,
+			"confirmed_cases": 51,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 5,
+			"historic_cases": [
+				51,
+				36,
+				36,
+				27,
+				27
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				5,
+				3,
+				3,
+				3,
+				3
+			]
 		},
 		{
 			"name": "Belgium",
-			"confirmed_cases": 200,
+			"confirmed_cases": 1795,
+			"deaths": 21,
+			"recovered": 31,
+			"historic_cases": [
+				1486,
+				1243,
+				1058,
+				886,
+				689
+			],
+			"historic_deaths": [
+				14,
+				10,
+				5,
+				4,
+				4
+			],
+			"historic_recovered": [
+				31,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Benin",
+			"confirmed_cases": 2,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Bhutan",
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Bolivia",
+			"confirmed_cases": 12,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				12,
+				11,
+				11,
+				10,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Bosnia and Herzegovina",
-			"confirmed_cases": 3,
+			"confirmed_cases": 63,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 2,
+			"historic_cases": [
+				38,
+				26,
+				25,
+				24,
+				18
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Brazil",
-			"confirmed_cases": 20,
+			"confirmed_cases": 621,
+			"deaths": 6,
+			"recovered": 2,
+			"historic_cases": [
+				372,
+				321,
+				200,
+				162,
+				151
+			],
+			"historic_deaths": [
+				3,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Brunei",
+			"confirmed_cases": 75,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				68,
+				56,
+				54,
+				50,
+				40
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Bulgaria",
-			"confirmed_cases": 4,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 94,
+			"deaths": 3,
+			"recovered": 0,
+			"historic_cases": [
+				92,
+				67,
+				52,
+				51,
+				41
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Burkina Faso",
+			"confirmed_cases": 33,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				20,
+				15,
+				15,
+				3,
+				2
+			],
+			"historic_deaths": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Cambodia",
-			"confirmed_cases": 2,
+			"confirmed_cases": 37,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 1,
+			"historic_cases": [
+				35,
+				33,
+				7,
+				7,
+				7
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"name": "Cameroon",
-			"confirmed_cases": 2,
+			"confirmed_cases": 13,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				10,
+				10,
+				4,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Canada",
-			"confirmed_cases": 64,
-			"deaths": 0,
-			"recovered": 8,
+			"confirmed_cases": 800,
+			"deaths": 9,
+			"recovered": 9,
+			"historic_cases": [
+				657,
+				478,
+				415,
+				252,
+				198
+			],
+			"historic_deaths": [
+				8,
+				5,
+				4,
+				1,
+				1
+			],
+			"historic_recovered": [
+				9,
+				9,
+				9,
+				8,
+				8
+			],
 			"regions": [
 				{
 					"name": "Alberta",
-					"confirmed_cases": 4,
+					"confirmed_cases": 119,
 					"deaths": 0,
 					"recovered": 0,
-					"regions": [
-						{
-							"name": "Calgary",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Edmonton",
-							"confirmed_cases": 3,
-							"deaths": 0,
-							"recovered": 0
-						}
+					"historic_cases": [
+						97,
+						74,
+						56,
+						39,
+						29
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
 					]
 				},
 				{
-					"name": "ON",
-					"confirmed_cases": 29,
-					"deaths": 0,
+					"name": "British Columbia",
+					"confirmed_cases": 231,
+					"deaths": 7,
 					"recovered": 4,
-					"regions": [
-						{
-							"name": "London",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 1
-						},
-						{
-							"name": "Toronto",
-							"confirmed_cases": 28,
-							"deaths": 0,
-							"recovered": 3
-						}
+					"historic_cases": [
+						186,
+						103,
+						103,
+						73,
+						64
+					],
+					"historic_deaths": [
+						7,
+						4,
+						4,
+						1,
+						1
+					],
+					"historic_recovered": [
+						4,
+						4,
+						4,
+						4,
+						4
 					]
 				},
 				{
-					"name": "QC",
-					"confirmed_cases": 4,
+					"name": "Grand Princess",
+					"confirmed_cases": 9,
 					"deaths": 0,
 					"recovered": 0,
-					"regions": [
-						{
-							"name": "Montreal",
-							"confirmed_cases": 4,
-							"deaths": 0,
-							"recovered": 0
-						}
+					"historic_cases": [
+						9,
+						8,
+						2,
+						2,
+						2
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Manitoba",
+					"confirmed_cases": 17,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						15,
+						8,
+						7,
+						4,
+						4
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "New Brunswick",
+					"confirmed_cases": 11,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						11,
+						8,
+						6,
+						2,
+						1
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Newfoundland and Labrador",
+					"confirmed_cases": 3,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						3,
+						3,
+						1,
+						1,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Nova Scotia",
+					"confirmed_cases": 14,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						12,
+						7,
+						5,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Ontario",
+					"confirmed_cases": 257,
+					"deaths": 1,
+					"recovered": 5,
+					"historic_cases": [
+						221,
+						185,
+						177,
+						104,
+						79
+					],
+					"historic_deaths": [
+						1,
+						1,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						5,
+						5,
+						5,
+						4,
+						4
+					]
+				},
+				{
+					"name": "Prince Edward Island",
+					"confirmed_cases": 2,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						1,
+						1,
+						1,
+						1,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Quebec",
+					"confirmed_cases": 121,
+					"deaths": 1,
+					"recovered": 0,
+					"historic_cases": [
+						94,
+						74,
+						50,
+						24,
+						17
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Saskatchewan",
+					"confirmed_cases": 16,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						8,
+						7,
+						7,
+						2,
+						2
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
 					]
 				}
 			]
 		},
 		{
+			"name": "Central African Republic",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Chad",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
 			"name": "Chile",
-			"confirmed_cases": 8,
+			"confirmed_cases": 238,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				238,
+				201,
+				155,
+				74,
+				61
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"name": "Colombia",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Costa Rica",
-			"confirmed_cases": 5,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Croatia",
-			"confirmed_cases": 12,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Czech Republic",
-			"confirmed_cases": 31,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Denmark",
-			"confirmed_cases": 35,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"name": "Dominican Republic",
-			"confirmed_cases": 5,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Ecuador",
-			"confirmed_cases": 14,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Egypt",
-			"confirmed_cases": 49,
-			"deaths": 1,
-			"recovered": 1
-		},
-		{
-			"name": "Estonia",
-			"confirmed_cases": 10,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Faroe Islands",
-			"confirmed_cases": 2,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Finland",
-			"confirmed_cases": 23,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"name": "France",
-			"confirmed_cases": 1126,
-			"deaths": 19,
-			"recovered": 12
-		},
-		{
-			"name": "French Guiana",
-			"confirmed_cases": 5,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Georgia",
-			"confirmed_cases": 13,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Germany",
-			"confirmed_cases": 1040,
-			"deaths": 0,
-			"recovered": 18
-		},
-		{
-			"name": "Gibraltar",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Greece",
-			"confirmed_cases": 73,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Hong Kong",
-			"confirmed_cases": 114,
-			"deaths": 3,
-			"recovered": 58
-		},
-		{
-			"name": "Hungary",
-			"confirmed_cases": 7,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Iceland",
-			"confirmed_cases": 50,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "India",
-			"confirmed_cases": 39,
-			"deaths": 0,
-			"recovered": 3
-		},
-		{
-			"name": "Indonesia",
-			"confirmed_cases": 6,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Iran",
-			"confirmed_cases": 6566,
-			"deaths": 194,
-			"recovered": 2134
-		},
-		{
-			"name": "Iraq",
-			"confirmed_cases": 60,
-			"deaths": 6,
-			"recovered": 0
-		},
-		{
-			"name": "Ireland",
-			"confirmed_cases": 19,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Israel",
-			"confirmed_cases": 39,
-			"deaths": 0,
-			"recovered": 2
-		},
-		{
-			"name": "Italy",
-			"confirmed_cases": 7375,
-			"deaths": 366,
-			"recovered": 622
-		},
-		{
-			"name": "Japan",
-			"confirmed_cases": 502,
-			"deaths": 6,
-			"recovered": 76
-		},
-		{
-			"name": "Jordan",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Kuwait",
-			"confirmed_cases": 64,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"name": "Latvia",
-			"confirmed_cases": 2,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Lebanon",
-			"confirmed_cases": 32,
-			"deaths": 0,
-			"recovered": 1
-		},
-		{
-			"name": "Liechtenstein",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Lithuania",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Luxembourg",
-			"confirmed_cases": 3,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Macau",
-			"confirmed_cases": 10,
-			"deaths": 0,
-			"recovered": 10
-		},
-		{
-			"name": "Mainland China",
-			"confirmed_cases": 80699,
-			"deaths": 3097,
-			"recovered": 57320,
+			"name": "China",
+			"confirmed_cases": 81156,
+			"deaths": 3249,
+			"recovered": 70535,
+			"historic_cases": [
+				81102,
+				81058,
+				81033,
+				81003,
+				80977
+			],
+			"historic_deaths": [
+				3241,
+				3230,
+				3217,
+				3203,
+				3193
+			],
+			"historic_recovered": [
+				69755,
+				68798,
+				67910,
+				67017,
+				65660
+			],
 			"regions": [
 				{
 					"name": "Anhui",
 					"confirmed_cases": 990,
 					"deaths": 6,
-					"recovered": 984
+					"recovered": 984,
+					"historic_cases": [
+						990,
+						990,
+						990,
+						990,
+						990
+					],
+					"historic_deaths": [
+						6,
+						6,
+						6,
+						6,
+						6
+					],
+					"historic_recovered": [
+						984,
+						984,
+						984,
+						984,
+						984
+					]
 				},
 				{
 					"name": "Beijing",
-					"confirmed_cases": 428,
+					"confirmed_cases": 480,
 					"deaths": 8,
-					"recovered": 308
+					"recovered": 380,
+					"historic_cases": [
+						469,
+						456,
+						452,
+						442,
+						437
+					],
+					"historic_deaths": [
+						8,
+						8,
+						8,
+						8,
+						8
+					],
+					"historic_recovered": [
+						378,
+						369,
+						360,
+						353,
+						349
+					]
 				},
 				{
 					"name": "Chongqing",
 					"confirmed_cases": 576,
 					"deaths": 6,
-					"recovered": 527
+					"recovered": 570,
+					"historic_cases": [
+						576,
+						576,
+						576,
+						576,
+						576
+					],
+					"historic_deaths": [
+						6,
+						6,
+						6,
+						6,
+						6
+					],
+					"historic_recovered": [
+						570,
+						570,
+						570,
+						570,
+						569
+					]
 				},
 				{
 					"name": "Fujian",
 					"confirmed_cases": 296,
 					"deaths": 1,
-					"recovered": 295
+					"recovered": 295,
+					"historic_cases": [
+						296,
+						296,
+						296,
+						296,
+						296
+					],
+					"historic_deaths": [
+						1,
+						1,
+						1,
+						1,
+						1
+					],
+					"historic_recovered": [
+						295,
+						295,
+						295,
+						295,
+						295
+					]
 				},
 				{
 					"name": "Gansu",
-					"confirmed_cases": 124,
+					"confirmed_cases": 134,
 					"deaths": 2,
-					"recovered": 87
+					"recovered": 91,
+					"historic_cases": [
+						133,
+						133,
+						133,
+						133,
+						129
+					],
+					"historic_deaths": [
+						2,
+						2,
+						2,
+						2,
+						2
+					],
+					"historic_recovered": [
+						91,
+						91,
+						91,
+						91,
+						89
+					]
 				},
 				{
 					"name": "Guangdong",
-					"confirmed_cases": 1352,
-					"deaths": 7,
-					"recovered": 1256
+					"confirmed_cases": 1378,
+					"deaths": 8,
+					"recovered": 1318,
+					"historic_cases": [
+						1370,
+						1364,
+						1361,
+						1360,
+						1356
+					],
+					"historic_deaths": [
+						8,
+						8,
+						8,
+						8,
+						8
+					],
+					"historic_recovered": [
+						1313,
+						1307,
+						1306,
+						1304,
+						1299
+					]
 				},
 				{
 					"name": "Guangxi",
-					"confirmed_cases": 252,
+					"confirmed_cases": 253,
 					"deaths": 2,
-					"recovered": 223
+					"recovered": 250,
+					"historic_cases": [
+						253,
+						253,
+						252,
+						252,
+						252
+					],
+					"historic_deaths": [
+						2,
+						2,
+						2,
+						2,
+						2
+					],
+					"historic_recovered": [
+						250,
+						248,
+						248,
+						243,
+						243
+					]
 				},
 				{
 					"name": "Guizhou",
 					"confirmed_cases": 146,
 					"deaths": 2,
-					"recovered": 117
+					"recovered": 144,
+					"historic_cases": [
+						146,
+						147,
+						146,
+						146,
+						146
+					],
+					"historic_deaths": [
+						2,
+						2,
+						2,
+						2,
+						2
+					],
+					"historic_recovered": [
+						144,
+						144,
+						144,
+						143,
+						143
+					]
 				},
 				{
 					"name": "Hainan",
 					"confirmed_cases": 168,
 					"deaths": 6,
-					"recovered": 159
+					"recovered": 161,
+					"historic_cases": [
+						168,
+						168,
+						168,
+						168,
+						168
+					],
+					"historic_deaths": [
+						6,
+						6,
+						6,
+						6,
+						6
+					],
+					"historic_recovered": [
+						161,
+						161,
+						161,
+						160,
+						160
+					]
 				},
 				{
 					"name": "Hebei",
 					"confirmed_cases": 318,
 					"deaths": 6,
-					"recovered": 307
+					"recovered": 310,
+					"historic_cases": [
+						318,
+						318,
+						318,
+						318,
+						318
+					],
+					"historic_deaths": [
+						6,
+						6,
+						6,
+						6,
+						6
+					],
+					"historic_recovered": [
+						310,
+						310,
+						310,
+						310,
+						310
+					]
 				},
 				{
 					"name": "Heilongjiang",
-					"confirmed_cases": 481,
+					"confirmed_cases": 483,
 					"deaths": 13,
-					"recovered": 412
+					"recovered": 460,
+					"historic_cases": [
+						482,
+						482,
+						482,
+						482,
+						482
+					],
+					"historic_deaths": [
+						13,
+						13,
+						13,
+						13,
+						13
+					],
+					"historic_recovered": [
+						459,
+						456,
+						455,
+						453,
+						447
+					]
 				},
 				{
 					"name": "Henan",
-					"confirmed_cases": 1272,
+					"confirmed_cases": 1273,
 					"deaths": 22,
-					"recovered": 1247
+					"recovered": 1250,
+					"historic_cases": [
+						1273,
+						1273,
+						1273,
+						1273,
+						1273
+					],
+					"historic_deaths": [
+						22,
+						22,
+						22,
+						22,
+						22
+					],
+					"historic_recovered": [
+						1250,
+						1250,
+						1250,
+						1250,
+						1250
+					]
+				},
+				{
+					"name": "Hong Kong",
+					"confirmed_cases": 208,
+					"deaths": 4,
+					"recovered": 95,
+					"historic_cases": [
+						181,
+						162,
+						155,
+						145,
+						140
+					],
+					"historic_deaths": [
+						4,
+						4,
+						4,
+						4,
+						4
+					],
+					"historic_recovered": [
+						92,
+						88,
+						84,
+						81,
+						78
+					]
 				},
 				{
 					"name": "Hubei",
-					"confirmed_cases": 67707,
-					"deaths": 2986,
-					"recovered": 45235
+					"confirmed_cases": 67800,
+					"deaths": 3130,
+					"recovered": 57682,
+					"historic_cases": [
+						67800,
+						67799,
+						67798,
+						67794,
+						67790
+					],
+					"historic_deaths": [
+						3122,
+						3111,
+						3099,
+						3085,
+						3075
+					],
+					"historic_recovered": [
+						56927,
+						56003,
+						55142,
+						54288,
+						52960
+					]
 				},
 				{
 					"name": "Hunan",
 					"confirmed_cases": 1018,
 					"deaths": 4,
-					"recovered": 968
+					"recovered": 1014,
+					"historic_cases": [
+						1018,
+						1018,
+						1018,
+						1018,
+						1018
+					],
+					"historic_deaths": [
+						4,
+						4,
+						4,
+						4,
+						4
+					],
+					"historic_recovered": [
+						1014,
+						1014,
+						1014,
+						1014,
+						1014
+					]
 				},
 				{
 					"name": "Inner Mongolia",
 					"confirmed_cases": 75,
 					"deaths": 1,
-					"recovered": 70
+					"recovered": 74,
+					"historic_cases": [
+						75,
+						75,
+						75,
+						75,
+						75
+					],
+					"historic_deaths": [
+						1,
+						1,
+						1,
+						1,
+						1
+					],
+					"historic_recovered": [
+						73,
+						73,
+						73,
+						71,
+						71
+					]
 				},
 				{
 					"name": "Jiangsu",
 					"confirmed_cases": 631,
 					"deaths": 0,
-					"recovered": 612
+					"recovered": 631,
+					"historic_cases": [
+						631,
+						631,
+						631,
+						631,
+						631
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						631,
+						631,
+						631,
+						631,
+						630
+					]
 				},
 				{
 					"name": "Jiangxi",
 					"confirmed_cases": 935,
 					"deaths": 1,
-					"recovered": 919
+					"recovered": 934,
+					"historic_cases": [
+						935,
+						935,
+						935,
+						935,
+						935
+					],
+					"historic_deaths": [
+						1,
+						1,
+						1,
+						1,
+						1
+					],
+					"historic_recovered": [
+						934,
+						934,
+						934,
+						934,
+						934
+					]
 				},
 				{
 					"name": "Jilin",
 					"confirmed_cases": 93,
 					"deaths": 1,
-					"recovered": 90
+					"recovered": 92,
+					"historic_cases": [
+						93,
+						93,
+						93,
+						93,
+						93
+					],
+					"historic_deaths": [
+						1,
+						1,
+						1,
+						1,
+						1
+					],
+					"historic_recovered": [
+						92,
+						92,
+						92,
+						91,
+						91
+					]
 				},
 				{
 					"name": "Liaoning",
 					"confirmed_cases": 125,
 					"deaths": 1,
-					"recovered": 109
+					"recovered": 122,
+					"historic_cases": [
+						125,
+						125,
+						125,
+						125,
+						125
+					],
+					"historic_deaths": [
+						1,
+						1,
+						1,
+						1,
+						1
+					],
+					"historic_recovered": [
+						122,
+						120,
+						115,
+						114,
+						113
+					]
+				},
+				{
+					"name": "Macau",
+					"confirmed_cases": 17,
+					"deaths": 0,
+					"recovered": 10,
+					"historic_cases": [
+						15,
+						12,
+						11,
+						10,
+						10
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						10,
+						10,
+						10,
+						10,
+						10
+					]
 				},
 				{
 					"name": "Ningxia",
 					"confirmed_cases": 75,
 					"deaths": 0,
-					"recovered": 71
+					"recovered": 75,
+					"historic_cases": [
+						75,
+						75,
+						75,
+						75,
+						75
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						75,
+						75,
+						75,
+						73,
+						73
+					]
 				},
 				{
 					"name": "Qinghai",
 					"confirmed_cases": 18,
 					"deaths": 0,
-					"recovered": 18
+					"recovered": 18,
+					"historic_cases": [
+						18,
+						18,
+						18,
+						18,
+						18
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						18,
+						18,
+						18,
+						18,
+						18
+					]
 				},
 				{
 					"name": "Shaanxi",
-					"confirmed_cases": 245,
-					"deaths": 1,
-					"recovered": 227
+					"confirmed_cases": 246,
+					"deaths": 3,
+					"recovered": 237,
+					"historic_cases": [
+						246,
+						246,
+						245,
+						245,
+						245
+					],
+					"historic_deaths": [
+						3,
+						3,
+						2,
+						2,
+						2
+					],
+					"historic_recovered": [
+						237,
+						236,
+						233,
+						232,
+						232
+					]
 				},
 				{
 					"name": "Shandong",
-					"confirmed_cases": 758,
-					"deaths": 6,
-					"recovered": 642
+					"confirmed_cases": 761,
+					"deaths": 7,
+					"recovered": 747,
+					"historic_cases": [
+						761,
+						761,
+						760,
+						760,
+						760
+					],
+					"historic_deaths": [
+						7,
+						7,
+						7,
+						7,
+						7
+					],
+					"historic_recovered": [
+						746,
+						746,
+						746,
+						741,
+						741
+					]
 				},
 				{
 					"name": "Shanghai",
-					"confirmed_cases": 342,
+					"confirmed_cases": 363,
 					"deaths": 3,
-					"recovered": 314
+					"recovered": 326,
+					"historic_cases": [
+						361,
+						358,
+						355,
+						353,
+						353
+					],
+					"historic_deaths": [
+						3,
+						3,
+						3,
+						3,
+						3
+					],
+					"historic_recovered": [
+						326,
+						325,
+						325,
+						324,
+						324
+					]
 				},
 				{
 					"name": "Shanxi",
 					"confirmed_cases": 133,
 					"deaths": 0,
-					"recovered": 126
+					"recovered": 133,
+					"historic_cases": [
+						133,
+						133,
+						133,
+						133,
+						133
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						133,
+						133,
+						133,
+						133,
+						133
+					]
 				},
 				{
 					"name": "Sichuan",
-					"confirmed_cases": 539,
+					"confirmed_cases": 540,
 					"deaths": 3,
-					"recovered": 464
+					"recovered": 536,
+					"historic_cases": [
+						540,
+						540,
+						539,
+						539,
+						539
+					],
+					"historic_deaths": [
+						3,
+						3,
+						3,
+						3,
+						3
+					],
+					"historic_recovered": [
+						525,
+						520,
+						516,
+						516,
+						511
+					]
 				},
 				{
 					"name": "Tianjin",
-					"confirmed_cases": 136,
+					"confirmed_cases": 137,
 					"deaths": 3,
-					"recovered": 128
+					"recovered": 133,
+					"historic_cases": [
+						136,
+						136,
+						136,
+						136,
+						136
+					],
+					"historic_deaths": [
+						3,
+						3,
+						3,
+						3,
+						3
+					],
+					"historic_recovered": [
+						133,
+						133,
+						133,
+						133,
+						132
+					]
 				},
 				{
 					"name": "Tibet",
 					"confirmed_cases": 1,
 					"deaths": 0,
-					"recovered": 1
+					"recovered": 1,
+					"historic_cases": [
+						1,
+						1,
+						1,
+						1,
+						1
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						1,
+						1,
+						1,
+						1,
+						1
+					]
 				},
 				{
 					"name": "Xinjiang",
 					"confirmed_cases": 76,
 					"deaths": 3,
-					"recovered": 73
+					"recovered": 73,
+					"historic_cases": [
+						76,
+						76,
+						76,
+						76,
+						76
+					],
+					"historic_deaths": [
+						3,
+						3,
+						3,
+						3,
+						3
+					],
+					"historic_recovered": [
+						73,
+						73,
+						73,
+						73,
+						73
+					]
 				},
 				{
 					"name": "Yunnan",
-					"confirmed_cases": 174,
+					"confirmed_cases": 176,
 					"deaths": 2,
-					"recovered": 170
+					"recovered": 172,
+					"historic_cases": [
+						176,
+						176,
+						176,
+						174,
+						174
+					],
+					"historic_deaths": [
+						2,
+						2,
+						2,
+						2,
+						2
+					],
+					"historic_recovered": [
+						172,
+						172,
+						172,
+						172,
+						172
+					]
 				},
 				{
 					"name": "Zhejiang",
-					"confirmed_cases": 1215,
+					"confirmed_cases": 1233,
 					"deaths": 1,
-					"recovered": 1161
+					"recovered": 1217,
+					"historic_cases": [
+						1232,
+						1232,
+						1231,
+						1231,
+						1227
+					],
+					"historic_deaths": [
+						1,
+						1,
+						1,
+						1,
+						1
+					],
+					"historic_recovered": [
+						1216,
+						1216,
+						1216,
+						1211,
+						1211
+					]
 				}
 			]
 		},
 		{
-			"name": "Malaysia",
-			"confirmed_cases": 99,
+			"name": "Colombia",
+			"confirmed_cases": 102,
 			"deaths": 0,
-			"recovered": 24
+			"recovered": 1,
+			"historic_cases": [
+				93,
+				65,
+				54,
+				34,
+				22
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Congo (Brazzaville)",
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Congo (Kinshasa)",
+			"confirmed_cases": 14,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				4,
+				3,
+				2,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Costa Rica",
+			"confirmed_cases": 69,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				50,
+				41,
+				35,
+				27,
+				26
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Cote d'Ivoire",
+			"confirmed_cases": 9,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				6,
+				5,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Croatia",
+			"confirmed_cases": 105,
+			"deaths": 1,
+			"recovered": 5,
+			"historic_cases": [
+				81,
+				65,
+				57,
+				49,
+				38
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				4,
+				4,
+				2,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Cruise Ship",
+			"confirmed_cases": 712,
+			"deaths": 7,
+			"recovered": 325,
+			"historic_cases": [
+				712,
+				696,
+				696,
+				696,
+				696
+			],
+			"historic_deaths": [
+				7,
+				7,
+				7,
+				7,
+				7
+			],
+			"historic_recovered": [
+				325,
+				325,
+				325,
+				325,
+				325
+			],
+			"regions": [
+				{
+					"name": "Diamond Princess",
+					"confirmed_cases": 712,
+					"deaths": 7,
+					"recovered": 325,
+					"historic_cases": [
+						712,
+						696,
+						696,
+						696,
+						696
+					],
+					"historic_deaths": [
+						7,
+						7,
+						7,
+						7,
+						7
+					],
+					"historic_recovered": [
+						325,
+						325,
+						325,
+						325,
+						325
+					]
+				}
+			]
+		},
+		{
+			"name": "Cuba",
+			"confirmed_cases": 11,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				7,
+				5,
+				4,
+				4,
+				4
+			],
+			"historic_deaths": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Cyprus",
+			"confirmed_cases": 67,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				49,
+				46,
+				33,
+				26,
+				26
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Czechia",
+			"confirmed_cases": 694,
+			"deaths": 0,
+			"recovered": 3,
+			"historic_cases": [
+				464,
+				396,
+				298,
+				253,
+				189
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				3,
+				3,
+				3,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Denmark",
+			"confirmed_cases": 1225,
+			"deaths": 6,
+			"recovered": 1,
+			"historic_cases": [
+				1116,
+				1025,
+				933,
+				875,
+				836
+			],
+			"historic_deaths": [
+				4,
+				4,
+				3,
+				2,
+				1
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"regions": [
+				{
+					"name": "Faroe Islands",
+					"confirmed_cases": 72,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						58,
+						47,
+						18,
+						11,
+						9
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Greenland",
+					"confirmed_cases": 2,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						1,
+						1,
+						1,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				}
+			]
+		},
+		{
+			"name": "Djibouti",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Dominican Republic",
+			"confirmed_cases": 34,
+			"deaths": 2,
+			"recovered": 0,
+			"historic_cases": [
+				21,
+				21,
+				11,
+				11,
+				11
+			],
+			"historic_deaths": [
+				1,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Ecuador",
+			"confirmed_cases": 199,
+			"deaths": 3,
+			"recovered": 0,
+			"historic_cases": [
+				111,
+				58,
+				37,
+				28,
+				28
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Egypt",
+			"confirmed_cases": 256,
+			"deaths": 6,
+			"recovered": 32,
+			"historic_cases": [
+				196,
+				196,
+				150,
+				110,
+				109
+			],
+			"historic_deaths": [
+				6,
+				4,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				32,
+				32,
+				27,
+				21,
+				27
+			]
+		},
+		{
+			"name": "El Salvador",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Equatorial Guinea",
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				4,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Estonia",
+			"confirmed_cases": 267,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				258,
+				225,
+				205,
+				171,
+				115
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"name": "Eswatini",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Ethiopia",
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				6,
+				5,
+				5,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Fiji",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Finland",
+			"confirmed_cases": 400,
+			"deaths": 0,
+			"recovered": 10,
+			"historic_cases": [
+				336,
+				321,
+				277,
+				244,
+				225
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				10,
+				10,
+				10,
+				10,
+				1
+			]
+		},
+		{
+			"name": "France",
+			"confirmed_cases": 10947,
+			"deaths": 243,
+			"recovered": 12,
+			"historic_cases": [
+				9105,
+				7699,
+				6668,
+				4523,
+				4487
+			],
+			"historic_deaths": [
+				148,
+				148,
+				148,
+				91,
+				91
+			],
+			"historic_recovered": [
+				12,
+				12,
+				12,
+				12,
+				12
+			],
+			"regions": [
+				{
+					"name": "French Guiana",
+					"confirmed_cases": 11,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						11,
+						11,
+						11,
+						7,
+						5
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "French Polynesia",
+					"confirmed_cases": 6,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						3,
+						3,
+						3,
+						3,
+						3
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Guadeloupe",
+					"confirmed_cases": 33,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						27,
+						18,
+						6,
+						3,
+						1
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Mayotte",
+					"confirmed_cases": 3,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						3,
+						1,
+						1,
+						1,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "New Caledonia",
+					"confirmed_cases": 2,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Reunion",
+					"confirmed_cases": 14,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						12,
+						9,
+						9,
+						7,
+						6
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Saint Barthelemy",
+					"confirmed_cases": 3,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						3,
+						3,
+						3,
+						1,
+						1
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "St Martin",
+					"confirmed_cases": 4,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						3,
+						2,
+						2,
+						2,
+						2
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				}
+			]
+		},
+		{
+			"name": "Gabon",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Gambia, The",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Georgia",
+			"confirmed_cases": 40,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				38,
+				34,
+				33,
+				33,
+				30
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Germany",
+			"confirmed_cases": 15320,
+			"deaths": 44,
+			"recovered": 113,
+			"historic_cases": [
+				12327,
+				9257,
+				7272,
+				5795,
+				4585
+			],
+			"historic_deaths": [
+				28,
+				24,
+				17,
+				11,
+				9
+			],
+			"historic_recovered": [
+				105,
+				67,
+				67,
+				46,
+				46
+			]
+		},
+		{
+			"name": "Ghana",
+			"confirmed_cases": 11,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				7,
+				7,
+				6,
+				6,
+				3
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Greece",
+			"confirmed_cases": 418,
+			"deaths": 6,
+			"recovered": 8,
+			"historic_cases": [
+				418,
+				387,
+				331,
+				331,
+				228
+			],
+			"historic_deaths": [
+				5,
+				5,
+				4,
+				4,
+				3
+			],
+			"historic_recovered": [
+				8,
+				8,
+				8,
+				8,
+				8
+			]
+		},
+		{
+			"name": "Guatemala",
+			"confirmed_cases": 9,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				6,
+				6,
+				2,
+				1,
+				1
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Guinea",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Guyana",
+			"confirmed_cases": 7,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				7,
+				7,
+				4,
+				4,
+				1
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Holy See",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Honduras",
+			"confirmed_cases": 12,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				9,
+				8,
+				6,
+				3,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Hungary",
+			"confirmed_cases": 73,
+			"deaths": 1,
+			"recovered": 2,
+			"historic_cases": [
+				58,
+				50,
+				39,
+				32,
+				30
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Iceland",
+			"confirmed_cases": 330,
+			"deaths": 1,
+			"recovered": 5,
+			"historic_cases": [
+				250,
+				220,
+				180,
+				171,
+				156
+			],
+			"historic_deaths": [
+				1,
+				1,
+				0,
+				5,
+				0
+			],
+			"historic_recovered": [
+				5,
+				0,
+				0,
+				8,
+				1
+			]
+		},
+		{
+			"name": "India",
+			"confirmed_cases": 194,
+			"deaths": 4,
+			"recovered": 15,
+			"historic_cases": [
+				156,
+				142,
+				119,
+				113,
+				102
+			],
+			"historic_deaths": [
+				3,
+				3,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				14,
+				14,
+				13,
+				13,
+				4
+			]
+		},
+		{
+			"name": "Indonesia",
+			"confirmed_cases": 311,
+			"deaths": 25,
+			"recovered": 11,
+			"historic_cases": [
+				227,
+				172,
+				134,
+				117,
+				96
+			],
+			"historic_deaths": [
+				19,
+				5,
+				5,
+				5,
+				5
+			],
+			"historic_recovered": [
+				11,
+				8,
+				8,
+				8,
+				8
+			]
+		},
+		{
+			"name": "Iran",
+			"confirmed_cases": 18407,
+			"deaths": 1284,
+			"recovered": 5710,
+			"historic_cases": [
+				17361,
+				16169,
+				14991,
+				13938,
+				12729
+			],
+			"historic_deaths": [
+				1135,
+				988,
+				853,
+				724,
+				611
+			],
+			"historic_recovered": [
+				5389,
+				5389,
+				4590,
+				4590,
+				2959
+			]
+		},
+		{
+			"name": "Iraq",
+			"confirmed_cases": 192,
+			"deaths": 13,
+			"recovered": 43,
+			"historic_cases": [
+				164,
+				154,
+				124,
+				116,
+				110
+			],
+			"historic_deaths": [
+				12,
+				11,
+				10,
+				10,
+				10
+			],
+			"historic_recovered": [
+				43,
+				32,
+				26,
+				26,
+				26
+			]
+		},
+		{
+			"name": "Ireland",
+			"confirmed_cases": 557,
+			"deaths": 3,
+			"recovered": 5,
+			"historic_cases": [
+				292,
+				223,
+				169,
+				129,
+				129
+			],
+			"historic_deaths": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_recovered": [
+				5,
+				5,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Israel",
+			"confirmed_cases": 677,
+			"deaths": 0,
+			"recovered": 11,
+			"historic_cases": [
+				433,
+				337,
+				255,
+				251,
+				193
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				11,
+				11,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"name": "Italy",
+			"confirmed_cases": 41035,
+			"deaths": 3405,
+			"recovered": 4440,
+			"historic_cases": [
+				35713,
+				31506,
+				27980,
+				24747,
+				21157
+			],
+			"historic_deaths": [
+				2978,
+				2503,
+				2158,
+				1809,
+				1441
+			],
+			"historic_recovered": [
+				4025,
+				2941,
+				2749,
+				2335,
+				1966
+			]
+		},
+		{
+			"name": "Jamaica",
+			"confirmed_cases": 15,
+			"deaths": 1,
+			"recovered": 2,
+			"historic_cases": [
+				13,
+				12,
+				10,
+				10,
+				8
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				2,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Japan",
+			"confirmed_cases": 924,
+			"deaths": 29,
+			"recovered": 150,
+			"historic_cases": [
+				889,
+				878,
+				825,
+				839,
+				773
+			],
+			"historic_deaths": [
+				29,
+				29,
+				27,
+				22,
+				22
+			],
+			"historic_recovered": [
+				144,
+				144,
+				144,
+				118,
+				118
+			]
+		},
+		{
+			"name": "Jordan",
+			"confirmed_cases": 69,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				52,
+				34,
+				17,
+				8,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Kazakhstan",
+			"confirmed_cases": 44,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				35,
+				33,
+				10,
+				9,
+				6
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Kenya",
+			"confirmed_cases": 7,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				3,
+				3,
+				3,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Korea, South",
+			"confirmed_cases": 8565,
+			"deaths": 91,
+			"recovered": 1540,
+			"historic_cases": [
+				8413,
+				8320,
+				8236,
+				8162,
+				8086
+			],
+			"historic_deaths": [
+				84,
+				81,
+				75,
+				75,
+				72
+			],
+			"historic_recovered": [
+				1540,
+				1407,
+				1137,
+				510,
+				510
+			]
+		},
+		{
+			"name": "Kosovo",
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				2,
+				2,
+				2,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Kuwait",
+			"confirmed_cases": 148,
+			"deaths": 0,
+			"recovered": 18,
+			"historic_cases": [
+				142,
+				130,
+				123,
+				112,
+				104
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				15,
+				9,
+				9,
+				5,
+				5
+			]
+		},
+		{
+			"name": "Kyrgyzstan",
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Latvia",
+			"confirmed_cases": 86,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				71,
+				49,
+				34,
+				30,
+				26
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Lebanon",
+			"confirmed_cases": 157,
+			"deaths": 4,
+			"recovered": 4,
+			"historic_cases": [
+				133,
+				120,
+				99,
+				110,
+				93
+			],
+			"historic_deaths": [
+				3,
+				3,
+				3,
+				3,
+				3
+			],
+			"historic_recovered": [
+				3,
+				3,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Liberia",
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Liechtenstein",
+			"confirmed_cases": 28,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				28,
+				7,
+				4,
+				4,
+				4
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Lithuania",
+			"confirmed_cases": 36,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				27,
+				25,
+				17,
+				12,
+				8
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				0
+			]
+		},
+		{
+			"name": "Luxembourg",
+			"confirmed_cases": 335,
+			"deaths": 4,
+			"recovered": 0,
+			"historic_cases": [
+				203,
+				140,
+				77,
+				59,
+				51
+			],
+			"historic_deaths": [
+				2,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Malaysia",
+			"confirmed_cases": 900,
+			"deaths": 2,
+			"recovered": 75,
+			"historic_cases": [
+				790,
+				673,
+				566,
+				428,
+				238
+			],
+			"historic_deaths": [
+				2,
+				2,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				60,
+				49,
+				42,
+				42,
+				35
+			]
 		},
 		{
 			"name": "Maldives",
-			"confirmed_cases": 4,
+			"confirmed_cases": 13,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				13,
+				13,
+				13,
+				13,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Malta",
-			"confirmed_cases": 3,
+			"confirmed_cases": 53,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 2,
+			"historic_cases": [
+				38,
+				38,
+				30,
+				21,
+				18
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				2,
+				1,
+				1
+			]
 		},
 		{
 			"name": "Martinique",
+			"confirmed_cases": 23,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				19,
+				16,
+				15,
+				9,
+				9
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Mauritania",
 			"confirmed_cases": 2,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Mauritius",
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Mexico",
-			"confirmed_cases": 7,
-			"deaths": 0,
-			"recovered": 1
+			"confirmed_cases": 118,
+			"deaths": 1,
+			"recovered": 4,
+			"historic_cases": [
+				93,
+				82,
+				53,
+				41,
+				26
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				4,
+				4,
+				4,
+				4,
+				4
+			]
 		},
 		{
 			"name": "Moldova",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 49,
+			"deaths": 1,
+			"recovered": 1,
+			"historic_cases": [
+				30,
+				30,
+				23,
+				23,
+				12
+			],
+			"historic_deaths": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Monaco",
-			"confirmed_cases": 1,
+			"confirmed_cases": 7,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				7,
+				7,
+				7,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Mongolia",
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				6,
+				5,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Montenegro",
+			"confirmed_cases": 3,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				2,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Morocco",
-			"confirmed_cases": 2,
+			"confirmed_cases": 63,
+			"deaths": 2,
+			"recovered": 1,
+			"historic_cases": [
+				49,
+				38,
+				29,
+				28,
+				17
+			],
+			"historic_deaths": [
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Namibia",
+			"confirmed_cases": 3,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Nepal",
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 1,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"name": "Netherlands",
-			"confirmed_cases": 265,
-			"deaths": 3,
-			"recovered": 0
-		},
-		{
-			"name": "New Zealand",
-			"confirmed_cases": 5,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Nigeria",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "North Macedonia",
-			"confirmed_cases": 3,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Norway",
-			"confirmed_cases": 176,
-			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Oman",
-			"confirmed_cases": 16,
-			"deaths": 0,
-			"recovered": 2
-		},
-		{
-			"name": "Others",
-			"confirmed_cases": 696,
-			"deaths": 6,
-			"recovered": 40,
+			"confirmed_cases": 2467,
+			"deaths": 77,
+			"recovered": 2,
+			"historic_cases": [
+				2058,
+				1711,
+				1416,
+				1138,
+				962
+			],
+			"historic_deaths": [
+				58,
+				43,
+				24,
+				20,
+				12
+			],
+			"historic_recovered": [
+				2,
+				2,
+				2,
+				2,
+				2
+			],
 			"regions": [
 				{
-					"name": "Diamond Princess cruise ship",
-					"confirmed_cases": 696,
-					"deaths": 6,
-					"recovered": 40
+					"name": "Aruba",
+					"confirmed_cases": 4,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						4,
+						3,
+						2,
+						2,
+						2
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Curacao",
+					"confirmed_cases": 3,
+					"deaths": 1,
+					"recovered": 0,
+					"historic_cases": [
+						3,
+						3,
+						1,
+						1,
+						1
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
 				}
 			]
 		},
 		{
-			"name": "Pakistan",
-			"confirmed_cases": 6,
+			"name": "New Zealand",
+			"confirmed_cases": 28,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				20,
+				12,
+				8,
+				8,
+				6
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"name": "Palestine",
-			"confirmed_cases": 22,
+			"name": "Nicaragua",
+			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Nigeria",
+			"confirmed_cases": 8,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				8,
+				3,
+				2,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "North Macedonia",
+			"confirmed_cases": 48,
+			"deaths": 0,
+			"recovered": 1,
+			"historic_cases": [
+				35,
+				26,
+				18,
+				14,
+				14
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Norway",
+			"confirmed_cases": 1746,
+			"deaths": 7,
+			"recovered": 1,
+			"historic_cases": [
+				1550,
+				1463,
+				1333,
+				1221,
+				1090
+			],
+			"historic_deaths": [
+				6,
+				3,
+				3,
+				3,
+				3
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Oman",
+			"confirmed_cases": 48,
+			"deaths": 0,
+			"recovered": 12,
+			"historic_cases": [
+				39,
+				24,
+				22,
+				22,
+				19
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				12,
+				9,
+				9,
+				9,
+				9
+			]
+		},
+		{
+			"name": "Pakistan",
+			"confirmed_cases": 454,
+			"deaths": 2,
+			"recovered": 13,
+			"historic_cases": [
+				299,
+				236,
+				136,
+				53,
+				31
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		},
+		{
+			"name": "Panama",
+			"confirmed_cases": 109,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				86,
+				69,
+				55,
+				43,
+				36
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Paraguay",
-			"confirmed_cases": 1,
+			"confirmed_cases": 11,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				11,
+				9,
+				8,
+				6,
+				6
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Peru",
-			"confirmed_cases": 6,
+			"confirmed_cases": 234,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				145,
+				117,
+				86,
+				43,
+				38
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Philippines",
-			"confirmed_cases": 10,
-			"deaths": 1,
-			"recovered": 1
+			"confirmed_cases": 217,
+			"deaths": 17,
+			"recovered": 8,
+			"historic_cases": [
+				202,
+				187,
+				142,
+				140,
+				111
+			],
+			"historic_deaths": [
+				19,
+				12,
+				12,
+				11,
+				8
+			],
+			"historic_recovered": [
+				5,
+				5,
+				2,
+				2,
+				2
+			]
 		},
 		{
 			"name": "Poland",
-			"confirmed_cases": 11,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 355,
+			"deaths": 5,
+			"recovered": 1,
+			"historic_cases": [
+				251,
+				238,
+				177,
+				119,
+				103
+			],
+			"historic_deaths": [
+				5,
+				5,
+				4,
+				3,
+				3
+			],
+			"historic_recovered": [
+				13,
+				13,
+				13,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Portugal",
-			"confirmed_cases": 30,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 785,
+			"deaths": 3,
+			"recovered": 3,
+			"historic_cases": [
+				448,
+				448,
+				331,
+				245,
+				169
+			],
+			"historic_deaths": [
+				2,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				3,
+				3,
+				3,
+				2,
+				2
+			]
 		},
 		{
 			"name": "Qatar",
-			"confirmed_cases": 15,
+			"confirmed_cases": 460,
 			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "Republic of Ireland",
-			"confirmed_cases": 21,
-			"deaths": 0,
-			"recovered": 0
+			"recovered": 4,
+			"historic_cases": [
+				452,
+				439,
+				439,
+				401,
+				337
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				4,
+				4,
+				4,
+				4,
+				4
+			]
 		},
 		{
 			"name": "Romania",
-			"confirmed_cases": 15,
+			"confirmed_cases": 277,
 			"deaths": 0,
-			"recovered": 3
+			"recovered": 25,
+			"historic_cases": [
+				260,
+				184,
+				158,
+				131,
+				123
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				19,
+				16,
+				9,
+				9,
+				9
+			]
 		},
 		{
 			"name": "Russia",
-			"confirmed_cases": 17,
-			"deaths": 0,
-			"recovered": 3
+			"confirmed_cases": 199,
+			"deaths": 1,
+			"recovered": 9,
+			"historic_cases": [
+				147,
+				114,
+				90,
+				63,
+				59
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				8,
+				8,
+				8,
+				8,
+				8
+			]
 		},
 		{
-			"name": "Saint Barthelemy",
-			"confirmed_cases": 3,
+			"name": "Rwanda",
+			"confirmed_cases": 8,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				8,
+				7,
+				5,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Saint Lucia",
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				2,
+				2,
+				2,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Saint Vincent and the Grenadines",
+			"confirmed_cases": 1,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "San Marino",
-			"confirmed_cases": 36,
-			"deaths": 1,
-			"recovered": 0
+			"confirmed_cases": 119,
+			"deaths": 11,
+			"recovered": 4,
+			"historic_cases": [
+				119,
+				109,
+				109,
+				101,
+				80
+			],
+			"historic_deaths": [
+				11,
+				7,
+				7,
+				5,
+				5
+			],
+			"historic_recovered": [
+				4,
+				4,
+				4,
+				4,
+				4
+			]
 		},
 		{
 			"name": "Saudi Arabia",
-			"confirmed_cases": 11,
+			"confirmed_cases": 274,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 6,
+			"historic_cases": [
+				171,
+				171,
+				118,
+				103,
+				103
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				6,
+				6,
+				2,
+				1,
+				1
+			]
 		},
 		{
 			"name": "Senegal",
-			"confirmed_cases": 4,
+			"confirmed_cases": 31,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 2,
+			"historic_cases": [
+				31,
+				26,
+				24,
+				24,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				2,
+				2,
+				2,
+				1,
+				1
+			]
 		},
 		{
 			"name": "Serbia",
-			"confirmed_cases": 1,
+			"confirmed_cases": 103,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 1,
+			"historic_cases": [
+				83,
+				65,
+				55,
+				48,
+				46
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Seychelles",
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				4,
+				4,
+				3,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Singapore",
-			"confirmed_cases": 150,
+			"confirmed_cases": 345,
 			"deaths": 0,
-			"recovered": 78
+			"recovered": 114,
+			"historic_cases": [
+				313,
+				266,
+				243,
+				226,
+				212
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				114,
+				114,
+				109,
+				105,
+				105
+			]
 		},
 		{
 			"name": "Slovakia",
-			"confirmed_cases": 3,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 123,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				105,
+				72,
+				63,
+				54,
+				44
+			],
+			"historic_deaths": [
+				1,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Slovenia",
-			"confirmed_cases": 16,
+			"confirmed_cases": 286,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				275,
+				275,
+				253,
+				219,
+				181
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Somalia",
+			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "South Africa",
-			"confirmed_cases": 3,
+			"confirmed_cases": 150,
 			"deaths": 0,
-			"recovered": 0
-		},
-		{
-			"name": "South Korea",
-			"confirmed_cases": 7314,
-			"deaths": 50,
-			"recovered": 118
+			"recovered": 0,
+			"historic_cases": [
+				116,
+				62,
+				62,
+				51,
+				38
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Spain",
-			"confirmed_cases": 673,
-			"deaths": 17,
-			"recovered": 30
+			"confirmed_cases": 17963,
+			"deaths": 830,
+			"recovered": 1107,
+			"historic_cases": [
+				13910,
+				11748,
+				9942,
+				7798,
+				6391
+			],
+			"historic_deaths": [
+				623,
+				533,
+				342,
+				289,
+				195
+			],
+			"historic_recovered": [
+				1081,
+				1028,
+				530,
+				517,
+				517
+			]
 		},
 		{
 			"name": "Sri Lanka",
+			"confirmed_cases": 60,
+			"deaths": 0,
+			"recovered": 3,
+			"historic_cases": [
+				51,
+				44,
+				28,
+				18,
+				10
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
+		},
+		{
+			"name": "Sudan",
+			"confirmed_cases": 2,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Suriname",
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 1
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Sweden",
-			"confirmed_cases": 203,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 1439,
+			"deaths": 11,
+			"recovered": 16,
+			"historic_cases": [
+				1279,
+				1190,
+				1103,
+				1022,
+				961
+			],
+			"historic_deaths": [
+				10,
+				7,
+				6,
+				3,
+				2
+			],
+			"historic_recovered": [
+				1,
+				1,
+				1,
+				1,
+				1
+			]
 		},
 		{
 			"name": "Switzerland",
-			"confirmed_cases": 337,
-			"deaths": 2,
-			"recovered": 3
+			"confirmed_cases": 4075,
+			"deaths": 41,
+			"recovered": 15,
+			"historic_cases": [
+				3028,
+				2700,
+				2200,
+				2200,
+				1359
+			],
+			"historic_deaths": [
+				28,
+				27,
+				14,
+				14,
+				13
+			],
+			"historic_recovered": [
+				15,
+				4,
+				4,
+				4,
+				4
+			]
 		},
 		{
-			"name": "Taiwan",
-			"confirmed_cases": 45,
+			"name": "Taiwan*",
+			"confirmed_cases": 108,
 			"deaths": 1,
-			"recovered": 13
+			"recovered": 26,
+			"historic_cases": [
+				100,
+				77,
+				67,
+				59,
+				53
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				22,
+				22,
+				20,
+				20,
+				20
+			]
+		},
+		{
+			"name": "Tanzania",
+			"confirmed_cases": 6,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				3,
+				1,
+				1,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Thailand",
-			"confirmed_cases": 50,
+			"confirmed_cases": 272,
 			"deaths": 1,
-			"recovered": 31
+			"recovered": 42,
+			"historic_cases": [
+				212,
+				177,
+				147,
+				114,
+				82
+			],
+			"historic_deaths": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				42,
+				41,
+				35,
+				35,
+				35
+			]
 		},
 		{
 			"name": "Togo",
 			"confirmed_cases": 1,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Trinidad and Tobago",
+			"confirmed_cases": 9,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				7,
+				5,
+				4,
+				2,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Tunisia",
-			"confirmed_cases": 2,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 39,
+			"deaths": 1,
+			"recovered": 0,
+			"historic_cases": [
+				29,
+				24,
+				20,
+				18,
+				18
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
-			"name": "UK",
-			"confirmed_cases": 273,
+			"name": "Turkey",
+			"confirmed_cases": 192,
 			"deaths": 3,
-			"recovered": 18
+			"recovered": 0,
+			"historic_cases": [
+				98,
+				47,
+				18,
+				6,
+				5
+			],
+			"historic_deaths": [
+				1,
+				1,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "US",
-			"confirmed_cases": 538,
-			"deaths": 21,
-			"recovered": 8,
+			"confirmed_cases": 13677,
+			"deaths": 200,
+			"recovered": 0,
+			"historic_cases": [
+				7783,
+				6421,
+				4632,
+				3499,
+				2727
+			],
+			"historic_deaths": [
+				118,
+				108,
+				85,
+				63,
+				54
+			],
+			"historic_recovered": [
+				0,
+				17,
+				17,
+				12,
+				12
+			],
 			"regions": [
 				{
 					"name": "AZ",
-					"confirmed_cases": 5,
+					"confirmed_cases": 0,
 					"deaths": 0,
-					"recovered": 1,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Maricopa County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 1
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Pima",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Pinal County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "CA",
-					"confirmed_cases": 98,
-					"deaths": 1,
-					"recovered": 2,
-					"regions": [
-						{
-							"name": "Alameda County",
-							"confirmed_cases": 2,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Contra Costa County",
-							"confirmed_cases": 12,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Fresno County",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Humboldt County",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Los Angeles",
-							"confirmed_cases": 14,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Madera County",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Orange County",
-							"confirmed_cases": 3,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Placer County",
-							"confirmed_cases": 5,
-							"deaths": 1,
-							"recovered": 0
-						},
-						{
-							"name": "Riverside County",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Sacramento County",
-							"confirmed_cases": 2,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "San Benito",
-							"confirmed_cases": 2,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "San Diego County",
-							"confirmed_cases": 3,
-							"deaths": 0,
-							"recovered": 1
-						},
-						{
-							"name": "San Francisco County",
-							"confirmed_cases": 9,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "San Mateo",
-							"confirmed_cases": 2,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Santa Clara County",
-							"confirmed_cases": 38,
-							"deaths": 0,
-							"recovered": 1
-						},
-						{
-							"name": "Sonoma County",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Yolo County",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
-						}
-					]
-				},
-				{
-					"name": "CA (From Diamond Princess)",
 					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Travis",
+							"name": "Alameda County",
 							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Calaveras",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Contra Costa County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Fresno County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Humboldt County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Los Angeles",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Madera County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Marin",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Napa",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Orange County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Placer County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Riverside County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Sacramento County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "San Benito",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "San Diego County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "San Francisco County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "San Joaquin",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "San Mateo",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Santa Clara County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Santa Cruz",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Shasta County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Solano",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Sonoma County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Stanislaus",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Ventura",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Yolo County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "CO",
-					"confirmed_cases": 8,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Denver County",
-							"confirmed_cases": 2,
+							"name": "Arapahoe",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Denver County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Douglas County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Eagle",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "El Paso County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Gunnison",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Jefferson",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Larimer",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Summit County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "CT",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Fairfield County",
-							"confirmed_cases": 1,
+							"name": "Fairfield",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Litchfield",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "D.C.",
-					"confirmed_cases": 2,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Washington",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						}
+					]
+				},
+				{
+					"name": "DE",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"regions": [
+						{
+							"name": "New Castle",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "FL",
-					"confirmed_cases": 11,
-					"deaths": 2,
+					"confirmed_cases": 0,
+					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Broward County",
-							"confirmed_cases": 2,
+							"name": "Alachua",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Broward County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Charlotte County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Collier",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Hillsborough",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Lee County",
-							"confirmed_cases": 2,
-							"deaths": 1,
-							"recovered": 0
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Manatee County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Nassau",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Okaloosa County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Pasco",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Pinellas",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Santa Rosa County",
-							"confirmed_cases": 1,
-							"deaths": 1,
-							"recovered": 0
-						},
-						{
-							"name": "Sarasota",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Volusia County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "GA",
-					"confirmed_cases": 6,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Cobb County",
-							"confirmed_cases": 1,
+							"name": "Charlton",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Cherokee County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Cobb County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "DeKalb",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Fayette",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Floyd",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Fulton County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Gwinnett",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Polk County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "HI",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Honolulu County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						}
+					]
+				},
+				{
+					"name": "IA",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"regions": [
+						{
+							"name": "Johnson County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Pottawattamie",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "IL",
-					"confirmed_cases": 7,
+					"confirmed_cases": 0,
 					"deaths": 0,
-					"recovered": 2,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Cook County",
-							"confirmed_cases": 7,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 2
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Kane",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Lake",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "McHenry",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "IN",
-					"confirmed_cases": 2,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Hendricks County",
-							"confirmed_cases": 1,
+							"name": "Adams",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Boone",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Hendricks County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Howard",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Johnson",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Marion County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Noble",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "St. Joseph",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "KS",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Johnson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "KY",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Fayette County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Harrison County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Jefferson County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						}
+					]
+				},
+				{
+					"name": "LA",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"regions": [
+						{
+							"name": "Jefferson Parish",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Orleans",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "MA",
-					"confirmed_cases": 24,
+					"confirmed_cases": 0,
 					"deaths": 0,
-					"recovered": 1,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Berkshire County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Essex",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Middlesex County",
-							"confirmed_cases": 7,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Norfolk County",
-							"confirmed_cases": 6,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Plymouth County",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Suffolk County",
-							"confirmed_cases": 8,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 1
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
-							"name": "Unknown Location",
-							"confirmed_cases": 1,
+							"name": "Worcester",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "MD",
-					"confirmed_cases": 5,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Harford County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Montgomery County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Prince George's",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						}
+					]
+				},
+				{
+					"name": "MI",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"regions": [
+						{
+							"name": "Oakland",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Wayne",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "MN",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Ramsey County",
-							"confirmed_cases": 1,
+							"name": "Anoka",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Carver County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Olmsted",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Ramsey County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "MO",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "St. Louis County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "NC",
-					"confirmed_cases": 2,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Chatham County",
-							"confirmed_cases": 1,
+							"name": "Camden",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Chatham County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Wake County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "NE",
-					"confirmed_cases": 1,
-					"deaths": 0,
-					"recovered": 0,
-					"regions": [
-						{
-							"name": "Douglas County",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
-						}
-					]
-				},
-				{
-					"name": "NE (From Diamond Princess)",
 					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Omaha",
+							"name": "Douglas County",
 							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Knox",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "NH",
-					"confirmed_cases": 6,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Grafton County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Rockingham County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "NJ",
-					"confirmed_cases": 5,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Bergen County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Burlington",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Camden",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Hudson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Middlesex",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Monmouth",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Passaic",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Union",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						}
+					]
+				},
+				{
+					"name": "NM",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"regions": [
+						{
+							"name": "Bernalillo",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Socorro",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "NV",
-					"confirmed_cases": 4,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Clark County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Washoe County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "NY",
-					"confirmed_cases": 106,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Nassau County",
-							"confirmed_cases": 5,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "New York County",
-							"confirmed_cases": 12,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Rockland County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Saratoga County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Suffolk County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Ulster County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Westchester County",
-							"confirmed_cases": 83,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						}
+					]
+				},
+				{
+					"name": "OH",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"regions": [
+						{
+							"name": "Cuyahoga",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Stark",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "OK",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Tulsa County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "OR",
-					"confirmed_cases": 14,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Douglas County",
-							"confirmed_cases": 1,
+							"name": "Deschutes",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Douglas County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Jackson County",
-							"confirmed_cases": 2,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Klamath County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Marion County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Multnomah",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Polk",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Umatilla",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Washington County",
-							"confirmed_cases": 8,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "PA",
-					"confirmed_cases": 6,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Delaware County",
-							"confirmed_cases": 1,
+							"name": "Bucks",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Delaware County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Monroe",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Montgomery County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Philadelphia",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Wayne County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "RI",
-					"confirmed_cases": 3,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Providence County",
-							"confirmed_cases": 3,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "SC",
-					"confirmed_cases": 2,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Charleston County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Kershaw County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Lancaster",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Spartanburg County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						}
+					]
+				},
+				{
+					"name": "SD",
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"regions": [
+						{
+							"name": "Beadle",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Bon Homme",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Charles Mix",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Davison",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Minnehaha",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Pennington",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "TN",
-					"confirmed_cases": 3,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Davidson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Shelby County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Sullivan",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Williamson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "TX",
-					"confirmed_cases": 12,
-					"deaths": 0,
-					"recovered": 0,
-					"regions": [
-						{
-							"name": "Fort Bend County",
-							"confirmed_cases": 6,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Harris County",
-							"confirmed_cases": 5,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "Montgomery County",
-							"confirmed_cases": 0,
-							"deaths": 0,
-							"recovered": 0
-						},
-						{
-							"name": "San Antonio",
-							"confirmed_cases": 1,
-							"deaths": 0,
-							"recovered": 0
-						}
-					]
-				},
-				{
-					"name": "TX (From Diamond Princess)",
 					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Lackland",
+							"name": "Collin County",
 							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Dallas",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Fort Bend County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Gregg",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Harris County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Montgomery",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Tarrant",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "UT",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Davis County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Summit",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Weber",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "VA",
-					"confirmed_cases": 2,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Fairfax County",
-							"confirmed_cases": 2,
+							"name": "Arlington",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Fairfax County",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Hanover",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Loudoun",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Norfolk",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Spotsylvania",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "VT",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
 					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Unassigned Location",
-							"confirmed_cases": 1,
+							"name": "Bennington County",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "WA",
-					"confirmed_cases": 128,
-					"deaths": 18,
-					"recovered": 1,
+					"confirmed_cases": 0,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
 							"name": "Clark County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Grant County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Island",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Jefferson County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "King County",
-							"confirmed_cases": 83,
-							"deaths": 17,
-							"recovered": 1
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Kitsap",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Kittitas County",
-							"confirmed_cases": 1,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Pierce County",
-							"confirmed_cases": 4,
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Skagit",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
 							"name": "Snohomish County",
-							"confirmed_cases": 31,
-							"deaths": 1,
-							"recovered": 0
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
-							"name": "Spokane County",
-							"confirmed_cases": 1,
+							"name": "Thurston",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						},
 						{
-							"name": "Unassigned Location",
-							"confirmed_cases": 5,
+							"name": "Whatcom",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 0
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				},
 				{
 					"name": "WI",
-					"confirmed_cases": 1,
+					"confirmed_cases": 0,
 					"deaths": 0,
-					"recovered": 1,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
 					"regions": [
 						{
-							"name": "Madison",
-							"confirmed_cases": 1,
+							"name": "Dane",
+							"confirmed_cases": 0,
 							"deaths": 0,
-							"recovered": 1
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
+						},
+						{
+							"name": "Pierce",
+							"confirmed_cases": 0,
+							"deaths": 0,
+							"recovered": 0,
+							"historic_cases": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_deaths": [
+								0,
+								0,
+								0,
+								0,
+								0
+							],
+							"historic_recovered": [
+								0,
+								0,
+								0,
+								0,
+								0
+							]
 						}
 					]
 				}
@@ -1851,27 +12116,356 @@
 		},
 		{
 			"name": "Ukraine",
-			"confirmed_cases": 1,
-			"deaths": 0,
-			"recovered": 0
+			"confirmed_cases": 16,
+			"deaths": 2,
+			"recovered": 0,
+			"historic_cases": [
+				14,
+				14,
+				7,
+				3,
+				3
+			],
+			"historic_deaths": [
+				2,
+				2,
+				1,
+				1,
+				1
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "United Arab Emirates",
-			"confirmed_cases": 45,
+			"confirmed_cases": 140,
 			"deaths": 0,
-			"recovered": 7
+			"recovered": 31,
+			"historic_cases": [
+				113,
+				98,
+				98,
+				98,
+				85
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				26,
+				23,
+				23,
+				23,
+				17
+			]
 		},
 		{
-			"name": "Vatican City",
-			"confirmed_cases": 1,
+			"name": "United Kingdom",
+			"confirmed_cases": 2716,
+			"deaths": 138,
+			"recovered": 67,
+			"historic_cases": [
+				2642,
+				1960,
+				1551,
+				1145,
+				1144
+			],
+			"historic_deaths": [
+				72,
+				56,
+				56,
+				21,
+				21
+			],
+			"historic_recovered": [
+				67,
+				53,
+				21,
+				19,
+				19
+			],
+			"regions": [
+				{
+					"name": "Bermuda",
+					"confirmed_cases": 2,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Cayman Islands",
+					"confirmed_cases": 3,
+					"deaths": 1,
+					"recovered": 0,
+					"historic_cases": [
+						1,
+						1,
+						1,
+						1,
+						1
+					],
+					"historic_deaths": [
+						1,
+						1,
+						1,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Channel Islands",
+					"confirmed_cases": 11,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						6,
+						6,
+						6,
+						3,
+						2
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "Gibraltar",
+					"confirmed_cases": 10,
+					"deaths": 0,
+					"recovered": 2,
+					"historic_cases": [
+						8,
+						3,
+						1,
+						1,
+						1
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						2,
+						1,
+						1,
+						1,
+						1
+					]
+				},
+				{
+					"name": "Montserrat",
+					"confirmed_cases": 1,
+					"deaths": 0,
+					"recovered": 0,
+					"historic_cases": [
+						1,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_deaths": [
+						0,
+						0,
+						0,
+						0,
+						0
+					],
+					"historic_recovered": [
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				}
+			]
+		},
+		{
+			"name": "Uruguay",
+			"confirmed_cases": 79,
 			"deaths": 0,
-			"recovered": 0
+			"recovered": 0,
+			"historic_cases": [
+				50,
+				29,
+				8,
+				4,
+				4
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Uzbekistan",
+			"confirmed_cases": 23,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				15,
+				10,
+				6,
+				1,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"name": "Venezuela",
+			"confirmed_cases": 42,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				36,
+				33,
+				17,
+				10,
+				2
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		},
 		{
 			"name": "Vietnam",
-			"confirmed_cases": 30,
+			"confirmed_cases": 85,
 			"deaths": 0,
-			"recovered": 16
+			"recovered": 16,
+			"historic_cases": [
+				75,
+				66,
+				61,
+				56,
+				53
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				16,
+				16,
+				16,
+				16,
+				16
+			]
+		},
+		{
+			"name": "Zambia",
+			"confirmed_cases": 2,
+			"deaths": 0,
+			"recovered": 0,
+			"historic_cases": [
+				2,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_deaths": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"historic_recovered": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
 		}
 	]
 }
