@@ -10,13 +10,19 @@ import (
 )
 
 func buildTimeSeriesURL(name string) string {
-	url := "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-%v.csv"
-
-	return fmt.Sprintf(url, name)
+	switch name {
+	case "Confirmed":
+		return "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv"
+	case "Deaths":
+		return "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv"
+	default:
+		url := "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-%v.csv"
+		return fmt.Sprintf(url, name)
+	}
 }
 
 func getLastStatus() ([]*LastRegionStatus, string) {
-	respch := make(chan *http.Response, 3)
+	respch := make(chan *http.Response, 2)
 
 	fetch := func(c chan *http.Response, url string) {
 		resp, err := http.Get(url)
@@ -29,18 +35,19 @@ func getLastStatus() ([]*LastRegionStatus, string) {
 	}
 
 	go fetch(respch, buildTimeSeriesURL("Confirmed"))
-	go fetch(respch, buildTimeSeriesURL("Recovered"))
+	// go fetch(respch, buildTimeSeriesURL("Recovered"))
 	go fetch(respch, buildTimeSeriesURL("Deaths"))
 
 	stats := map[string]*LastRegionStatus{}
 
 	dataDate := ""
 
-	for i := 0; i < 3; i++ {
+	for i := 0; i < 2; i++ {
 		resp := <-respch
 		r := csv.NewReader(resp.Body)
 
 		urlpath := resp.Request.URL.Path
+		urlpath = strings.ToLower(urlpath)
 
 		// Skip header
 		header, err := r.Read()
@@ -78,17 +85,18 @@ func getLastStatus() ([]*LastRegionStatus, string) {
 				long, _ := strconv.ParseFloat(record[3], 64)
 
 				stats[key] = &LastRegionStatus{
-					Region:  record[0],
-					Country: record[1],
-					Lat:     lat,
-					Long:    long,
+					Region:            record[0],
+					Country:           record[1],
+					Lat:               lat,
+					Long:              long,
+					HistoricRecovered: make([]int, 5),
 				}
 			}
 
-			if strings.Contains(urlpath, "Confirmed") {
+			if strings.Contains(urlpath, "confirmed") {
 				stats[key].ConfirmedCases = data
 				stats[key].HistoricCases = historic
-			} else if strings.Contains(urlpath, "Recovered") {
+			} else if strings.Contains(urlpath, "recovered") {
 				stats[key].Recovered = data
 				stats[key].HistoricRecovered = historic
 			} else {
