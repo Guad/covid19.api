@@ -1,24 +1,24 @@
 {
-	"data_date": "4/24/20",
+	"data_date": "4/25/20",
 	"data": [
 		{
 			"name": "Afghanistan",
-			"confirmed_cases": 1351,
-			"deaths": 43,
+			"confirmed_cases": 1463,
+			"deaths": 47,
 			"recovered": 0,
 			"historic_cases": [
+				1351,
 				1279,
 				1176,
 				1092,
-				1026,
-				996
+				1026
 			],
 			"historic_deaths": [
+				43,
 				42,
 				40,
 				36,
-				36,
-				33
+				36
 			],
 			"historic_recovered": [
 				0,
@@ -30,20 +30,20 @@
 		},
 		{
 			"name": "Albania",
-			"confirmed_cases": 678,
+			"confirmed_cases": 712,
 			"deaths": 27,
 			"recovered": 0,
 			"historic_cases": [
+				678,
 				663,
 				634,
 				609,
-				584,
-				562
+				584
 			],
 			"historic_deaths": [
 				27,
 				27,
-				26,
+				27,
 				26,
 				26
 			],
@@ -57,22 +57,22 @@
 		},
 		{
 			"name": "Algeria",
-			"confirmed_cases": 3127,
-			"deaths": 415,
+			"confirmed_cases": 3256,
+			"deaths": 419,
 			"recovered": 0,
 			"historic_cases": [
+				3127,
 				3007,
 				2910,
 				2811,
-				2718,
-				2629
+				2718
 			],
 			"historic_deaths": [
+				415,
 				407,
 				402,
 				392,
-				384,
-				375
+				384
 			],
 			"historic_recovered": [
 				0,
@@ -84,22 +84,22 @@
 		},
 		{
 			"name": "Andorra",
-			"confirmed_cases": 731,
+			"confirmed_cases": 738,
 			"deaths": 40,
 			"recovered": 0,
 			"historic_cases": [
+				731,
 				723,
 				723,
 				717,
-				717,
-				713
+				717
 			],
 			"historic_deaths": [
+				40,
 				37,
 				37,
 				37,
-				37,
-				36
+				37
 			],
 			"historic_recovered": [
 				0,
@@ -117,7 +117,7 @@
 			"historic_cases": [
 				25,
 				25,
-				24,
+				25,
 				24,
 				24
 			],
@@ -144,7 +144,7 @@
 			"historic_cases": [
 				24,
 				24,
-				23,
+				24,
 				23,
 				23
 			],
@@ -165,22 +165,22 @@
 		},
 		{
 			"name": "Argentina",
-			"confirmed_cases": 3607,
-			"deaths": 176,
+			"confirmed_cases": 3780,
+			"deaths": 185,
 			"recovered": 0,
 			"historic_cases": [
+				3607,
 				3435,
 				3144,
 				3031,
-				2941,
-				2839
+				2941
 			],
 			"historic_deaths": [
+				176,
 				165,
 				152,
 				147,
-				136,
-				132
+				136
 			],
 			"historic_recovered": [
 				0,
@@ -192,22 +192,22 @@
 		},
 		{
 			"name": "Armenia",
-			"confirmed_cases": 1596,
-			"deaths": 27,
+			"confirmed_cases": 1677,
+			"deaths": 28,
 			"recovered": 0,
 			"historic_cases": [
+				1596,
 				1523,
 				1473,
 				1401,
-				1339,
-				1291
+				1339
 			],
 			"historic_deaths": [
+				27,
 				24,
 				24,
 				24,
-				22,
-				20
+				22
 			],
 			"historic_recovered": [
 				0,
@@ -219,19 +219,19 @@
 		},
 		{
 			"name": "Australia",
-			"confirmed_cases": 6677,
-			"deaths": 79,
+			"confirmed_cases": 6694,
+			"deaths": 80,
 			"recovered": 0,
 			"historic_cases": [
+				6677,
 				6662,
 				6652,
 				6645,
-				6623,
-				6610
+				6623
 			],
 			"historic_deaths": [
+				79,
 				75,
-				67,
 				67,
 				67,
 				67
@@ -246,15 +246,15 @@
 			"regions": [
 				{
 					"name": "Australian Capital Territory",
-					"confirmed_cases": 105,
+					"confirmed_cases": 106,
 					"deaths": 3,
 					"recovered": 0,
 					"historic_cases": [
+						105,
 						104,
 						104,
 						104,
-						104,
-						103
+						104
 					],
 					"historic_deaths": [
 						3,
@@ -273,19 +273,19 @@
 				},
 				{
 					"name": "New South Wales",
-					"confirmed_cases": 2982,
+					"confirmed_cases": 2994,
 					"deaths": 33,
 					"recovered": 0,
 					"historic_cases": [
+						2982,
 						2976,
 						2971,
 						2969,
-						2963,
-						2957
+						2963
 					],
 					"historic_deaths": [
+						33,
 						31,
-						26,
 						26,
 						26,
 						26
@@ -332,9 +332,9 @@
 					"recovered": 0,
 					"historic_cases": [
 						1026,
+						1026,
 						1024,
 						1024,
-						1019,
 						1019
 					],
 					"historic_deaths": [
@@ -360,8 +360,8 @@
 					"historic_cases": [
 						438,
 						438,
+						438,
 						437,
-						435,
 						435
 					],
 					"historic_deaths": [
@@ -382,18 +382,18 @@
 				{
 					"name": "Tasmania",
 					"confirmed_cases": 207,
-					"deaths": 9,
+					"deaths": 10,
 					"recovered": 0,
 					"historic_cases": [
 						207,
+						207,
 						205,
 						201,
-						200,
-						195
+						200
 					],
 					"historic_deaths": [
+						9,
 						8,
-						7,
 						7,
 						7,
 						7
@@ -408,19 +408,19 @@
 				},
 				{
 					"name": "Victoria",
-					"confirmed_cases": 1343,
+					"confirmed_cases": 1346,
 					"deaths": 16,
 					"recovered": 0,
 					"historic_cases": [
+						1343,
 						1337,
 						1336,
 						1336,
-						1329,
-						1328
+						1329
 					],
 					"historic_deaths": [
 						16,
-						14,
+						16,
 						14,
 						14,
 						14
@@ -435,18 +435,18 @@
 				},
 				{
 					"name": "Western Australia",
-					"confirmed_cases": 548,
+					"confirmed_cases": 549,
 					"deaths": 8,
 					"recovered": 0,
 					"historic_cases": [
+						548,
 						546,
 						546,
 						546,
-						545,
 						545
 					],
 					"historic_deaths": [
-						7,
+						8,
 						7,
 						7,
 						7,
@@ -464,22 +464,22 @@
 		},
 		{
 			"name": "Austria",
-			"confirmed_cases": 15071,
-			"deaths": 530,
+			"confirmed_cases": 15148,
+			"deaths": 536,
 			"recovered": 0,
 			"historic_cases": [
+				15071,
 				15002,
 				14925,
 				14873,
-				14795,
-				14749
+				14795
 			],
 			"historic_deaths": [
+				530,
 				522,
 				510,
 				491,
-				470,
-				452
+				470
 			],
 			"historic_recovered": [
 				0,
@@ -491,21 +491,21 @@
 		},
 		{
 			"name": "Azerbaijan",
-			"confirmed_cases": 1592,
+			"confirmed_cases": 1617,
 			"deaths": 21,
 			"recovered": 0,
 			"historic_cases": [
+				1592,
 				1548,
 				1518,
 				1480,
-				1436,
-				1398
+				1436
 			],
 			"historic_deaths": [
+				21,
 				20,
 				20,
 				20,
-				19,
 				19
 			],
 			"historic_recovered": [
@@ -518,19 +518,19 @@
 		},
 		{
 			"name": "Bahamas",
-			"confirmed_cases": 73,
+			"confirmed_cases": 78,
 			"deaths": 11,
 			"recovered": 0,
 			"historic_cases": [
+				73,
 				72,
 				65,
 				65,
-				60,
-				55
+				60
 			],
 			"historic_deaths": [
 				11,
-				9,
+				11,
 				9,
 				9,
 				9
@@ -545,19 +545,19 @@
 		},
 		{
 			"name": "Bahrain",
-			"confirmed_cases": 2518,
+			"confirmed_cases": 2588,
 			"deaths": 8,
 			"recovered": 0,
 			"historic_cases": [
+				2518,
 				2217,
 				2027,
 				1973,
-				1907,
-				1881
+				1907
 			],
 			"historic_deaths": [
 				8,
-				7,
+				8,
 				7,
 				7,
 				7
@@ -572,22 +572,22 @@
 		},
 		{
 			"name": "Bangladesh",
-			"confirmed_cases": 4689,
-			"deaths": 131,
+			"confirmed_cases": 4998,
+			"deaths": 140,
 			"recovered": 0,
 			"historic_cases": [
+				4689,
 				4186,
 				3772,
 				3382,
-				2948,
-				2456
+				2948
 			],
 			"historic_deaths": [
+				131,
 				127,
 				120,
 				110,
-				101,
-				91
+				101
 			],
 			"historic_recovered": [
 				0,
@@ -599,19 +599,19 @@
 		},
 		{
 			"name": "Barbados",
-			"confirmed_cases": 77,
+			"confirmed_cases": 79,
 			"deaths": 6,
 			"recovered": 0,
 			"historic_cases": [
+				77,
 				76,
-				75,
 				75,
 				75,
 				75
 			],
 			"historic_deaths": [
 				6,
-				5,
+				6,
 				5,
 				5,
 				5
@@ -626,22 +626,22 @@
 		},
 		{
 			"name": "Belarus",
-			"confirmed_cases": 8773,
-			"deaths": 63,
+			"confirmed_cases": 9590,
+			"deaths": 67,
 			"recovered": 0,
 			"historic_cases": [
+				8773,
 				8022,
 				7281,
 				6723,
-				6264,
-				4779
+				6264
 			],
 			"historic_deaths": [
+				63,
 				60,
 				58,
 				55,
-				51,
-				47
+				51
 			],
 			"historic_recovered": [
 				0,
@@ -653,22 +653,22 @@
 		},
 		{
 			"name": "Belgium",
-			"confirmed_cases": 44293,
-			"deaths": 6679,
+			"confirmed_cases": 45325,
+			"deaths": 6917,
 			"recovered": 0,
 			"historic_cases": [
+				44293,
 				42797,
 				41889,
 				40956,
-				39983,
-				38496
+				39983
 			],
 			"historic_deaths": [
+				6679,
 				6490,
 				6262,
 				5998,
-				5828,
-				5683
+				5828
 			],
 			"historic_recovered": [
 				0,
@@ -715,7 +715,7 @@
 				54,
 				54,
 				54,
-				35
+				54
 			],
 			"historic_deaths": [
 				1,
@@ -739,9 +739,9 @@
 			"recovered": 0,
 			"historic_cases": [
 				7,
+				7,
 				6,
 				6,
-				5,
 				5
 			],
 			"historic_deaths": [
@@ -761,22 +761,22 @@
 		},
 		{
 			"name": "Bolivia",
-			"confirmed_cases": 807,
-			"deaths": 44,
+			"confirmed_cases": 866,
+			"deaths": 46,
 			"recovered": 0,
 			"historic_cases": [
+				807,
 				703,
 				609,
 				598,
-				564,
-				520
+				564
 			],
 			"historic_deaths": [
+				44,
 				43,
 				37,
 				34,
-				33,
-				32
+				33
 			],
 			"historic_recovered": [
 				0,
@@ -788,22 +788,22 @@
 		},
 		{
 			"name": "Bosnia and Herzegovina",
-			"confirmed_cases": 1421,
-			"deaths": 55,
+			"confirmed_cases": 1486,
+			"deaths": 57,
 			"recovered": 0,
 			"historic_cases": [
+				1421,
 				1413,
 				1368,
 				1342,
-				1309,
-				1285
+				1309
 			],
 			"historic_deaths": [
+				55,
 				54,
 				53,
 				51,
-				49,
-				48
+				49
 			],
 			"historic_recovered": [
 				0,
@@ -821,7 +821,7 @@
 			"historic_cases": [
 				22,
 				22,
-				20,
+				22,
 				20,
 				20
 			],
@@ -842,22 +842,22 @@
 		},
 		{
 			"name": "Brazil",
-			"confirmed_cases": 54043,
-			"deaths": 3704,
+			"confirmed_cases": 59324,
+			"deaths": 4057,
 			"recovered": 0,
 			"historic_cases": [
+				54043,
 				50036,
 				45757,
 				43079,
-				40743,
-				38654
+				40743
 			],
 			"historic_deaths": [
+				3704,
 				3331,
 				2906,
 				2741,
-				2587,
-				2462
+				2587
 			],
 			"historic_recovered": [
 				0,
@@ -896,22 +896,22 @@
 		},
 		{
 			"name": "Bulgaria",
-			"confirmed_cases": 1234,
-			"deaths": 54,
+			"confirmed_cases": 1247,
+			"deaths": 55,
 			"recovered": 0,
 			"historic_cases": [
+				1234,
 				1097,
 				1024,
 				975,
-				929,
-				894
+				929
 			],
 			"historic_deaths": [
+				54,
 				52,
 				49,
 				45,
-				43,
-				42
+				43
 			],
 			"historic_recovered": [
 				0,
@@ -927,18 +927,18 @@
 			"deaths": 41,
 			"recovered": 0,
 			"historic_cases": [
+				629,
 				616,
 				609,
 				600,
-				581,
-				576
+				581
 			],
 			"historic_deaths": [
 				41,
+				41,
 				39,
 				38,
-				38,
-				36
+				38
 			],
 			"historic_recovered": [
 				0,
@@ -950,15 +950,15 @@
 		},
 		{
 			"name": "Burma",
-			"confirmed_cases": 144,
+			"confirmed_cases": 146,
 			"deaths": 5,
 			"recovered": 0,
 			"historic_cases": [
+				144,
 				139,
 				123,
 				121,
-				119,
-				111
+				119
 			],
 			"historic_deaths": [
 				5,
@@ -983,7 +983,7 @@
 			"historic_cases": [
 				11,
 				11,
-				5,
+				11,
 				5,
 				5
 			],
@@ -1004,15 +1004,15 @@
 		},
 		{
 			"name": "Cabo Verde",
-			"confirmed_cases": 88,
+			"confirmed_cases": 90,
 			"deaths": 1,
 			"recovered": 0,
 			"historic_cases": [
+				88,
 				82,
 				73,
 				68,
-				67,
-				61
+				67
 			],
 			"historic_deaths": [
 				1,
@@ -1058,21 +1058,21 @@
 		},
 		{
 			"name": "Cameroon",
-			"confirmed_cases": 1430,
-			"deaths": 43,
+			"confirmed_cases": 1518,
+			"deaths": 53,
 			"recovered": 0,
 			"historic_cases": [
+				1430,
 				1334,
 				1163,
 				1163,
-				1163,
-				1017
+				1163
 			],
 			"historic_deaths": [
 				43,
 				43,
 				43,
-				42,
+				43,
 				42
 			],
 			"historic_recovered": [
@@ -1085,22 +1085,22 @@
 		},
 		{
 			"name": "Canada",
-			"confirmed_cases": 44054,
-			"deaths": 2384,
+			"confirmed_cases": 45491,
+			"deaths": 2547,
 			"recovered": 0,
 			"historic_cases": [
+				44054,
 				43285,
 				41648,
 				39401,
-				37657,
-				35632
+				37657
 			],
 			"historic_deaths": [
+				2384,
 				2240,
 				2075,
 				1908,
-				1725,
-				1563
+				1725
 			],
 			"historic_recovered": [
 				0,
@@ -1112,22 +1112,22 @@
 			"regions": [
 				{
 					"name": "Alberta",
-					"confirmed_cases": 4017,
-					"deaths": 72,
+					"confirmed_cases": 4233,
+					"deaths": 73,
 					"recovered": 0,
 					"historic_cases": [
+						4017,
 						3720,
 						3401,
 						3095,
-						2908,
-						2803
+						2908
 					],
 					"historic_deaths": [
+						72,
 						68,
 						66,
 						61,
-						59,
-						51
+						59
 					],
 					"historic_recovered": [
 						0,
@@ -1139,22 +1139,22 @@
 				},
 				{
 					"name": "British Columbia",
-					"confirmed_cases": 1853,
-					"deaths": 98,
+					"confirmed_cases": 1948,
+					"deaths": 100,
 					"recovered": 0,
 					"historic_cases": [
+						1853,
 						1824,
 						1795,
 						1724,
-						1647,
 						1647
 					],
 					"historic_deaths": [
+						98,
 						94,
 						90,
 						87,
-						82,
-						81
+						82
 					],
 					"historic_recovered": [
 						0,
@@ -1171,14 +1171,14 @@
 					"recovered": 0,
 					"historic_cases": [
 						0,
-						-1,
+						0,
 						-1,
 						-1,
 						-1
 					],
 					"historic_deaths": [
 						1,
-						-1,
+						1,
 						-1,
 						-1,
 						-1
@@ -1199,14 +1199,14 @@
 					"historic_cases": [
 						-1,
 						-1,
-						13,
+						-1,
 						13,
 						13
 					],
 					"historic_deaths": [
 						-1,
 						-1,
-						0,
+						-1,
 						0,
 						0
 					],
@@ -1220,14 +1220,14 @@
 				},
 				{
 					"name": "Manitoba",
-					"confirmed_cases": 263,
+					"confirmed_cases": 267,
 					"deaths": 6,
 					"recovered": 0,
 					"historic_cases": [
+						263,
 						262,
 						257,
 						255,
-						254,
 						254
 					],
 					"historic_deaths": [
@@ -1235,7 +1235,7 @@
 						6,
 						6,
 						6,
-						5
+						6
 					],
 					"historic_recovered": [
 						0,
@@ -1274,13 +1274,13 @@
 				},
 				{
 					"name": "Newfoundland and Labrador",
-					"confirmed_cases": 256,
+					"confirmed_cases": 257,
 					"deaths": 3,
 					"recovered": 0,
 					"historic_cases": [
 						256,
 						256,
-						257,
+						256,
 						257,
 						257
 					],
@@ -1332,17 +1332,17 @@
 					"deaths": -1,
 					"recovered": 0,
 					"historic_cases": [
+						-1,
 						827,
 						772,
 						737,
-						721,
-						675
+						721
 					],
 					"historic_deaths": [
+						-1,
 						16,
 						12,
 						10,
-						9,
 						9
 					],
 					"historic_recovered": [
@@ -1355,22 +1355,22 @@
 				},
 				{
 					"name": "Ontario",
-					"confirmed_cases": 14550,
-					"deaths": 862,
+					"confirmed_cases": 15012,
+					"deaths": 916,
 					"recovered": 0,
 					"historic_cases": [
+						14550,
 						14068,
 						13718,
 						12715,
-						12063,
-						11561
+						12063
 					],
 					"historic_deaths": [
+						862,
 						806,
 						762,
 						694,
-						624,
-						591
+						624
 					],
 					"historic_recovered": [
 						0,
@@ -1409,22 +1409,22 @@
 				},
 				{
 					"name": "Quebec",
-					"confirmed_cases": 22616,
-					"deaths": 1340,
+					"confirmed_cases": 23267,
+					"deaths": 1446,
 					"recovered": 0,
 					"historic_cases": [
+						22616,
 						21838,
 						20965,
 						20126,
-						19319,
-						17950
+						19319
 					],
 					"historic_deaths": [
+						1340,
 						1243,
 						1134,
 						1044,
-						939,
-						820
+						939
 					],
 					"historic_recovered": [
 						0,
@@ -1463,15 +1463,15 @@
 				},
 				{
 					"name": "Saskatchewan",
-					"confirmed_cases": 341,
+					"confirmed_cases": 349,
 					"deaths": 4,
 					"recovered": 0,
 					"historic_cases": [
+						341,
 						331,
 						326,
 						320,
-						316,
-						315
+						316
 					],
 					"historic_deaths": [
 						4,
@@ -1498,7 +1498,7 @@
 						11,
 						11,
 						11,
-						9
+						11
 					],
 					"historic_deaths": [
 						0,
@@ -1524,9 +1524,9 @@
 			"recovered": 0,
 			"historic_cases": [
 				16,
+				16,
 				14,
 				14,
-				12,
 				12
 			],
 			"historic_deaths": [
@@ -1546,11 +1546,11 @@
 		},
 		{
 			"name": "Chad",
-			"confirmed_cases": 40,
+			"confirmed_cases": 46,
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
-				33,
+				40,
 				33,
 				33,
 				33,
@@ -1573,22 +1573,22 @@
 		},
 		{
 			"name": "Chile",
-			"confirmed_cases": 12306,
-			"deaths": 174,
+			"confirmed_cases": 12858,
+			"deaths": 181,
 			"recovered": 0,
 			"historic_cases": [
+				12306,
 				11812,
 				11296,
 				10832,
-				10507,
-				10088
+				10507
 			],
 			"historic_deaths": [
+				174,
 				168,
 				160,
 				147,
-				139,
-				133
+				139
 			],
 			"historic_recovered": [
 				0,
@@ -1600,15 +1600,15 @@
 		},
 		{
 			"name": "China",
-			"confirmed_cases": 83899,
+			"confirmed_cases": 83909,
 			"deaths": 4636,
 			"recovered": 0,
 			"historic_cases": [
+				83899,
 				83884,
 				83868,
 				83853,
-				83817,
-				83805
+				83817
 			],
 			"historic_deaths": [
 				4636,
@@ -1762,15 +1762,15 @@
 				},
 				{
 					"name": "Guangdong",
-					"confirmed_cases": 1585,
+					"confirmed_cases": 1586,
 					"deaths": 8,
 					"recovered": 0,
 					"historic_cases": [
 						1585,
+						1585,
 						1582,
 						1582,
-						1581,
-						1580
+						1581
 					],
 					"historic_deaths": [
 						8,
@@ -1897,15 +1897,15 @@
 				},
 				{
 					"name": "Heilongjiang",
-					"confirmed_cases": 930,
+					"confirmed_cases": 935,
 					"deaths": 13,
 					"recovered": 0,
 					"historic_cases": [
+						930,
 						928,
 						921,
 						913,
-						905,
-						898
+						905
 					],
 					"historic_deaths": [
 						13,
@@ -1951,14 +1951,14 @@
 				},
 				{
 					"name": "Hong Kong",
-					"confirmed_cases": 1035,
+					"confirmed_cases": 1037,
 					"deaths": 4,
 					"recovered": 0,
 					"historic_cases": [
 						1035,
+						1035,
 						1033,
 						1029,
-						1025,
 						1025
 					],
 					"historic_deaths": [
@@ -2032,15 +2032,15 @@
 				},
 				{
 					"name": "Inner Mongolia",
-					"confirmed_cases": 197,
+					"confirmed_cases": 198,
 					"deaths": 1,
 					"recovered": 0,
 					"historic_cases": [
+						197,
 						194,
 						194,
 						194,
-						194,
-						193
+						194
 					],
 					"historic_deaths": [
 						1,
@@ -2117,10 +2117,10 @@
 					"deaths": 1,
 					"recovered": 0,
 					"historic_cases": [
+						109,
 						108,
 						106,
 						106,
-						104,
 						104
 					],
 					"historic_deaths": [
@@ -2252,10 +2252,10 @@
 					"deaths": 3,
 					"recovered": 0,
 					"historic_cases": [
+						286,
 						279,
 						279,
 						277,
-						256,
 						256
 					],
 					"historic_deaths": [
@@ -2302,15 +2302,15 @@
 				},
 				{
 					"name": "Shanghai",
-					"confirmed_cases": 641,
+					"confirmed_cases": 642,
 					"deaths": 7,
 					"recovered": 0,
 					"historic_cases": [
 						641,
+						641,
 						639,
 						638,
-						638,
-						635
+						638
 					],
 					"historic_deaths": [
 						7,
@@ -2387,7 +2387,7 @@
 					"deaths": 3,
 					"recovered": 0,
 					"historic_cases": [
-						189,
+						190,
 						189,
 						189,
 						189,
@@ -2468,7 +2468,7 @@
 					"deaths": 2,
 					"recovered": 0,
 					"historic_cases": [
-						184,
+						185,
 						184,
 						184,
 						184,
@@ -2520,22 +2520,22 @@
 		},
 		{
 			"name": "Colombia",
-			"confirmed_cases": 4881,
-			"deaths": 225,
+			"confirmed_cases": 5142,
+			"deaths": 233,
 			"recovered": 0,
 			"historic_cases": [
+				4881,
 				4561,
 				4356,
 				4149,
-				3977,
-				3792
+				3977
 			],
 			"historic_deaths": [
+				225,
 				215,
 				206,
 				196,
-				189,
-				179
+				189
 			],
 			"historic_recovered": [
 				0,
@@ -2551,11 +2551,11 @@
 			"deaths": 6,
 			"recovered": 0,
 			"historic_cases": [
+				200,
 				186,
 				186,
 				165,
-				160,
-				143
+				160
 			],
 			"historic_deaths": [
 				6,
@@ -2574,15 +2574,15 @@
 		},
 		{
 			"name": "Congo (Kinshasa)",
-			"confirmed_cases": 394,
-			"deaths": 25,
+			"confirmed_cases": 416,
+			"deaths": 28,
 			"recovered": 0,
 			"historic_cases": [
+				394,
 				377,
 				359,
 				350,
-				332,
-				327
+				332
 			],
 			"historic_deaths": [
 				25,
@@ -2601,22 +2601,22 @@
 		},
 		{
 			"name": "Costa Rica",
-			"confirmed_cases": 687,
+			"confirmed_cases": 693,
 			"deaths": 6,
 			"recovered": 0,
 			"historic_cases": [
+				687,
 				686,
 				681,
 				669,
-				662,
-				660
+				662
 			],
 			"historic_deaths": [
 				6,
 				6,
 				6,
 				6,
-				5
+				6
 			],
 			"historic_recovered": [
 				0,
@@ -2632,17 +2632,17 @@
 			"deaths": 14,
 			"recovered": 0,
 			"historic_cases": [
+				1077,
 				1004,
 				952,
 				916,
-				847,
 				847
 			],
 			"historic_deaths": [
 				14,
 				14,
+				14,
 				13,
-				9,
 				9
 			],
 			"historic_recovered": [
@@ -2655,21 +2655,21 @@
 		},
 		{
 			"name": "Croatia",
-			"confirmed_cases": 2009,
-			"deaths": 51,
+			"confirmed_cases": 2016,
+			"deaths": 54,
 			"recovered": 0,
 			"historic_cases": [
+				2009,
 				1981,
 				1950,
 				1908,
-				1881,
-				1871
+				1881
 			],
 			"historic_deaths": [
+				51,
 				50,
 				48,
 				48,
-				47,
 				47
 			],
 			"historic_recovered": [
@@ -2682,22 +2682,22 @@
 		},
 		{
 			"name": "Cuba",
-			"confirmed_cases": 1285,
-			"deaths": 49,
+			"confirmed_cases": 1337,
+			"deaths": 51,
 			"recovered": 0,
 			"historic_cases": [
+				1285,
 				1235,
 				1189,
 				1137,
-				1087,
-				1035
+				1087
 			],
 			"historic_deaths": [
+				49,
 				43,
 				40,
 				38,
-				36,
-				34
+				36
 			],
 			"historic_recovered": [
 				0,
@@ -2709,20 +2709,20 @@
 		},
 		{
 			"name": "Cyprus",
-			"confirmed_cases": 804,
+			"confirmed_cases": 810,
 			"deaths": 14,
 			"recovered": 0,
 			"historic_cases": [
+				804,
 				795,
 				790,
 				784,
-				772,
-				767
+				772
 			],
 			"historic_deaths": [
+				14,
 				13,
 				13,
-				12,
 				12,
 				12
 			],
@@ -2736,22 +2736,22 @@
 		},
 		{
 			"name": "Czechia",
-			"confirmed_cases": 7273,
-			"deaths": 214,
+			"confirmed_cases": 7352,
+			"deaths": 218,
 			"recovered": 0,
 			"historic_cases": [
+				7273,
 				7187,
 				7132,
 				7033,
-				6900,
-				6746
+				6900
 			],
 			"historic_deaths": [
+				214,
 				210,
 				208,
 				201,
-				194,
-				186
+				194
 			],
 			"historic_recovered": [
 				0,
@@ -2763,22 +2763,22 @@
 		},
 		{
 			"name": "Denmark",
-			"confirmed_cases": 8408,
-			"deaths": 403,
+			"confirmed_cases": 8643,
+			"deaths": 418,
 			"recovered": 0,
 			"historic_cases": [
+				8408,
 				8271,
 				8108,
 				7891,
-				7711,
-				7580
+				7711
 			],
 			"historic_deaths": [
+				403,
 				394,
 				384,
 				370,
-				364,
-				355
+				364
 			],
 			"historic_recovered": [
 				0,
@@ -2795,7 +2795,7 @@
 					"recovered": 0,
 					"historic_cases": [
 						187,
-						185,
+						187,
 						185,
 						185,
 						185
@@ -2873,14 +2873,14 @@
 		},
 		{
 			"name": "Djibouti",
-			"confirmed_cases": 999,
+			"confirmed_cases": 1008,
 			"deaths": 2,
 			"recovered": 0,
 			"historic_cases": [
+				999,
 				986,
 				974,
 				945,
-				846,
 				846
 			],
 			"historic_deaths": [
@@ -2927,22 +2927,22 @@
 		},
 		{
 			"name": "Dominican Republic",
-			"confirmed_cases": 5749,
-			"deaths": 267,
+			"confirmed_cases": 5926,
+			"deaths": 273,
 			"recovered": 0,
 			"historic_cases": [
+				5749,
 				5543,
 				5300,
 				5044,
-				4964,
-				4680
+				4964
 			],
 			"historic_deaths": [
+				267,
 				265,
 				260,
 				245,
-				235,
-				226
+				235
 			],
 			"historic_recovered": [
 				0,
@@ -2958,18 +2958,18 @@
 			"deaths": 576,
 			"recovered": 0,
 			"historic_cases": [
+				22719,
 				11183,
 				10850,
 				10398,
-				10128,
-				9468
+				10128
 			],
 			"historic_deaths": [
+				576,
 				560,
 				537,
 				520,
-				507,
-				474
+				507
 			],
 			"historic_recovered": [
 				0,
@@ -2981,22 +2981,22 @@
 		},
 		{
 			"name": "Egypt",
-			"confirmed_cases": 4092,
-			"deaths": 294,
+			"confirmed_cases": 4319,
+			"deaths": 307,
 			"recovered": 0,
 			"historic_cases": [
+				4092,
 				3891,
 				3659,
 				3490,
-				3333,
-				3144
+				3333
 			],
 			"historic_deaths": [
+				294,
 				287,
 				276,
 				264,
-				250,
-				239
+				250
 			],
 			"historic_recovered": [
 				0,
@@ -3012,15 +3012,15 @@
 			"deaths": 8,
 			"recovered": 0,
 			"historic_cases": [
+				274,
 				250,
 				237,
 				225,
-				218,
-				201
+				218
 			],
 			"historic_deaths": [
 				8,
-				7,
+				8,
 				7,
 				7,
 				7
@@ -3035,20 +3035,20 @@
 		},
 		{
 			"name": "Equatorial Guinea",
-			"confirmed_cases": 214,
+			"confirmed_cases": 258,
 			"deaths": 1,
 			"recovered": 0,
 			"historic_cases": [
+				214,
 				84,
 				84,
 				83,
-				79,
 				79
 			],
 			"historic_deaths": [
 				1,
 				1,
-				0,
+				1,
 				0,
 				0
 			],
@@ -3089,21 +3089,21 @@
 		},
 		{
 			"name": "Estonia",
-			"confirmed_cases": 1605,
+			"confirmed_cases": 1635,
 			"deaths": 46,
 			"recovered": 0,
 			"historic_cases": [
+				1605,
 				1592,
 				1559,
 				1552,
-				1535,
-				1528
+				1535
 			],
 			"historic_deaths": [
+				46,
 				45,
 				44,
 				43,
-				40,
 				40
 			],
 			"historic_recovered": [
@@ -3116,15 +3116,15 @@
 		},
 		{
 			"name": "Eswatini",
-			"confirmed_cases": 36,
+			"confirmed_cases": 56,
 			"deaths": 1,
 			"recovered": 0,
 			"historic_cases": [
+				36,
 				31,
 				31,
 				31,
-				24,
-				22
+				24
 			],
 			"historic_deaths": [
 				1,
@@ -3143,15 +3143,15 @@
 		},
 		{
 			"name": "Ethiopia",
-			"confirmed_cases": 117,
+			"confirmed_cases": 122,
 			"deaths": 3,
 			"recovered": 0,
 			"historic_cases": [
+				117,
 				116,
 				116,
 				114,
-				111,
-				108
+				111
 			],
 			"historic_deaths": [
 				3,
@@ -3178,7 +3178,7 @@
 				18,
 				18,
 				18,
-				17
+				18
 			],
 			"historic_deaths": [
 				0,
@@ -3197,22 +3197,22 @@
 		},
 		{
 			"name": "Finland",
-			"confirmed_cases": 4395,
-			"deaths": 177,
+			"confirmed_cases": 4475,
+			"deaths": 186,
 			"recovered": 0,
 			"historic_cases": [
+				4395,
 				4284,
 				4129,
 				4014,
-				3868,
-				3783
+				3868
 			],
 			"historic_deaths": [
+				177,
 				172,
 				149,
 				141,
-				98,
-				94
+				98
 			],
 			"historic_recovered": [
 				0,
@@ -3224,22 +3224,22 @@
 		},
 		{
 			"name": "France",
-			"confirmed_cases": 159952,
-			"deaths": 22279,
+			"confirmed_cases": 161644,
+			"deaths": 22648,
 			"recovered": 0,
 			"historic_cases": [
+				159952,
 				158303,
 				155980,
 				158168,
-				155393,
-				153011
+				155393
 			],
 			"historic_deaths": [
+				22279,
 				21889,
 				21373,
 				20829,
-				20292,
-				19744
+				20292
 			],
 			"historic_recovered": [
 				0,
@@ -3255,18 +3255,18 @@
 					"deaths": 1,
 					"recovered": 0,
 					"historic_cases": [
+						111,
 						107,
 						97,
 						97,
-						97,
-						96
+						97
 					],
 					"historic_deaths": [
 						1,
 						1,
 						1,
 						1,
-						0
+						1
 					],
 					"historic_recovered": [
 						0,
@@ -3284,9 +3284,9 @@
 					"historic_cases": [
 						57,
 						57,
+						57,
 						56,
-						56,
-						55
+						56
 					],
 					"historic_deaths": [
 						0,
@@ -3309,7 +3309,7 @@
 					"deaths": 12,
 					"recovered": 0,
 					"historic_cases": [
-						148,
+						149,
 						148,
 						148,
 						148,
@@ -3319,7 +3319,7 @@
 						12,
 						12,
 						12,
-						8,
+						12,
 						8
 					],
 					"historic_recovered": [
@@ -3332,13 +3332,13 @@
 				},
 				{
 					"name": "Martinique",
-					"confirmed_cases": 170,
+					"confirmed_cases": 175,
 					"deaths": 14,
 					"recovered": 0,
 					"historic_cases": [
+						170,
 						164,
 						164,
-						163,
 						163,
 						163
 					],
@@ -3346,7 +3346,7 @@
 						14,
 						14,
 						14,
-						12,
+						14,
 						12
 					],
 					"historic_recovered": [
@@ -3359,14 +3359,14 @@
 				},
 				{
 					"name": "Mayotte",
-					"confirmed_cases": 354,
+					"confirmed_cases": 380,
 					"deaths": 4,
 					"recovered": 0,
 					"historic_cases": [
+						354,
 						326,
 						326,
 						311,
-						271,
 						271
 					],
 					"historic_deaths": [
@@ -3413,14 +3413,14 @@
 				},
 				{
 					"name": "Reunion",
-					"confirmed_cases": 412,
+					"confirmed_cases": 417,
 					"deaths": 0,
 					"recovered": 0,
 					"historic_cases": [
 						412,
+						412,
 						410,
 						410,
-						408,
 						408
 					],
 					"historic_deaths": [
@@ -3500,12 +3500,12 @@
 					"historic_cases": [
 						38,
 						38,
-						37,
+						38,
 						37,
 						37
 					],
 					"historic_deaths": [
-						2,
+						3,
 						2,
 						2,
 						2,
@@ -3523,19 +3523,19 @@
 		},
 		{
 			"name": "Gabon",
-			"confirmed_cases": 172,
+			"confirmed_cases": 176,
 			"deaths": 3,
 			"recovered": 0,
 			"historic_cases": [
+				172,
 				167,
 				166,
 				156,
-				120,
-				109
+				120
 			],
 			"historic_deaths": [
+				3,
 				2,
-				1,
 				1,
 				1,
 				1
@@ -3577,20 +3577,20 @@
 		},
 		{
 			"name": "Georgia",
-			"confirmed_cases": 444,
+			"confirmed_cases": 456,
 			"deaths": 5,
 			"recovered": 0,
 			"historic_cases": [
+				444,
 				425,
 				416,
 				408,
-				402,
-				394
+				402
 			],
 			"historic_deaths": [
 				5,
 				5,
-				4,
+				5,
 				4,
 				4
 			],
@@ -3604,22 +3604,22 @@
 		},
 		{
 			"name": "Germany",
-			"confirmed_cases": 154999,
-			"deaths": 5760,
+			"confirmed_cases": 156513,
+			"deaths": 5877,
 			"recovered": 0,
 			"historic_cases": [
+				154999,
 				153129,
 				150648,
 				148291,
-				147065,
-				145184
+				147065
 			],
 			"historic_deaths": [
+				5760,
 				5575,
 				5279,
 				5033,
-				4862,
-				4586
+				4862
 			],
 			"historic_recovered": [
 				0,
@@ -3635,14 +3635,14 @@
 			"deaths": 10,
 			"recovered": 0,
 			"historic_cases": [
+				1279,
 				1154,
 				1154,
-				1042,
 				1042,
 				1042
 			],
 			"historic_deaths": [
-				9,
+				10,
 				9,
 				9,
 				9,
@@ -3658,22 +3658,22 @@
 		},
 		{
 			"name": "Greece",
-			"confirmed_cases": 2490,
+			"confirmed_cases": 2506,
 			"deaths": 130,
 			"recovered": 0,
 			"historic_cases": [
+				2490,
 				2463,
 				2408,
 				2401,
-				2245,
-				2235
+				2245
 			],
 			"historic_deaths": [
+				130,
 				125,
 				121,
 				121,
-				116,
-				113
+				116
 			],
 			"historic_recovered": [
 				0,
@@ -3685,13 +3685,13 @@
 		},
 		{
 			"name": "Grenada",
-			"confirmed_cases": 15,
+			"confirmed_cases": 18,
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
 				15,
 				15,
-				14,
+				15,
 				14,
 				14
 			],
@@ -3712,20 +3712,20 @@
 		},
 		{
 			"name": "Guatemala",
-			"confirmed_cases": 430,
-			"deaths": 11,
+			"confirmed_cases": 473,
+			"deaths": 13,
 			"recovered": 0,
 			"historic_cases": [
+				430,
 				384,
 				316,
 				294,
-				289,
-				257
+				289
 			],
 			"historic_deaths": [
 				11,
+				11,
 				8,
-				7,
 				7,
 				7
 			],
@@ -3739,21 +3739,21 @@
 		},
 		{
 			"name": "Guinea",
-			"confirmed_cases": 954,
-			"deaths": 6,
+			"confirmed_cases": 996,
+			"deaths": 7,
 			"recovered": 0,
 			"historic_cases": [
+				954,
 				862,
 				761,
 				688,
-				622,
-				579
+				622
 			],
 			"historic_deaths": [
 				6,
 				6,
 				6,
-				5,
+				6,
 				5
 			],
 			"historic_recovered": [
@@ -3770,7 +3770,7 @@
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
-				50,
+				52,
 				50,
 				50,
 				50,
@@ -3797,10 +3797,10 @@
 			"deaths": 7,
 			"recovered": 0,
 			"historic_cases": [
+				73,
 				70,
 				67,
 				66,
-				65,
 				65
 			],
 			"historic_deaths": [
@@ -3821,19 +3821,19 @@
 		{
 			"name": "Haiti",
 			"confirmed_cases": 72,
-			"deaths": 5,
+			"deaths": 6,
 			"recovered": 0,
 			"historic_cases": [
 				72,
+				72,
 				62,
 				57,
-				57,
-				47
+				57
 			],
 			"historic_deaths": [
 				5,
+				5,
 				4,
-				3,
 				3,
 				3
 			],
@@ -3855,7 +3855,7 @@
 				9,
 				9,
 				9,
-				8
+				9
 			],
 			"historic_deaths": [
 				0,
@@ -3874,19 +3874,19 @@
 		},
 		{
 			"name": "Honduras",
-			"confirmed_cases": 591,
-			"deaths": 55,
+			"confirmed_cases": 627,
+			"deaths": 59,
 			"recovered": 0,
 			"historic_cases": [
+				591,
 				519,
 				510,
 				494,
-				477,
-				472
+				477
 			],
 			"historic_deaths": [
+				55,
 				47,
-				46,
 				46,
 				46,
 				46
@@ -3905,18 +3905,18 @@
 			"deaths": 262,
 			"recovered": 0,
 			"historic_cases": [
+				2443,
 				2284,
 				2168,
 				2098,
-				1984,
-				1916
+				1984
 			],
 			"historic_deaths": [
+				262,
 				239,
 				225,
 				213,
-				199,
-				189
+				199
 			],
 			"historic_recovered": [
 				0,
@@ -3928,22 +3928,22 @@
 		},
 		{
 			"name": "Iceland",
-			"confirmed_cases": 1789,
+			"confirmed_cases": 1790,
 			"deaths": 10,
 			"recovered": 0,
 			"historic_cases": [
 				1789,
+				1789,
 				1785,
 				1778,
-				1773,
-				1771
+				1773
 			],
 			"historic_deaths": [
 				10,
 				10,
 				10,
 				10,
-				9
+				10
 			],
 			"historic_recovered": [
 				0,
@@ -3955,22 +3955,22 @@
 		},
 		{
 			"name": "India",
-			"confirmed_cases": 24530,
-			"deaths": 780,
+			"confirmed_cases": 26283,
+			"deaths": 825,
 			"recovered": 0,
 			"historic_cases": [
+				24530,
 				23077,
 				21370,
 				20080,
-				18539,
-				17615
+				18539
 			],
 			"historic_deaths": [
+				780,
 				721,
 				681,
 				645,
-				592,
-				559
+				592
 			],
 			"historic_recovered": [
 				0,
@@ -3982,22 +3982,22 @@
 		},
 		{
 			"name": "Indonesia",
-			"confirmed_cases": 8211,
-			"deaths": 689,
+			"confirmed_cases": 8607,
+			"deaths": 720,
 			"recovered": 0,
 			"historic_cases": [
+				8211,
 				7775,
 				7418,
 				7135,
-				6760,
-				6575
+				6760
 			],
 			"historic_deaths": [
+				689,
 				647,
 				635,
 				616,
-				590,
-				582
+				590
 			],
 			"historic_recovered": [
 				0,
@@ -4009,22 +4009,22 @@
 		},
 		{
 			"name": "Iran",
-			"confirmed_cases": 88194,
-			"deaths": 5574,
+			"confirmed_cases": 89328,
+			"deaths": 5650,
 			"recovered": 0,
 			"historic_cases": [
+				88194,
 				87026,
 				85996,
 				84802,
-				83505,
-				82211
+				83505
 			],
 			"historic_deaths": [
+				5574,
 				5481,
 				5391,
 				5297,
-				5209,
-				5118
+				5209
 			],
 			"historic_recovered": [
 				0,
@@ -4036,21 +4036,21 @@
 		},
 		{
 			"name": "Iraq",
-			"confirmed_cases": 1708,
+			"confirmed_cases": 1763,
 			"deaths": 86,
 			"recovered": 0,
 			"historic_cases": [
+				1708,
 				1677,
 				1631,
 				1602,
-				1574,
-				1539
+				1574
 			],
 			"historic_deaths": [
+				86,
 				83,
 				83,
 				83,
-				82,
 				82
 			],
 			"historic_recovered": [
@@ -4063,22 +4063,22 @@
 		},
 		{
 			"name": "Ireland",
-			"confirmed_cases": 18184,
-			"deaths": 1014,
+			"confirmed_cases": 18561,
+			"deaths": 1063,
 			"recovered": 0,
 			"historic_cases": [
+				18184,
 				17607,
 				16671,
 				16040,
-				15652,
-				15251
+				15652
 			],
 			"historic_deaths": [
+				1014,
 				794,
 				769,
 				730,
-				687,
-				610
+				687
 			],
 			"historic_recovered": [
 				0,
@@ -4090,22 +4090,22 @@
 		},
 		{
 			"name": "Israel",
-			"confirmed_cases": 15058,
-			"deaths": 194,
+			"confirmed_cases": 15298,
+			"deaths": 199,
 			"recovered": 0,
 			"historic_cases": [
+				15058,
 				14803,
 				14498,
 				13942,
-				13713,
-				13491
+				13713
 			],
 			"historic_deaths": [
+				194,
 				192,
 				189,
 				184,
-				177,
-				172
+				177
 			],
 			"historic_recovered": [
 				0,
@@ -4117,22 +4117,22 @@
 		},
 		{
 			"name": "Italy",
-			"confirmed_cases": 192994,
-			"deaths": 25969,
+			"confirmed_cases": 195351,
+			"deaths": 26384,
 			"recovered": 0,
 			"historic_cases": [
+				192994,
 				189973,
 				187327,
 				183957,
-				181228,
-				178972
+				181228
 			],
 			"historic_deaths": [
+				25969,
 				25549,
 				25085,
 				24648,
-				24114,
-				23660
+				24114
 			],
 			"historic_recovered": [
 				0,
@@ -4144,21 +4144,21 @@
 		},
 		{
 			"name": "Jamaica",
-			"confirmed_cases": 288,
+			"confirmed_cases": 305,
 			"deaths": 7,
 			"recovered": 0,
 			"historic_cases": [
+				288,
 				257,
 				233,
 				223,
-				223,
-				173
+				223
 			],
 			"historic_deaths": [
+				7,
 				6,
 				6,
 				6,
-				5,
 				5
 			],
 			"historic_recovered": [
@@ -4171,21 +4171,21 @@
 		},
 		{
 			"name": "Japan",
-			"confirmed_cases": 12829,
-			"deaths": 345,
+			"confirmed_cases": 13231,
+			"deaths": 360,
 			"recovered": 0,
 			"historic_cases": [
+				12829,
 				12368,
 				11512,
 				11135,
-				10797,
 				10797
 			],
 			"historic_deaths": [
+				345,
 				328,
 				281,
 				263,
-				236,
 				236
 			],
 			"historic_recovered": [
@@ -4198,15 +4198,15 @@
 		},
 		{
 			"name": "Jordan",
-			"confirmed_cases": 441,
+			"confirmed_cases": 444,
 			"deaths": 7,
 			"recovered": 0,
 			"historic_cases": [
+				441,
 				437,
 				435,
 				428,
-				425,
-				417
+				425
 			],
 			"historic_deaths": [
 				7,
@@ -4225,22 +4225,22 @@
 		},
 		{
 			"name": "Kazakhstan",
-			"confirmed_cases": 2482,
+			"confirmed_cases": 2601,
 			"deaths": 25,
 			"recovered": 0,
 			"historic_cases": [
+				2482,
 				2289,
 				2135,
 				1995,
-				1852,
-				1676
+				1852
 			],
 			"historic_deaths": [
+				25,
 				20,
 				19,
 				19,
-				19,
-				17
+				19
 			],
 			"historic_recovered": [
 				0,
@@ -4252,15 +4252,15 @@
 		},
 		{
 			"name": "Kenya",
-			"confirmed_cases": 336,
+			"confirmed_cases": 343,
 			"deaths": 14,
 			"recovered": 0,
 			"historic_cases": [
+				336,
 				320,
 				303,
 				296,
-				281,
-				270
+				281
 			],
 			"historic_deaths": [
 				14,
@@ -4279,22 +4279,22 @@
 		},
 		{
 			"name": "Korea, South",
-			"confirmed_cases": 10718,
-			"deaths": 240,
+			"confirmed_cases": 10728,
+			"deaths": 242,
 			"recovered": 0,
 			"historic_cases": [
+				10718,
 				10708,
 				10694,
 				10683,
-				10674,
-				10661
+				10674
 			],
 			"historic_deaths": [
 				240,
+				240,
 				238,
 				237,
-				236,
-				234
+				236
 			],
 			"historic_recovered": [
 				0,
@@ -4333,22 +4333,22 @@
 		},
 		{
 			"name": "Kuwait",
-			"confirmed_cases": 2614,
-			"deaths": 15,
+			"confirmed_cases": 2892,
+			"deaths": 19,
 			"recovered": 0,
 			"historic_cases": [
+				2614,
 				2399,
 				2248,
 				2080,
-				1995,
-				1915
+				1995
 			],
 			"historic_deaths": [
+				15,
 				14,
 				13,
 				11,
-				9,
-				7
+				9
 			],
 			"historic_recovered": [
 				0,
@@ -4364,18 +4364,18 @@
 			"deaths": 8,
 			"recovered": 0,
 			"historic_cases": [
+				665,
 				631,
 				612,
 				590,
-				568,
-				554
+				568
 			],
 			"historic_deaths": [
 				8,
+				8,
 				7,
 				7,
-				7,
-				5
+				7
 			],
 			"historic_recovered": [
 				0,
@@ -4414,21 +4414,21 @@
 		},
 		{
 			"name": "Latvia",
-			"confirmed_cases": 784,
+			"confirmed_cases": 804,
 			"deaths": 12,
 			"recovered": 0,
 			"historic_cases": [
+				784,
 				778,
 				761,
 				748,
-				739,
-				727
+				739
 			],
 			"historic_deaths": [
+				12,
 				11,
 				11,
 				9,
-				5,
 				5
 			],
 			"historic_recovered": [
@@ -4441,20 +4441,20 @@
 		},
 		{
 			"name": "Lebanon",
-			"confirmed_cases": 696,
-			"deaths": 22,
+			"confirmed_cases": 704,
+			"deaths": 24,
 			"recovered": 0,
 			"historic_cases": [
+				696,
 				688,
 				682,
 				677,
-				677,
-				673
+				677
 			],
 			"historic_deaths": [
 				22,
 				22,
-				21,
+				22,
 				21,
 				21
 			],
@@ -4468,15 +4468,15 @@
 		},
 		{
 			"name": "Liberia",
-			"confirmed_cases": 117,
-			"deaths": 8,
+			"confirmed_cases": 120,
+			"deaths": 11,
 			"recovered": 0,
 			"historic_cases": [
+				117,
 				101,
 				101,
 				101,
-				99,
-				91
+				99
 			],
 			"historic_deaths": [
 				8,
@@ -4499,15 +4499,15 @@
 			"deaths": 2,
 			"recovered": 0,
 			"historic_cases": [
+				61,
 				60,
 				59,
-				51,
 				51,
 				51
 			],
 			"historic_deaths": [
 				2,
-				1,
+				2,
 				1,
 				1,
 				1
@@ -4549,22 +4549,22 @@
 		},
 		{
 			"name": "Lithuania",
-			"confirmed_cases": 1410,
-			"deaths": 40,
+			"confirmed_cases": 1426,
+			"deaths": 41,
 			"recovered": 0,
 			"historic_cases": [
+				1410,
 				1398,
 				1370,
 				1350,
-				1326,
-				1298
+				1326
 			],
 			"historic_deaths": [
 				40,
+				40,
 				38,
 				38,
-				37,
-				35
+				37
 			],
 			"historic_recovered": [
 				0,
@@ -4576,22 +4576,22 @@
 		},
 		{
 			"name": "Luxembourg",
-			"confirmed_cases": 3695,
+			"confirmed_cases": 3711,
 			"deaths": 85,
 			"recovered": 0,
 			"historic_cases": [
+				3695,
 				3665,
 				3654,
 				3618,
-				3558,
-				3550
+				3558
 			],
 			"historic_deaths": [
+				85,
 				83,
 				80,
 				78,
-				75,
-				73
+				75
 			],
 			"historic_recovered": [
 				0,
@@ -4630,11 +4630,11 @@
 		},
 		{
 			"name": "Madagascar",
-			"confirmed_cases": 122,
+			"confirmed_cases": 123,
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
-				121,
+				122,
 				121,
 				121,
 				121,
@@ -4662,15 +4662,15 @@
 			"recovered": 0,
 			"historic_cases": [
 				33,
+				33,
 				23,
 				18,
-				17,
 				17
 			],
 			"historic_deaths": [
 				3,
 				3,
-				2,
+				3,
 				2,
 				2
 			],
@@ -4684,21 +4684,21 @@
 		},
 		{
 			"name": "Malaysia",
-			"confirmed_cases": 5691,
-			"deaths": 96,
+			"confirmed_cases": 5742,
+			"deaths": 98,
 			"recovered": 0,
 			"historic_cases": [
+				5691,
 				5603,
 				5532,
 				5482,
-				5425,
-				5389
+				5425
 			],
 			"historic_deaths": [
+				96,
 				95,
 				93,
 				92,
-				89,
 				89
 			],
 			"historic_recovered": [
@@ -4711,15 +4711,15 @@
 		},
 		{
 			"name": "Maldives",
-			"confirmed_cases": 129,
+			"confirmed_cases": 177,
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
+				129,
 				108,
 				86,
 				83,
-				69,
-				52
+				69
 			],
 			"historic_deaths": [
 				0,
@@ -4738,20 +4738,20 @@
 		},
 		{
 			"name": "Mali",
-			"confirmed_cases": 325,
+			"confirmed_cases": 370,
 			"deaths": 21,
 			"recovered": 0,
 			"historic_cases": [
+				325,
 				309,
 				293,
 				258,
-				246,
-				224
+				246
 			],
 			"historic_deaths": [
 				21,
+				21,
 				17,
-				14,
 				14,
 				14
 			],
@@ -4765,15 +4765,15 @@
 		},
 		{
 			"name": "Malta",
-			"confirmed_cases": 447,
-			"deaths": 3,
+			"confirmed_cases": 448,
+			"deaths": 4,
 			"recovered": 0,
 			"historic_cases": [
+				447,
 				445,
 				444,
 				443,
-				431,
-				427
+				431
 			],
 			"historic_deaths": [
 				3,
@@ -4824,8 +4824,8 @@
 			"recovered": 0,
 			"historic_cases": [
 				331,
+				331,
 				329,
-				328,
 				328,
 				328
 			],
@@ -4846,22 +4846,22 @@
 		},
 		{
 			"name": "Mexico",
-			"confirmed_cases": 11633,
-			"deaths": 1069,
+			"confirmed_cases": 13842,
+			"deaths": 1305,
 			"recovered": 0,
 			"historic_cases": [
 				11633,
+				11633,
 				9501,
 				8772,
-				8261,
-				7497
+				8261
 			],
 			"historic_deaths": [
 				1069,
+				1069,
 				857,
 				712,
-				686,
-				650
+				686
 			],
 			"historic_recovered": [
 				0,
@@ -4873,22 +4873,22 @@
 		},
 		{
 			"name": "Moldova",
-			"confirmed_cases": 3110,
-			"deaths": 84,
+			"confirmed_cases": 3304,
+			"deaths": 94,
 			"recovered": 0,
 			"historic_cases": [
+				3110,
 				2926,
 				2778,
 				2614,
-				2548,
-				2472
+				2548
 			],
 			"historic_deaths": [
+				84,
 				80,
 				75,
 				72,
-				70,
-				67
+				70
 			],
 			"historic_recovered": [
 				0,
@@ -4912,7 +4912,7 @@
 			],
 			"historic_deaths": [
 				4,
-				3,
+				4,
 				3,
 				3,
 				3
@@ -4931,11 +4931,11 @@
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
+				37,
 				36,
 				35,
 				34,
-				33,
-				32
+				33
 			],
 			"historic_deaths": [
 				0,
@@ -4954,18 +4954,18 @@
 		},
 		{
 			"name": "Montenegro",
-			"confirmed_cases": 319,
+			"confirmed_cases": 320,
 			"deaths": 6,
 			"recovered": 0,
 			"historic_cases": [
+				319,
 				316,
 				315,
 				313,
-				312,
-				308
+				312
 			],
 			"historic_deaths": [
-				5,
+				6,
 				5,
 				5,
 				5,
@@ -4981,22 +4981,22 @@
 		},
 		{
 			"name": "Morocco",
-			"confirmed_cases": 3758,
-			"deaths": 158,
+			"confirmed_cases": 3897,
+			"deaths": 159,
 			"recovered": 0,
 			"historic_cases": [
+				3758,
 				3568,
 				3446,
 				3209,
-				3046,
-				2855
+				3046
 			],
 			"historic_deaths": [
+				158,
 				155,
 				149,
 				145,
-				143,
-				141
+				143
 			],
 			"historic_recovered": [
 				0,
@@ -5008,13 +5008,13 @@
 		},
 		{
 			"name": "Mozambique",
-			"confirmed_cases": 65,
+			"confirmed_cases": 70,
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
+				65,
 				46,
 				41,
-				39,
 				39,
 				39
 			],
@@ -5066,10 +5066,10 @@
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
+				49,
 				48,
 				45,
 				43,
-				31,
 				31
 			],
 			"historic_deaths": [
@@ -5089,22 +5089,22 @@
 		},
 		{
 			"name": "Netherlands",
-			"confirmed_cases": 36729,
-			"deaths": 4304,
+			"confirmed_cases": 37384,
+			"deaths": 4424,
 			"recovered": 0,
 			"historic_cases": [
+				36729,
 				35921,
 				35032,
 				34317,
-				33588,
-				32838
+				33588
 			],
 			"historic_deaths": [
+				4304,
 				4192,
 				4068,
 				3929,
-				3764,
-				3697
+				3764
 			],
 			"historic_recovered": [
 				0,
@@ -5174,21 +5174,21 @@
 		},
 		{
 			"name": "New Zealand",
-			"confirmed_cases": 1461,
+			"confirmed_cases": 1470,
 			"deaths": 18,
 			"recovered": 0,
 			"historic_cases": [
+				1461,
 				1456,
 				1451,
 				1445,
-				1440,
-				1431
+				1440
 			],
 			"historic_deaths": [
+				18,
 				17,
 				14,
 				13,
-				12,
 				12
 			],
 			"historic_recovered": [
@@ -5201,19 +5201,19 @@
 		},
 		{
 			"name": "Nicaragua",
-			"confirmed_cases": 11,
+			"confirmed_cases": 12,
 			"deaths": 3,
 			"recovered": 0,
 			"historic_cases": [
 				11,
-				10,
+				11,
 				10,
 				10,
 				10
 			],
 			"historic_deaths": [
 				3,
-				2,
+				3,
 				2,
 				2,
 				2
@@ -5228,20 +5228,20 @@
 		},
 		{
 			"name": "Niger",
-			"confirmed_cases": 681,
-			"deaths": 24,
+			"confirmed_cases": 684,
+			"deaths": 27,
 			"recovered": 0,
 			"historic_cases": [
+				681,
 				671,
 				662,
 				657,
-				648,
 				648
 			],
 			"historic_deaths": [
 				24,
+				24,
 				22,
-				20,
 				20,
 				20
 			],
@@ -5255,22 +5255,22 @@
 		},
 		{
 			"name": "Nigeria",
-			"confirmed_cases": 1095,
-			"deaths": 32,
+			"confirmed_cases": 1182,
+			"deaths": 35,
 			"recovered": 0,
 			"historic_cases": [
+				1095,
 				981,
 				873,
 				665,
-				665,
-				627
+				665
 			],
 			"historic_deaths": [
+				32,
 				31,
 				28,
 				22,
-				22,
-				21
+				22
 			],
 			"historic_recovered": [
 				0,
@@ -5282,22 +5282,22 @@
 		},
 		{
 			"name": "North Macedonia",
-			"confirmed_cases": 1326,
-			"deaths": 57,
+			"confirmed_cases": 1367,
+			"deaths": 59,
 			"recovered": 0,
 			"historic_cases": [
+				1326,
 				1300,
 				1259,
 				1231,
-				1225,
-				1207
+				1225
 			],
 			"historic_deaths": [
+				57,
 				56,
 				56,
 				55,
-				54,
-				51
+				54
 			],
 			"historic_recovered": [
 				0,
@@ -5309,22 +5309,22 @@
 		},
 		{
 			"name": "Norway",
-			"confirmed_cases": 7463,
-			"deaths": 199,
+			"confirmed_cases": 7499,
+			"deaths": 201,
 			"recovered": 0,
 			"historic_cases": [
+				7463,
 				7401,
 				7338,
 				7191,
-				7156,
-				7078
+				7156
 			],
 			"historic_deaths": [
+				199,
 				194,
 				187,
 				182,
-				181,
-				165
+				181
 			],
 			"historic_recovered": [
 				0,
@@ -5336,21 +5336,21 @@
 		},
 		{
 			"name": "Oman",
-			"confirmed_cases": 1790,
+			"confirmed_cases": 1905,
 			"deaths": 10,
 			"recovered": 0,
 			"historic_cases": [
+				1790,
 				1716,
 				1614,
 				1508,
-				1410,
-				1266
+				1410
 			],
 			"historic_deaths": [
+				10,
 				9,
 				8,
 				8,
-				7,
 				7
 			],
 			"historic_recovered": [
@@ -5363,22 +5363,22 @@
 		},
 		{
 			"name": "Pakistan",
-			"confirmed_cases": 11940,
-			"deaths": 253,
+			"confirmed_cases": 12723,
+			"deaths": 269,
 			"recovered": 0,
 			"historic_cases": [
+				11940,
 				11155,
 				10076,
 				9565,
-				8418,
-				8348
+				8418
 			],
 			"historic_deaths": [
+				253,
 				237,
 				212,
 				201,
-				176,
-				168
+				176
 			],
 			"historic_recovered": [
 				0,
@@ -5390,22 +5390,22 @@
 		},
 		{
 			"name": "Panama",
-			"confirmed_cases": 5338,
-			"deaths": 154,
+			"confirmed_cases": 5538,
+			"deaths": 159,
 			"recovered": 0,
 			"historic_cases": [
+				5338,
 				5166,
 				4821,
 				4658,
-				4467,
-				4273
+				4467
 			],
 			"historic_deaths": [
+				154,
 				146,
 				141,
 				136,
-				126,
-				120
+				126
 			],
 			"historic_recovered": [
 				0,
@@ -5423,7 +5423,7 @@
 			"historic_cases": [
 				8,
 				8,
-				7,
+				8,
 				7,
 				7
 			],
@@ -5444,20 +5444,20 @@
 		},
 		{
 			"name": "Paraguay",
-			"confirmed_cases": 223,
+			"confirmed_cases": 228,
 			"deaths": 9,
 			"recovered": 0,
 			"historic_cases": [
+				223,
 				213,
 				213,
 				208,
-				208,
-				206
+				208
 			],
 			"historic_deaths": [
 				9,
 				9,
-				8,
+				9,
 				8,
 				8
 			],
@@ -5471,22 +5471,22 @@
 		},
 		{
 			"name": "Peru",
-			"confirmed_cases": 21648,
-			"deaths": 634,
+			"confirmed_cases": 25331,
+			"deaths": 700,
 			"recovered": 0,
 			"historic_cases": [
+				21648,
 				20914,
 				19250,
 				17837,
-				16325,
-				15628
+				16325
 			],
 			"historic_deaths": [
+				634,
 				572,
 				530,
 				484,
-				445,
-				400
+				445
 			],
 			"historic_recovered": [
 				0,
@@ -5498,22 +5498,22 @@
 		},
 		{
 			"name": "Philippines",
-			"confirmed_cases": 7192,
-			"deaths": 477,
+			"confirmed_cases": 7294,
+			"deaths": 494,
 			"recovered": 0,
 			"historic_cases": [
+				7192,
 				6981,
 				6710,
 				6599,
-				6459,
-				6259
+				6459
 			],
 			"historic_deaths": [
+				477,
 				462,
 				446,
 				437,
-				428,
-				409
+				428
 			],
 			"historic_recovered": [
 				0,
@@ -5525,22 +5525,22 @@
 		},
 		{
 			"name": "Poland",
-			"confirmed_cases": 10892,
-			"deaths": 494,
+			"confirmed_cases": 11273,
+			"deaths": 524,
 			"recovered": 0,
 			"historic_cases": [
+				10892,
 				10511,
 				10169,
 				9856,
-				9593,
-				9287
+				9593
 			],
 			"historic_deaths": [
+				494,
 				454,
 				426,
 				401,
-				380,
-				360
+				380
 			],
 			"historic_recovered": [
 				0,
@@ -5552,22 +5552,22 @@
 		},
 		{
 			"name": "Portugal",
-			"confirmed_cases": 22797,
-			"deaths": 854,
+			"confirmed_cases": 23392,
+			"deaths": 880,
 			"recovered": 0,
 			"historic_cases": [
+				22797,
 				22353,
 				21982,
 				21379,
-				20863,
-				20206
+				20863
 			],
 			"historic_deaths": [
+				854,
 				820,
 				785,
 				762,
-				735,
-				714
+				735
 			],
 			"historic_recovered": [
 				0,
@@ -5579,22 +5579,22 @@
 		},
 		{
 			"name": "Qatar",
-			"confirmed_cases": 8525,
+			"confirmed_cases": 9358,
 			"deaths": 10,
 			"recovered": 0,
 			"historic_cases": [
+				8525,
 				7764,
 				7141,
 				6533,
-				6015,
-				5448
+				6015
 			],
 			"historic_deaths": [
 				10,
 				10,
+				10,
 				9,
-				9,
-				8
+				9
 			],
 			"historic_recovered": [
 				0,
@@ -5606,22 +5606,22 @@
 		},
 		{
 			"name": "Romania",
-			"confirmed_cases": 10417,
-			"deaths": 567,
+			"confirmed_cases": 10635,
+			"deaths": 601,
 			"recovered": 0,
 			"historic_cases": [
+				10417,
 				10096,
 				9710,
 				9242,
-				8936,
-				8746
+				8936
 			],
 			"historic_deaths": [
+				567,
 				545,
 				524,
 				498,
-				478,
-				451
+				478
 			],
 			"historic_recovered": [
 				0,
@@ -5633,22 +5633,22 @@
 		},
 		{
 			"name": "Russia",
-			"confirmed_cases": 68622,
-			"deaths": 615,
+			"confirmed_cases": 74588,
+			"deaths": 681,
 			"recovered": 0,
 			"historic_cases": [
+				68622,
 				62773,
 				57999,
 				52763,
-				47121,
-				42853
+				47121
 			],
 			"historic_deaths": [
+				615,
 				555,
 				513,
 				456,
-				405,
-				361
+				405
 			],
 			"historic_recovered": [
 				0,
@@ -5660,14 +5660,14 @@
 		},
 		{
 			"name": "Rwanda",
-			"confirmed_cases": 176,
+			"confirmed_cases": 183,
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
+				176,
 				154,
 				153,
 				150,
-				147,
 				147
 			],
 			"historic_deaths": [
@@ -5695,7 +5695,7 @@
 				15,
 				15,
 				15,
-				14
+				15
 			],
 			"historic_deaths": [
 				0,
@@ -5745,9 +5745,9 @@
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
+				14,
 				13,
 				13,
-				12,
 				12,
 				12
 			],
@@ -5772,17 +5772,17 @@
 			"deaths": 40,
 			"recovered": 0,
 			"historic_cases": [
+				513,
 				501,
 				488,
 				476,
-				462,
-				461
+				462
 			],
 			"historic_deaths": [
 				40,
 				40,
 				40,
-				39,
+				40,
 				39
 			],
 			"historic_recovered": [
@@ -5822,22 +5822,22 @@
 		},
 		{
 			"name": "Saudi Arabia",
-			"confirmed_cases": 15102,
-			"deaths": 127,
+			"confirmed_cases": 16299,
+			"deaths": 136,
 			"recovered": 0,
 			"historic_cases": [
+				15102,
 				13930,
 				12772,
 				11631,
-				10484,
-				9362
+				10484
 			],
 			"historic_deaths": [
+				127,
 				121,
 				114,
 				109,
-				103,
-				97
+				103
 			],
 			"historic_recovered": [
 				0,
@@ -5849,22 +5849,22 @@
 		},
 		{
 			"name": "Senegal",
-			"confirmed_cases": 545,
+			"confirmed_cases": 614,
 			"deaths": 7,
 			"recovered": 0,
 			"historic_cases": [
+				545,
 				479,
 				442,
 				412,
-				377,
-				367
+				377
 			],
 			"historic_deaths": [
+				7,
 				6,
 				6,
 				5,
-				5,
-				3
+				5
 			],
 			"historic_recovered": [
 				0,
@@ -5884,14 +5884,14 @@
 				6630,
 				6630,
 				6630,
-				6318
+				6630
 			],
 			"historic_deaths": [
 				125,
 				125,
 				125,
 				125,
-				122
+				125
 			],
 			"historic_recovered": [
 				0,
@@ -5934,15 +5934,15 @@
 			"deaths": 2,
 			"recovered": 0,
 			"historic_cases": [
+				82,
 				64,
 				61,
 				50,
-				43,
-				35
+				43
 			],
 			"historic_deaths": [
+				2,
 				1,
-				0,
 				0,
 				0,
 				0
@@ -5957,20 +5957,20 @@
 		},
 		{
 			"name": "Singapore",
-			"confirmed_cases": 12075,
+			"confirmed_cases": 12693,
 			"deaths": 12,
 			"recovered": 0,
 			"historic_cases": [
+				12075,
 				11178,
 				10141,
 				9125,
-				8014,
-				6588
+				8014
 			],
 			"historic_deaths": [
 				12,
 				12,
-				11,
+				12,
 				11,
 				11
 			],
@@ -5984,22 +5984,22 @@
 		},
 		{
 			"name": "Slovakia",
-			"confirmed_cases": 1360,
+			"confirmed_cases": 1373,
 			"deaths": 17,
 			"recovered": 0,
 			"historic_cases": [
+				1360,
 				1325,
 				1244,
 				1199,
-				1173,
-				1161
+				1173
 			],
 			"historic_deaths": [
+				17,
 				15,
 				14,
 				14,
-				13,
-				12
+				13
 			],
 			"historic_recovered": [
 				0,
@@ -6011,22 +6011,22 @@
 		},
 		{
 			"name": "Slovenia",
-			"confirmed_cases": 1373,
-			"deaths": 80,
+			"confirmed_cases": 1388,
+			"deaths": 81,
 			"recovered": 0,
 			"historic_cases": [
+				1373,
 				1366,
 				1353,
 				1344,
-				1335,
-				1330
+				1335
 			],
 			"historic_deaths": [
+				80,
 				79,
 				79,
 				77,
-				77,
-				74
+				77
 			],
 			"historic_recovered": [
 				0,
@@ -6038,22 +6038,22 @@
 		},
 		{
 			"name": "Somalia",
-			"confirmed_cases": 328,
-			"deaths": 16,
+			"confirmed_cases": 390,
+			"deaths": 18,
 			"recovered": 0,
 			"historic_cases": [
 				328,
+				328,
 				286,
 				286,
-				237,
-				164
+				237
 			],
 			"historic_deaths": [
 				16,
+				16,
 				8,
 				8,
-				8,
-				7
+				8
 			],
 			"historic_recovered": [
 				0,
@@ -6065,22 +6065,22 @@
 		},
 		{
 			"name": "South Africa",
-			"confirmed_cases": 4220,
-			"deaths": 79,
+			"confirmed_cases": 4361,
+			"deaths": 86,
 			"recovered": 0,
 			"historic_cases": [
+				4220,
 				3953,
 				3635,
 				3465,
-				3300,
-				3158
+				3300
 			],
 			"historic_deaths": [
+				79,
 				75,
 				65,
 				58,
-				58,
-				54
+				58
 			],
 			"historic_recovered": [
 				0,
@@ -6097,7 +6097,7 @@
 			"recovered": 0,
 			"historic_cases": [
 				5,
-				4,
+				5,
 				4,
 				4,
 				4
@@ -6119,22 +6119,22 @@
 		},
 		{
 			"name": "Spain",
-			"confirmed_cases": 219764,
-			"deaths": 22524,
+			"confirmed_cases": 223759,
+			"deaths": 22902,
 			"recovered": 0,
 			"historic_cases": [
+				219764,
 				213024,
 				208389,
 				204178,
-				200210,
-				198674
+				200210
 			],
 			"historic_deaths": [
+				22524,
 				22157,
 				21717,
 				21282,
-				20852,
-				20453
+				20852
 			],
 			"historic_recovered": [
 				0,
@@ -6146,15 +6146,15 @@
 		},
 		{
 			"name": "Sri Lanka",
-			"confirmed_cases": 420,
+			"confirmed_cases": 460,
 			"deaths": 7,
 			"recovered": 0,
 			"historic_cases": [
+				420,
 				368,
 				330,
 				310,
-				304,
-				271
+				304
 			],
 			"historic_deaths": [
 				7,
@@ -6173,22 +6173,22 @@
 		},
 		{
 			"name": "Sudan",
-			"confirmed_cases": 174,
-			"deaths": 16,
+			"confirmed_cases": 213,
+			"deaths": 17,
 			"recovered": 0,
 			"historic_cases": [
 				174,
+				174,
 				140,
 				107,
-				107,
-				66
+				107
 			],
 			"historic_deaths": [
 				16,
+				16,
 				13,
 				12,
-				12,
-				10
+				12
 			],
 			"historic_recovered": [
 				0,
@@ -6227,22 +6227,22 @@
 		},
 		{
 			"name": "Sweden",
-			"confirmed_cases": 17567,
-			"deaths": 2152,
+			"confirmed_cases": 18177,
+			"deaths": 2192,
 			"recovered": 0,
 			"historic_cases": [
+				17567,
 				16755,
 				16004,
 				15322,
-				14777,
-				14385
+				14777
 			],
 			"historic_deaths": [
+				2152,
 				2021,
 				1937,
 				1765,
-				1580,
-				1540
+				1580
 			],
 			"historic_recovered": [
 				0,
@@ -6254,22 +6254,22 @@
 		},
 		{
 			"name": "Switzerland",
-			"confirmed_cases": 28677,
-			"deaths": 1589,
+			"confirmed_cases": 28894,
+			"deaths": 1599,
 			"recovered": 0,
 			"historic_cases": [
+				28677,
 				28496,
 				28268,
 				28063,
-				27944,
-				27740
+				27944
 			],
 			"historic_deaths": [
+				1589,
 				1549,
 				1509,
 				1478,
-				1429,
-				1393
+				1429
 			],
 			"historic_recovered": [
 				0,
@@ -6288,7 +6288,7 @@
 				42,
 				42,
 				42,
-				39,
+				42,
 				39
 			],
 			"historic_deaths": [
@@ -6308,15 +6308,15 @@
 		},
 		{
 			"name": "Taiwan*",
-			"confirmed_cases": 428,
+			"confirmed_cases": 429,
 			"deaths": 6,
 			"recovered": 0,
 			"historic_cases": [
+				428,
 				427,
 				426,
 				425,
-				422,
-				420
+				422
 			],
 			"historic_deaths": [
 				6,
@@ -6339,18 +6339,18 @@
 			"deaths": 10,
 			"recovered": 0,
 			"historic_cases": [
+				299,
 				284,
 				284,
 				254,
-				254,
-				170
+				254
 			],
 			"historic_deaths": [
 				10,
 				10,
 				10,
 				10,
-				7
+				10
 			],
 			"historic_recovered": [
 				0,
@@ -6366,17 +6366,17 @@
 			"deaths": 51,
 			"recovered": 0,
 			"historic_cases": [
+				2907,
 				2839,
 				2826,
 				2811,
-				2792,
-				2765
+				2792
 			],
 			"historic_deaths": [
+				51,
 				50,
 				49,
 				48,
-				47,
 				47
 			],
 			"historic_recovered": [
@@ -6393,11 +6393,11 @@
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
+				24,
 				23,
 				23,
 				23,
-				22,
-				19
+				22
 			],
 			"historic_deaths": [
 				0,
@@ -6416,14 +6416,14 @@
 		},
 		{
 			"name": "Togo",
-			"confirmed_cases": 90,
+			"confirmed_cases": 96,
 			"deaths": 6,
 			"recovered": 0,
 			"historic_cases": [
+				90,
 				88,
 				88,
 				86,
-				84,
 				84
 			],
 			"historic_deaths": [
@@ -6431,7 +6431,7 @@
 				6,
 				6,
 				6,
-				5
+				6
 			],
 			"historic_recovered": [
 				0,
@@ -6450,7 +6450,7 @@
 				115,
 				115,
 				115,
-				114,
+				115,
 				114
 			],
 			"historic_deaths": [
@@ -6470,15 +6470,15 @@
 		},
 		{
 			"name": "Tunisia",
-			"confirmed_cases": 922,
+			"confirmed_cases": 939,
 			"deaths": 38,
 			"recovered": 0,
 			"historic_cases": [
+				922,
 				918,
 				909,
 				884,
-				884,
-				879
+				884
 			],
 			"historic_deaths": [
 				38,
@@ -6497,22 +6497,22 @@
 		},
 		{
 			"name": "Turkey",
-			"confirmed_cases": 104912,
-			"deaths": 2600,
+			"confirmed_cases": 107773,
+			"deaths": 2706,
 			"recovered": 0,
 			"historic_cases": [
+				104912,
 				101790,
 				98674,
 				95591,
-				90980,
-				86306
+				90980
 			],
 			"historic_deaths": [
+				2600,
 				2491,
 				2376,
 				2259,
-				2140,
-				2017
+				2140
 			],
 			"historic_recovered": [
 				0,
@@ -6524,22 +6524,22 @@
 		},
 		{
 			"name": "US",
-			"confirmed_cases": 905358,
-			"deaths": 51949,
+			"confirmed_cases": 938154,
+			"deaths": 53755,
 			"recovered": 0,
 			"historic_cases": [
+				905358,
 				869170,
 				840351,
 				811865,
-				784326,
-				758809
+				784326
 			],
 			"historic_deaths": [
+				51949,
 				49954,
 				46622,
 				44444,
-				42094,
-				40661
+				42094
 			],
 			"historic_recovered": [
 				0,
@@ -6555,11 +6555,11 @@
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
+				75,
 				74,
 				63,
 				61,
-				56,
-				55
+				56
 			],
 			"historic_deaths": [
 				0,
@@ -6582,18 +6582,18 @@
 			"deaths": 201,
 			"recovered": 0,
 			"historic_cases": [
+				7647,
 				7170,
 				6592,
 				6125,
-				5710,
-				5449
+				5710
 			],
 			"historic_deaths": [
+				201,
 				187,
 				174,
 				161,
-				151,
-				141
+				151
 			],
 			"historic_recovered": [
 				0,
@@ -6605,22 +6605,22 @@
 		},
 		{
 			"name": "United Arab Emirates",
-			"confirmed_cases": 9281,
-			"deaths": 64,
+			"confirmed_cases": 9813,
+			"deaths": 71,
 			"recovered": 0,
 			"historic_cases": [
+				9281,
 				8756,
 				8238,
 				7755,
-				7265,
-				6781
+				7265
 			],
 			"historic_deaths": [
+				64,
 				56,
 				52,
 				46,
-				43,
-				41
+				43
 			],
 			"historic_recovered": [
 				0,
@@ -6632,22 +6632,22 @@
 		},
 		{
 			"name": "United Kingdom",
-			"confirmed_cases": 144640,
-			"deaths": 19567,
+			"confirmed_cases": 149569,
+			"deaths": 20381,
 			"recovered": 0,
 			"historic_cases": [
+				144640,
 				139246,
 				134638,
 				130172,
-				125856,
-				121172
+				125856
 			],
 			"historic_deaths": [
+				19567,
 				18791,
 				18151,
 				17378,
-				16550,
-				16095
+				16550
 			],
 			"historic_recovered": [
 				0,
@@ -6686,13 +6686,13 @@
 				},
 				{
 					"name": "Bermuda",
-					"confirmed_cases": 99,
+					"confirmed_cases": 109,
 					"deaths": 5,
 					"recovered": 0,
 					"historic_cases": [
 						99,
 						99,
-						86,
+						99,
 						86,
 						86
 					],
@@ -6713,7 +6713,7 @@
 				},
 				{
 					"name": "British Virgin Islands",
-					"confirmed_cases": 5,
+					"confirmed_cases": 6,
 					"deaths": 1,
 					"recovered": 0,
 					"historic_cases": [
@@ -6721,7 +6721,7 @@
 						5,
 						5,
 						5,
-						4
+						5
 					],
 					"historic_deaths": [
 						1,
@@ -6744,11 +6744,11 @@
 					"deaths": 1,
 					"recovered": 0,
 					"historic_cases": [
+						70,
 						66,
 						66,
 						66,
-						66,
-						61
+						66
 					],
 					"historic_deaths": [
 						1,
@@ -6767,22 +6767,22 @@
 				},
 				{
 					"name": "Channel Islands",
-					"confirmed_cases": 523,
-					"deaths": 34,
+					"confirmed_cases": 525,
+					"deaths": 35,
 					"recovered": 0,
 					"historic_cases": [
+						523,
 						521,
 						498,
 						496,
-						488,
 						488
 					],
 					"historic_deaths": [
+						34,
 						29,
 						28,
 						24,
-						24,
-						21
+						24
 					],
 					"historic_recovered": [
 						0,
@@ -6798,8 +6798,8 @@
 					"deaths": 0,
 					"recovered": 0,
 					"historic_cases": [
+						13,
 						12,
-						11,
 						11,
 						11,
 						11
@@ -6821,12 +6821,12 @@
 				},
 				{
 					"name": "Gibraltar",
-					"confirmed_cases": 133,
+					"confirmed_cases": 136,
 					"deaths": 0,
 					"recovered": 0,
 					"historic_cases": [
 						133,
-						132,
+						133,
 						132,
 						132,
 						132
@@ -6852,18 +6852,18 @@
 					"deaths": 18,
 					"recovered": 0,
 					"historic_cases": [
+						308,
 						307,
 						307,
 						307,
-						300,
-						298
+						300
 					],
 					"historic_deaths": [
+						18,
 						16,
 						15,
 						9,
-						9,
-						6
+						9
 					],
 					"historic_recovered": [
 						0,
@@ -6886,7 +6886,7 @@
 						11
 					],
 					"historic_deaths": [
-						0,
+						1,
 						0,
 						0,
 						0,
@@ -6931,21 +6931,21 @@
 		},
 		{
 			"name": "Uruguay",
-			"confirmed_cases": 563,
-			"deaths": 12,
+			"confirmed_cases": 596,
+			"deaths": 14,
 			"recovered": 0,
 			"historic_cases": [
+				563,
 				557,
 				543,
 				535,
-				535,
-				517
+				535
 			],
 			"historic_deaths": [
 				12,
 				12,
+				12,
 				11,
-				10,
 				10
 			],
 			"historic_recovered": [
@@ -6958,21 +6958,21 @@
 		},
 		{
 			"name": "Uzbekistan",
-			"confirmed_cases": 1804,
+			"confirmed_cases": 1862,
 			"deaths": 8,
 			"recovered": 0,
 			"historic_cases": [
+				1804,
 				1758,
 				1716,
 				1678,
-				1627,
-				1565
+				1627
 			],
 			"historic_deaths": [
+				8,
 				7,
 				7,
 				6,
-				5,
 				5
 			],
 			"historic_recovered": [
@@ -6985,21 +6985,21 @@
 		},
 		{
 			"name": "Venezuela",
-			"confirmed_cases": 318,
+			"confirmed_cases": 323,
 			"deaths": 10,
 			"recovered": 0,
 			"historic_cases": [
+				318,
 				311,
 				288,
 				285,
-				256,
 				256
 			],
 			"historic_deaths": [
 				10,
 				10,
 				10,
-				9,
+				10,
 				9
 			],
 			"historic_recovered": [
@@ -7016,7 +7016,7 @@
 			"deaths": 0,
 			"recovered": 0,
 			"historic_cases": [
-				268,
+				270,
 				268,
 				268,
 				268,
@@ -7039,21 +7039,21 @@
 		},
 		{
 			"name": "West Bank and Gaza",
-			"confirmed_cases": 484,
-			"deaths": 4,
+			"confirmed_cases": 342,
+			"deaths": 2,
 			"recovered": 0,
 			"historic_cases": [
+				484,
 				480,
 				474,
 				466,
-				449,
-				437
+				449
 			],
 			"historic_deaths": [
 				4,
 				4,
 				4,
-				3,
+				4,
 				3
 			],
 			"historic_recovered": [
@@ -7124,11 +7124,11 @@
 			"deaths": 3,
 			"recovered": 0,
 			"historic_cases": [
+				84,
 				76,
 				74,
 				70,
-				65,
-				61
+				65
 			],
 			"historic_deaths": [
 				3,
@@ -7147,20 +7147,20 @@
 		},
 		{
 			"name": "Zimbabwe",
-			"confirmed_cases": 29,
+			"confirmed_cases": 31,
 			"deaths": 4,
 			"recovered": 0,
 			"historic_cases": [
+				29,
 				28,
 				28,
 				28,
-				25,
 				25
 			],
 			"historic_deaths": [
 				4,
 				4,
-				3,
+				4,
 				3,
 				3
 			],
